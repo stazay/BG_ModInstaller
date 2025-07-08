@@ -2,10 +2,10 @@ Ever found it annoying to install all your Baldurs Gate Enhanced Edition mods ma
 This will help you automate that process for the future!
 
 1. Simply download all of your desired mods into a source folder.
-2. Ensure they are all in .zip file format;
+2. Ensure they are all in .zip file format.
 3. If any desired mod is a lone .exe file (eg. from Gibberlings3);
-i. Run them and extract them into a folder.
-ii. Next, place the contents of that file into another .zip file.
+- Run them and extract them into a folder.
+- Next, place the contents of that file into another .zip file.
 4. Update mod_config.json to include the required parameters, like in the example provided.
 5. The first component installed for your very first mod should include the language parameter, eg. 2 for English. 
 6. Run the code in ModInstaller.py.
