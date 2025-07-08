@@ -7,7 +7,7 @@ This will help you automate that process for the future!
 - Run them and extract them into a folder.
 - Next, place the contents of that file into another .zip file.
 4. Update mod_config.json to include the required parameters, like in the example provided.
-5. The first component installed for your very first mod should include the language parameter, eg. 2 for English. 
+5. The first component installed for your very first mod should include the language parameter, eg. "2" for English. 
 6. Run the code in ModInstaller.py.
 7. A file should be created in your destination folder, named: "install_mods.bat".
 8. Run this file as administrator.
