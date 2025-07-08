@@ -1,0 +1,14 @@
+{
+  "source_folder": "Insert\\ModLocations\\FilePath\\Here",
+  "destination_folder": "Insert\\GameDirectory\\FilePath\\Here",
+  "mod_components": {
+    "EEex": {
+      "setup_file": "setup-EEex.exe",
+      "inputs": ["2", "N", "A", "I", "Q"],
+      "description": "EEex"
+    }
+  },
+  "install_order": [
+    "EEex"
+  ]
+}
