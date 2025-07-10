@@ -10,7 +10,7 @@ It’s very simple to use:
 3. Update `mod_config.json` with the required parameters, like in the example provided. You should set:
    - `source_folder`
    - `destination_folder`
-   - `mod_components` - `inputs` is an array of answers you would put when manually running a `setup_mod.exe` file.
+   - `mod_components` - `inputs` is an array of answers you would put when manually installing a mod.
    - `install_order`
 4. **Important:** The first component installed for your very first mod should include the language parameter, e.g. `"2"` for English.
 5. Run the script: `ModInstaller.py`.  
