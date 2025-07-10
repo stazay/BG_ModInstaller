@@ -1,4 +1,4 @@
-# BGEE Mod Installer Tool
+# 🔧 BGEE Mod Installer Tool
 
 Did you ever find it tedious to install all your *Baldur’s Gate: Enhanced Edition* mods manually?  
 This tool helps you automate that process for the future!
