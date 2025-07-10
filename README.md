@@ -12,7 +12,7 @@ It’s very simple to use:
    - `destination_folder`
    - `mod_components` - `inputs` is an array of answers you would put when manually installing a mod.
    - `install_order`
-4. **Important:** The first component installed for your very first mod should include the language parameter, e.g. `"2"` for English.
+4. **Important:** The first input installed for your very first mod should include the language parameter, e.g. `"2"` for English.
 5. Run the script: `ModInstaller.py`.  
 6. A batch file will be created in your destination folder, named `install_mods.bat`.  
 7. Run this file **as administrator** (required so that all mod prompts run in the same command line window).
