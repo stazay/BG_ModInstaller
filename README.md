@@ -35,5 +35,5 @@ There’s no need to install anything — the Python script just runs `7z.exe` b
 
 If you prefer, you can:
 - Download **7-Zip** yourself directly from [7-zip.org](https://www.7-zip.org/), and then replace the `7z.exe` and `7z.dll` in the `7z` folder with your own copy.
-- Or, if you don’t want to use `7-Zip` at all, you can manually extract `.exe` mod files to `.zip` yourself.  
+- Or, if you don’t want to use 7-Zip at all, you can manually extract `.exe` mod files to `.zip` yourself.  
   In that case, the tool will still work — it will extract the `.zip` archives using Python’s built-in zip support.
