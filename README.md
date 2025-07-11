@@ -1,7 +1,7 @@
 # 🔧 BGEE Mod Installer Tool
 
 Did you ever find it tedious to install all your *Baldur’s Gate: Enhanced Edition* mods manually?  
-This tool helps you automate that process for the future!
+This script helps you automate that process for the future, using Python!
 
 It’s very simple to use:
 
