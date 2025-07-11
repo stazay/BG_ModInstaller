@@ -88,7 +88,7 @@ class SimpleModExtractor:
             ], capture_output=True, text=True)
 
             if result.returncode == 0:
-                print(f"✓ Extracted {os.path.basename(exe_path)} with 7-Zip")
+                print(f"✓ Extracted {os.path.basename(exe_path)} (with 7-Zip)")
                 return True
             else:
                 print(f'✗ 7-Zip extraction failed: {result.stderr}')
