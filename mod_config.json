@@ -6,9 +6,15 @@
       "setup_file": "setup-EEex.exe",
       "inputs": ["2", "N", "A", "I", "Q"],
       "description": "EEex"
+    },
+    "Unfinished_Business": {
+      "setup_file": "setup-bg1ub.exe",
+      "inputs": ["0", "N", "I", "I"],
+      "description": "Unfinished Business"
     }
   },
   "install_order": [
-    "EEex"
+    "EEex",
+    "Unfinished_Business"
   ]
 }
