@@ -50,7 +50,7 @@ class SimpleModExtractor:
 
                 if has_setup:
                     zip_ref.extractall(self.destination_folder)
-                    print(f"✓ Extracted {os.path.basename(zip_path)} (direct contents)")
+                    print(f"Success: Extracted {os.path.basename(zip_path)} (direct contents)")
                 else:
                     top_level = set(name.split('/')[0] for name in namelist if '/' in name)
                     if len(top_level) == 1:
@@ -64,18 +64,18 @@ class SimpleModExtractor:
                                 os.makedirs(os.path.dirname(target_path), exist_ok=True)
                                 with open(target_path, 'wb') as f:
                                     f.write(zip_ref.read(member))
-                        print(f"✓ Extracted {os.path.basename(zip_path)} (from folder '{top_folder}/')")
+                        print(f"Success: Extracted {os.path.basename(zip_path)} (from folder '{top_folder}/')")
                     else:
                         zip_ref.extractall(self.destination_folder)
-                        print(f"! Extracted {os.path.basename(zip_path)} (fallback — structure unknown)")
+                        print(f"Note: Extracted {os.path.basename(zip_path)} (fallback — structure unknown)")
             return True
         except Exception as e:
-            print(f'✗ Error extracting {os.path.basename(zip_path)}: {str(e)}')
+            print(f'Error: Extracting {os.path.basename(zip_path)}: {str(e)}')
             return False
 
     def extract_exe_with_7zip(self, exe_path):
         if not os.path.exists(self.seven_zip):
-            print("⚠️  7z.exe not found! Skipping .exe extraction.")
+            print("Warning: 7z.exe not found! Skipping .exe extraction.")
             return False
 
         try:
@@ -88,14 +88,14 @@ class SimpleModExtractor:
             ], capture_output=True, text=True)
 
             if result.returncode == 0:
-                print(f"✓ Extracted {os.path.basename(exe_path)} (with 7-Zip)")
+                print(f"Success: Extracted {os.path.basename(exe_path)} (with 7-Zip)")
                 return True
             else:
-                print(f'✗ 7-Zip extraction failed: {result.stderr}')
+                print(f'Error: 7-Zip extraction failed: {result.stderr}')
                 return False
 
         except Exception as e:
-            print(f'✗ Error running 7-Zip: {str(e)}')
+            print(f'Error: Running 7-Zip: {str(e)}')
             return False
 
     def list_setup_files(self):
