@@ -64,7 +64,7 @@ class SimpleModExtractor:
                                 os.makedirs(os.path.dirname(target_path), exist_ok=True)
                                 with open(target_path, 'wb') as f:
                                     f.write(zip_ref.read(member))
-                        print(f"Success: Extracted {os.path.basename(zip_path)} (from folder '{top_folder}/')")
+                        print(f"Success: Extracted {os.path.basename(zip_path)} (from subfolder '{top_folder}/')")
                     else:
                         zip_ref.extractall(self.destination_folder)
                         print(f"Note: Extracted {os.path.basename(zip_path)} (fallback — structure unknown)")
