@@ -13,192 +13,306 @@
     "EEex": {
       "setup_file": "setup-EEex.exe",
       "inputs": ["2", "N", "A", "I", "N", "I", "I", "N", "N", "N", "I"],
-      "description": "EEex"
+      "description": "EEex",
+      "active": "",
+      "download_url": "",
+      "version": ""
     },
     "Stone_Of_Askavar": {
       "setup_file": "setup-soa.exe",
       "inputs": ["0", "N", "1"],
-      "description": "Stone of Askavar"
+      "description": "Stone of Askavar",
+      "active": "",
+      "download_url": "",
+      "version": ""
     },
     "FG_Kits": {
       "setup_file": "setup-FG_Kits.exe",
       "inputs": ["A", "N", "I", "I", "N", "N", "N", "N", "I", "Q"],
-      "description": "FG Kits"
+      "description": "FG Kits",
+      "active": "",
+      "download_url": "",
+      "version": ""
     },
     "BG1_NPC_Project": {
       "setup_file": "setup-bg1npc.exe",
       "inputs": ["0", "N", "Y", "Y", "Y", "Y", "I", "I", "Q"],
-      "description": "BG1 NPC Project"
+      "description": "BG1 NPC Project",
+      "active": "",
+      "download_url": "",
+      "version": ""
     },
     "Indira": {
       "setup_file": "setup-IndiNPC.exe",
       "inputs": ["0", "N", "I", "Q"],
-      "description": "Indira NPC"
+      "description": "Indira NPC",
+      "active": "",
+      "download_url": "",
+      "version": ""
     },
     "Gavin": {
       "setup_file": "setup-gavin.exe",
       "inputs": ["0", "N", "Y", "I", "2", "N", "1", "Q"],
-      "description": "Gavin NPC"
+      "description": "Gavin NPC",
+      "active": "",
+      "download_url": "",
+      "version": ""
     },
     "Isra": {
       "setup_file": "setup-isra.exe",
       "inputs": ["0", "N", "I", "I"],
-      "description": "Isra NPC"
+      "description": "Isra NPC",
+      "active": "",
+      "download_url": "",
+      "version": ""
     },
     "Drake": {
       "setup_file": "setup-drake.exe",
       "inputs": ["I", "1", "N", "I"],
-      "description": "Drake NPC"
+      "description": "Drake NPC",
+      "active": "",
+      "download_url": "",
+      "version": ""
     },
     "Sirene": {
       "setup_file": "setup-sirene.exe",
       "inputs": ["I", "2", "N"],
-      "description": "Sirene NPC"
+      "description": "Sirene NPC",
+      "active": "",
+      "download_url": "",
+      "version": ""
     },
     "Aura": {
       "setup_file": "setup-aura_BG1.exe",
       "inputs": ["I", "4", "1", "I"],
-      "description": "Aura NPC"
+      "description": "Aura NPC",
+      "active": "",
+      "download_url": "",
+      "version": ""
     },
     "Emily": {
       "setup_file": "setup-emily.exe",
       "inputs": ["I", "N"],
-      "description": "Emily NPC"
+      "description": "Emily NPC",
+      "active": "",
+      "download_url": "",
+      "version": ""
     },
     "Kale": {
       "setup_file": "setup-kale.exe",
       "inputs": ["I", "2", "Q"],
-      "description": "Kale NPC"
+      "description": "Kale NPC",
+      "active": "",
+      "download_url": "",
+      "version": ""
     },
     "Helga": {
       "setup_file": "setup-helga.exe",
       "inputs": ["I", "2", "2", "1"],
-      "description": "Helga NPC"
+      "description": "Helga NPC",
+      "active": "",
+      "download_url": "",
+      "version": ""
     },
     "Recorder": {
       "setup_file": "setup-recorder.exe",
       "inputs": ["I", "N"],
-      "description": "Recorder NPC"
+      "description": "Recorder NPC",
+      "active": "",
+      "download_url": "",
+      "version": ""
     },
     "Vienxay": {
       "setup_file": "setup-vienxay.exe",
       "inputs": ["I", "3", "2"],
-      "description": "Vienxay NPC"
+      "description": "Vienxay NPC",
+      "active": "",
+      "download_url": "",
+      "version": ""
     },
     "Walahnan": {
       "setup_file": "setup-walahnan.exe",
       "inputs": ["N", "I"],
-      "description": "Walahnan NPC"
+      "description": "Walahnan NPC",
+      "active": "",
+      "download_url": "",
+      "version": ""
     },
     "Bristlelick": {
       "setup_file": "setup-bristlelick.exe",
       "inputs": ["N", "I"],
-      "description": "Bristlelick NPC"
+      "description": "Bristlelick NPC",
+      "active": "",
+      "download_url": "",
+      "version": ""
     },
     "Ophysia": {
       "setup_file": "setup-ophysiaBG1.exe",
       "inputs": ["N", "I", "I"],
-      "description": "Ophysia NPC"
+      "description": "Ophysia NPC",
+      "active": "",
+      "download_url": "",
+      "version": ""
     },
     "Arkanis_SOD": {
       "setup_file": "setup-ArkanisSoD.exe",
       "inputs": ["N", "I"],
-      "description": "Arkanis SOD NPC"
+      "description": "Arkanis SOD NPC",
+      "active": "",
+      "download_url": "",
+      "version": ""
     },
     "Eldoth_SOD": {
       "setup_file": "Setup-EldothSoD.exe",
       "inputs": ["N", "I"],
-      "description": "Eldoth SOD NPC"
+      "description": "Eldoth SOD NPC",
+      "active": "",
+      "download_url": "",
+      "version": ""
     },
     "Faldorn_SOD": {
       "setup_file": "Setup-FaldornSoD.exe",
       "inputs": ["N", "I"],
-      "description": "Faldorn SOD NPC"
+      "description": "Faldorn SOD NPC",
+      "active": "",
+      "download_url": "",
+      "version": ""
     },
     "Mother_Lost_SOD": {
       "setup_file": "setup-MotherSoD.exe",
       "inputs": ["N", "I"],
-      "description": "Mother Lost SOD NPC"
+      "description": "Mother Lost SOD NPC",
+      "active": "",
+      "download_url": "",
+      "version": ""
     },
     "Glams_NPC_Pack": {
       "setup_file": "setup-GlamNPCPack.exe",
       "inputs": ["I"],
-      "description": "Glam's NPC Pack"
+      "description": "Glam's NPC Pack",
+      "active": "",
+      "download_url": "",
+      "version": ""
     },
     "Neera_Expansion": {
       "setup_file": "setup-neera.exe",
       "inputs": ["0", "N", "Y", "N", "I", "3"],
-      "description": "Neera Expansion"
+      "description": "Neera Expansion",
+      "active": "",
+      "download_url": "",
+      "version": ""
     },
     "Ajantis_Expansion": {
       "setup_file": "Setup-AjantisBG1.exe",
       "inputs": ["0", "N", "I", "I"],
-      "description": "Ajantis Expansion"
+      "description": "Ajantis Expansion",
+      "active": "",
+      "download_url": "",
+      "version": ""
     },
     "Unfinished_Business": {
       "setup_file": "Setup-bg1ub.exe",
       "inputs": ["0", "N", "I", "I"],
-      "description": "Unfinished Business"
+      "description": "Unfinished Business",
+      "active": "",
+      "download_url": "",
+      "version": ""
     },
     "Sirines_Call": {
       "setup_file": "Setup-sirinescall.exe",
       "inputs": ["0", "N", "I", "I"],
-      "description": "Sirines Call"
+      "description": "Sirines Call",
+      "active": "",
+      "download_url": "",
+      "version": ""
     },
     "Ascalons_Questpack": {
       "setup_file": "setup-ac_quest.exe",
       "inputs": ["1", "I"],
-      "description": "Ascalon's Questpack"
+      "description": "Ascalon's Questpack",
+      "active": "",
+      "download_url": "",
+      "version": ""
     },
     "Shades_Of_The_Sword_Coast": {
       "setup_file": "setup-SotSC.exe",
       "inputs": ["0", "N", "I"],
-      "description": "Shades of the Sword Coast"
+      "description": "Shades of the Sword Coast",
+      "active": "",
+      "download_url": "",
+      "version": ""
     },
     "Black_Hearts": {
       "setup_file": "setup-Blackhearts.exe",
       "inputs": ["0", "I"],
-      "description": "Black Hearts"
+      "description": "Black Hearts",
+      "active": "",
+      "download_url": "",
+      "version": ""
     },
     "Loretakers": {
       "setup_file": "setup-Loretakers.exe",
       "inputs": ["0", "N", "I"],
-      "description": "Loretakers"
+      "description": "Loretakers",
+      "active": "",
+      "download_url": "",
+      "version": ""
     },
     "Forgotten_Armament": {
       "setup_file": "setup-forgotten-armament.exe",
       "inputs": ["0", "N", "N", "I", "I", "Q"],
-      "description": "Forgotten Armament"
+      "description": "Forgotten Armament",
+      "active": "",
+      "download_url": "",
+      "version": ""
     },
     "Geomantic_Sorcerer": {
       "setup_file": "setup-druidsor.exe",
       "inputs": ["0", "N", "I"],
-      "description": "Geomantic Sorcerer Kit"
+      "description": "Geomantic Sorcerer Kit",
+      "active": "",
+      "download_url": "",
+      "version": ""
     },
     "Spiritwalker": {
       "setup_file": "Setup-Spiritwalker.exe",
       "inputs": ["0", "N", "I"],
-      "description": "Spiritwalker Kit"
+      "description": "Spiritwalker Kit",
+      "active": "",
+      "download_url": "",
+      "version": ""
     },
     "Stormcaller": {
       "setup_file": "Setup-StormCaller.exe",
       "inputs": ["N", "I"],
-      "description": "Stormcaller Kit"
+      "description": "Stormcaller Kit",
+      "active": "",
+      "download_url": "",
+      "version": ""
     },
     "Will_Of_The_Wisps": {
       "setup_file": "Setup-willowisp.exe",
       "inputs": ["N", "A", "I"],
-      "description": "Will Of The Wisps Kit + NPC"
+      "description": "Will Of The Wisps Kit + NPC",
+      "active": "",
+      "download_url": "",
+      "version": ""
     },
     "Deratiseurs_Kitpack": {
       "setup_file": "Setup-Derats_kits.exe",
       "inputs": ["1", "A", "N", "N", "I", "Q"],
-      "description": "Preacher of Flames Kit"
+      "description": "Preacher of Flames Kit",
+      "active": "",
+      "download_url": "",
+      "version": ""
     },
     "Warlock": {
       "setup_file": "Setup-C0Warlock.exe",
       "inputs": ["I", "1"],
-      "description": "Warlock Kit"
+      "description": "Warlock Kit",
+      "active": "",
+      "download_url": "",
+      "version": ""
     },
     "Bardic_Wonders1": {
       "setup_file": "Setup-BardicWonders.exe",
@@ -220,12 +334,18 @@
         "I",
         "Q"
       ],
-      "description": "Bardic Wonders Kits"
+      "description": "Bardic Wonders Kits",
+      "active": "",
+      "download_url": "",
+      "version": ""
     },
     "Shadow_Magic": {
       "setup_file": "setup-shadowadept.exe",
       "inputs": ["I", "2", "I"],
-      "description": "Shadow Magic Kits"
+      "description": "Shadow Magic Kits",
+      "active": "",
+      "download_url": "",
+      "version": ""
     },
     "IHateUndead": {
       "setup_file": "Setup-IHateUndead.exe",
@@ -245,7 +365,10 @@
         "I",
         "I"
       ],
-      "description": "I Hate Undead Kits"
+      "description": "I Hate Undead Kits",
+      "active": "",
+      "download_url": "",
+      "version": ""
     },
     "Might_And_Guile": {
       "setup_file": "setup-might_and_guile.exe",
@@ -275,7 +398,10 @@
         "I",
         "Q"
       ],
-      "description": "Might And Guile Kits"
+      "description": "Might And Guile Kits",
+      "active": "",
+      "download_url": "",
+      "version": ""
     },
     "Morpheus562_Kitpack": {
       "setup_file": "setup-morpheus562-s-kitpack.exe",
@@ -296,7 +422,10 @@
         "I",
         "Q"
       ],
-      "description": "Morpheus562's Kits"
+      "description": "Morpheus562's Kits",
+      "active": "",
+      "download_url": "",
+      "version": ""
     },
     "Expanded_Classes": {
       "setup_file": "setup-ExpandedClasses.exe",
@@ -328,7 +457,10 @@
         "N",
         "I"
       ],
-      "description": "Expanded Classes Kits"
+      "description": "Expanded Classes Kits",
+      "active": "",
+      "download_url": "",
+      "version": ""
     },
     "Artisans_Kitpack_Kits1": {
       "setup_file": "Setup-ArtisansKitpack.exe",
@@ -386,12 +518,18 @@
         "I",
         "Q"
       ],
-      "description": "Artisan's Kitpack Kits"
+      "description": "Artisan's Kitpack Kits",
+      "active": "",
+      "download_url": "",
+      "version": ""
     },
     "Artisans_Kitpack_NPC": {
       "setup_file": "Setup-ArtisansKitpack_npc.exe",
       "inputs": ["A", "I", "2", "I", "I", "N", "N", "1", "I", "N"],
-      "description": "Artisan's Kitpack NPCs"
+      "description": "Artisan's Kitpack NPCs",
+      "active": "",
+      "download_url": "",
+      "version": ""
     },
     "Tome_And_Blood": {
       "setup_file": "setup-TomeAndBlood.exe",
@@ -411,17 +549,26 @@
         "I",
         "Q"
       ],
-      "description": "Tome And Blood Kits"
+      "description": "Tome And Blood Kits",
+      "active": "",
+      "download_url": "",
+      "version": ""
     },
     "Rogue_Rebalancing": {
       "setup_file": "setup-rr.exe",
       "inputs": ["0", "N", "I", "I", "I", "I", "I", "I", "N", "I"],
-      "description": "Rogue Rebalancing"
+      "description": "Rogue Rebalancing",
+      "active": "",
+      "download_url": "",
+      "version": ""
     },
     "Bardic_Wonders2": {
       "setup_file": "Setup-BardicWonders.exe",
       "inputs": ["Y", "N", "N", "I", "Q"],
-      "description": "Bardic Wonders Kits"
+      "description": "Bardic Wonders Kits",
+      "active": "",
+      "download_url": "",
+      "version": ""
     },
     "Artisans_Kitpack_Kits2": {
       "setup_file": "Setup-ArtisansKitpack.exe",
@@ -440,17 +587,26 @@
         "I",
         "Q"
       ],
-      "description": "Artisan's Kitpack Kits"
+      "description": "Artisan's Kitpack Kits",
+      "active": "",
+      "download_url": "",
+      "version": ""
     },
     "Artisans_Kitpack_Tweaks": {
       "setup_file": "Setup-ArtisansKitpack_tweak.exe",
       "inputs": ["I", "N", "I"],
-      "description": "Artisan's Kitpack Tweaks"
+      "description": "Artisan's Kitpack Tweaks",
+      "active": "",
+      "download_url": "",
+      "version": ""
     },
     "Improved_Shamanic_Dance": {
       "setup_file": "setup-A7#ImprovedShamanicDance.exe",
       "inputs": ["0", "N", "I", "I", "I", "I"],
-      "description": "Improved Shamanic Dance"
+      "description": "Improved Shamanic Dance",
+      "active": "",
+      "download_url": "",
+      "version": ""
     },
     "House_Rules": {
       "setup_file": "Setup-HouseTweaks.exe",
@@ -484,7 +640,10 @@
         "N",
         "I"
       ],
-      "description": "House Rules"
+      "description": "House Rules",
+      "active": "",
+      "download_url": "",
+      "version": ""
     },
     "Tweaks_Anthology": {
       "setup_file": "setup-cdtweaks.exe",
@@ -583,7 +742,6 @@
         "N",
         "N",
         "N",
-        "N",
         "2",
         "N",
         "I",
@@ -625,7 +783,10 @@
         "2",
         "Q"
       ],
-      "description": "Tweaks Anthology"
+      "description": "Tweaks Anthology",
+      "active": "",
+      "download_url": "",
+      "version": ""
     },
     "Talents_Of_Faerun": {
       "setup_file": "setup-dw_talents.exe",
@@ -667,7 +828,10 @@
         "N",
         "I"
       ],
-      "description": "Talents Of Faerun"
+      "description": "Talents Of Faerun",
+      "active": "",
+      "download_url": "",
+      "version": ""
     },
     "Sword_Coast_Stratagems": {
       "setup_file": "setup-stratagems.exe",
@@ -726,10 +890,12 @@
         "I",
         "I",
         "I",
-        "I",
         "I"
       ],
-      "description": "Sword Coast Stratagems"
+      "description": "Sword Coast Stratagems",
+      "active": "",
+      "download_url": "",
+      "version": ""
     },
     "ATweaks": {
       "setup_file": "setup-atweaks.exe",
@@ -772,17 +938,26 @@
         "I",
         "I"
       ],
-      "description": "ATweaks"
+      "description": "ATweaks",
+      "active": "",
+      "download_url": "",
+      "version": ""
     },
     "Defjam": {
       "setup_file": "setup-xpmod.exe",
       "inputs": ["0", "N", "2", "Q"],
-      "description": "Defjam"
+      "description": "Defjam",
+      "active": "",
+      "download_url": "",
+      "version": ""
     },
     "PPE": {
       "setup_file": "setup-PPE.exe",
       "inputs": ["0", "Y", "I", "1", "I", "Q"],
-      "description": "Portraits, Portraits, Everywhere!"
+      "description": "Portraits, Portraits, Everywhere!",
+      "active": "",
+      "download_url": "",
+      "version": ""
     }
   },
   "install_order": [
