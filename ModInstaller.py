@@ -147,17 +147,20 @@ class SimpleModExtractor:
             with open(input_path, 'w') as f:
                 f.write('\n'.join(inputs))
 
+            output_file = f'{mod_name}_output.txt'
+
             batch_content.extend([
                 f'echo Installing {mod_name}: {description}',
-                f'echo Running {setup_file} with input from {input_filename}...',
-                '',
-                f'{setup_file} < {input_filename}',
-                '',
-                f'if %errorlevel% equ 0 (',
+                f'{setup_file} < {input_filename} > {output_file} 2>&1',
+                f'set MOD_ERR=%errorlevel%',
+                f'if %MOD_ERR% equ 0 (',
                 f'    echo [%date% %time%] SUCCESS: {mod_name} ^({description}^) >> {log_file}',
                 f') else (',
-                f'    echo [%date% %time%] FAILED:  {mod_name} ^({description}^) -- errorlevel %errorlevel% >> {log_file}',
+                f'    echo [%date% %time%] FAILED:  {mod_name} ^({description}^) >> {log_file}',
                 f')',
+                f'findstr /I /C:"Installing component" /C:"[SUCCESS]" /C:"[ERROR]" {output_file} >> {log_file}',
+                f'echo. >> {log_file}',
+                f'del {output_file}',
                 f'echo Finished installing {mod_name}',
                 'echo.',
                 ''
