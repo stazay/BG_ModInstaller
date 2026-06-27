@@ -1,0 +1,46 @@
+{
+  "DLCMerger": {
+    "input_notes": [
+      "Choose your language: → 0 (English)",
+      "Please choose the language in which you wish to play the game: → 2 (English)",
+      "Would you like to display the readme? → N (No)",
+      "Install Component [Merge DLC into game]? → 3 (Merge all available DLCs)"
+    ]
+  },
+  "EEex": {
+    "input_notes": [
+      "Would you like to display the readme? → N (No)",
+      "Component selection - [1] Minimal, [2] Full, [3] Experimental, [S]kip all, or [A]sk about each: → A (Ask about each one)",
+      "Would you like to display the components from [Optional]? → Y (Yes)",
+      "Would you like to display the components from [Experimental | WARNING: Only install if you understand the risks]? → N (No)",
+      "Install Component [EEex]? → I (Install)",
+      "Install Component [Enable effect menu module: LShift-on-hover to view spells affecting creature]? → I (Install)",
+      "Install Component [Enable empty container module: Highlight empty containers in gray instead of cyan]? → I (Install)",
+      "Install Component [Enable hotkey module: Edit override/B3Hotkey.lua to create advanced spell hotkeys]? → N (Not Install)",
+      "Install Component [Enable scale module: Customizable UI scaling factor]? → N (Not Install)",
+      "Install Component [Enable time step module: Advance 1 game tick on keypress]? → N (Not Install)",
+      "Install Component [Enable timer module: Visual indicators for modal actions, contingencies, and spell/item cooldowns]? → I (Install)"
+    ]
+  },
+  "Stone_Of_Askavar": {
+    "input_notes": [
+      "Choose your language: → 0 (English)",
+      "Would you like to display the readme? → N (No)",
+      "Install Component [The Stone of Askavar for TotSC/Tutu/BGT/BGEE]? → 1 (Default version: areas connected by travel triggers)"
+    ]
+  },
+  "FG_Kits": {
+    "input_notes": [
+      "What should be done with all components that are NOT YET installed? → A (Ask about each one)",
+      "Install Component [Install Forest Warden - Fighter kit]? → N (Not Install)",
+      "Install Component [Install Halfling Marshal - Fighter kit]? → I (Install)",
+      "Install Component [Install Cataphract - Ranger kit]? → I (Install)",
+      "Install Component [Install Artillier - Ranger kit]? → N (Not Install)",
+      "Install Component [Install Defender - Druid kit]? → N (Not Install)",
+      "Install Component [Install Invader - Druid kit]? → N (Not Install)",
+      "Install Component [Install Trickster - Thief kit]? → N (Not Install)",
+      "Install Component [Install Novice - Thief kit]? → I (Install)",
+      "Install Component [Install Agent - Thief kit]? → Q (Quit)"
+    ]
+  }
+}
