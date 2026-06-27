@@ -118,6 +118,8 @@ class SimpleModExtractor:
 
     def create_simple_batch(self, output_file='install_mods.bat'):
         batch_path = os.path.join(self.destination_folder, output_file)
+        log_file = 'install_log.txt'
+
         batch_content = [
             '@echo off',
             'echo BG Enhanced Edition Mod Installer',
@@ -125,6 +127,8 @@ class SimpleModExtractor:
             f'cd /d "{self.destination_folder}"',
             'echo Changed to mod directory',
             'echo.',
+            f'echo Install started: %date% %time% > {log_file}',
+            f'echo ===================================== >> {log_file}',
             ''
         ]
 
@@ -149,12 +153,19 @@ class SimpleModExtractor:
                 '',
                 f'{setup_file} < {input_filename}',
                 '',
+                f'if %errorlevel% equ 0 (',
+                f'    echo [%date% %time%] SUCCESS: {mod_name} ^({description}^) >> {log_file}',
+                f') else (',
+                f'    echo [%date% %time%] FAILED:  {mod_name} ^({description}^) -- errorlevel %errorlevel% >> {log_file}',
+                f')',
                 f'echo Finished installing {mod_name}',
                 'echo.',
                 ''
             ])
 
         batch_content.extend([
+            f'echo ===================================== >> {log_file}',
+            f'echo Install finished: %date% %time% >> {log_file}',
             'echo All installations complete!',
             'pause'
         ])
