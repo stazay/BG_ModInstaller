@@ -40,21 +40,35 @@
     },
     "BG1_NPC_Project": {
       "setup_file": "setup-bg1npc.exe",
-      "inputs": ["0", "N", "Y", "Y", "Y", "Y", "I", "I", "Q"],
+      "inputs": [
+        "0",
+        "N",
+        "Y",
+        "N",
+        "Y",
+        "Y",
+        "I",
+        "I",
+        "I",
+        "N",
+        "N",
+        "1",
+        "Q"
+      ],
       "description": "BG1 NPC Project",
-      "active": "",
-      "download_url": "",
-      "version": "",
-      "latest_update": ""
+      "active": "false",
+      "download_url": "https://www.gibberlings3.net/mods/npcs/bg1npc/",
+      "version": "32",
+      "latest_update": "02-08-2023"
     },
     "Indira": {
       "setup_file": "setup-IndiNPC.exe",
       "inputs": ["0", "N", "I", "Q"],
       "description": "Indira NPC",
-      "active": "",
-      "download_url": "",
-      "version": "",
-      "latest_update": ""
+      "active": "false",
+      "download_url": "https://github.com/Pocket-Plane-Group/Indira_NPC/releases",
+      "version": "15.1",
+      "latest_update": "01-22-2024"
     },
     "Gavin": {
       "setup_file": "setup-gavin.exe",
