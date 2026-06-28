@@ -182,5 +182,17 @@
       "Would you like to display the readme? [Y]es, [N]o → N (No)",
       "Install Component [Eldoth for the Siege of Dragonspear]? [I]nstall, [N]ot Install, [Q]uit → I (Install)"
     ]
+  },
+  "Faldorn_SOD": {
+    "input_notes": [
+      "Would you like to display the readme? [Y]es, [N]o → N (No)",
+      "Install Component [Faldorn for Siege of Dragonspear]? [I]nstall, [N]ot Install, [Q]uit → I (Install)"
+    ]
+  },
+  "Mother_Lost_SOD": {
+    "input_notes": [
+      "Would you like to display the readme? [Y]es, [N]o → N (No)",
+      "Install Component [Mother Lost for Siege of Dragonspear]? [I]nstall, [N]ot Install, [Q]uit → I (Install)"
+    ]
   }
 }
