@@ -128,10 +128,10 @@
       "setup_file": "setup-emily.exe",
       "inputs": ["I", "N"],
       "description": "Emily NPC",
-      "active": "",
-      "download_url": "",
-      "version": "",
-      "latest_update": ""
+      "active": "false",
+      "download_url": "https://github.com/Skitia/Emily-BG1/releases",
+      "version": "1.65",
+      "latest_update": "28-10-2021"
     },
     "Kale": {
       "setup_file": "setup-kale.exe",

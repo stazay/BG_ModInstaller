@@ -116,5 +116,11 @@
       "Install Component [Choose a class for Aura:]? [1] Artificer (Thief), [2] Illusionist / Artificer (Mage / Thief), [3] Priestess / Artificer (Cleric / Thief), [4] Artificer (Bard, EEex required) → 4 (Artificer Bard, EEex required)",
       "Install Component [Choose an alternate portrait for Aura:]? [N]o, [Q]uit, [1] Alternate 1 (Omar Diaz), [2] Alternate 2 (Pantalion), [3] Alternate 3 (The Artisan), [4] Original BG1 Default (Lava Del'Vortel), [5] Second BG1 Default (Lava Del'Vortel), [6] Original BG2 Default (The Artisan) → 5 (Second BG1 Default, Lava Del'Vortel)"
     ]
+  },
+  "Emily": {
+    "input_notes": [
+      "Install Component [Emily NPC for BG1EE]? [I]nstall, [N]ot Install, [Q]uit → I (Install)",
+      "Install Component [Choose whether or not to have Emily's custom soundtrack play during timed talks.]? [N]o, [Q]uit, [1] Emily's Music → N (No)"
+    ]
   }
 }
