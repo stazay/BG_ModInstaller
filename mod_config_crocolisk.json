@@ -162,12 +162,12 @@
     },
     "Vienxay": {
       "setup_file": "setup-vienxay.exe",
-      "inputs": ["I", "3", "2"],
+      "inputs": ["I", "1", "2"],
       "description": "Vienxay NPC",
       "active": "true",
       "download_url": "https://forums.beamdog.com/discussion/74701/v1-66-vienxay-a-elven-shadowmage-npc-for-bg-ee-sod-and-eet",
-      "version": "",
-      "latest_update": ""
+      "version": "1.67",
+      "latest_update": "04-11-2024"
     },
     "Walahnan": {
       "setup_file": "setup-walahnan.exe",
