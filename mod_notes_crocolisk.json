@@ -162,5 +162,12 @@
       "Would you like to display the readme? [Y]es, [N]o → N (No)",
       "Install Component [Bristlelick—the gnoll companion for BGEE]? [I]nstall, [N]ot Install, [Q]uit → I (Install)"
     ]
+  },
+  "Ophysia": {
+    "input_notes": [
+      "Would you like to display the readme? [Y]es, [N]o → N (No)",
+      "Install Component [Ophysia, a Skald companion for BG:EE and SoD]? [I]nstall, [N]ot Install, [Q]uit → I (Install)",
+      "Install Component [Optional: Give Ophysia interjections throughout BG1 content?]? [I]nstall, [N]ot Install, [Q]uit → I (Install)"
+    ]
   }
 }

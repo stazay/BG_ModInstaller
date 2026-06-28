@@ -191,10 +191,10 @@
       "setup_file": "setup-ophysiaBG1.exe",
       "inputs": ["N", "I", "I"],
       "description": "Ophysia NPC",
-      "active": "",
-      "download_url": "",
-      "version": "",
-      "latest_update": ""
+      "active": "true",
+      "download_url": "https://github.com/Llewren/OphysiaBG1/releases",
+      "version": "1.4.1",
+      "latest_update": "26-01-2026"
     },
     "Arkanis_SOD": {
       "setup_file": "setup-ArkanisSoD.exe",
