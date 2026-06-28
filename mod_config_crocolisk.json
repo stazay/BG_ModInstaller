@@ -209,10 +209,10 @@
       "setup_file": "Setup-EldothSoD.exe",
       "inputs": ["N", "I"],
       "description": "Eldoth SOD NPC",
-      "active": "",
-      "download_url": "",
-      "version": "",
-      "latest_update": ""
+      "active": "true",
+      "download_url": "https://downloads.weaselmods.net/download/eldoth-for-sod/",
+      "version": "1.1",
+      "latest_update": "13-05-2026"
     },
     "Faldorn_SOD": {
       "setup_file": "Setup-FaldornSoD.exe",

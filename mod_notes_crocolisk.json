@@ -176,5 +176,11 @@
       "Would you like to display the readme? [Y]es, [N]o → N (No)",
       "Install Component [Sir Arkanis for Siege of Dragonspear]? [I]nstall, [N]ot Install, [Q]uit → I (Install)"
     ]
+  },
+  "Eldoth_SOD": {
+    "input_notes": [
+      "Would you like to display the readme? [Y]es, [N]o → N (No)",
+      "Install Component [Eldoth for the Siege of Dragonspear]? [I]nstall, [N]ot Install, [Q]uit → I (Install)"
+    ]
   }
 }
