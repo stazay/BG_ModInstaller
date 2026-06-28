@@ -101,5 +101,12 @@
       "Install Component [OPTIONAL: Install Universal Crossbows, Crossbow Proficiency for Drake?]? → N (Not Install)",
       "Install Component [OPTIONAL: Original Soundset by BillyYank]? → I (Install)"
     ]
+  },
+  "Sirene": {
+    "input_notes": [
+      "Install Component [Sirene NPC for Baldur's Gate: Enhanced Edition]? → I (Install)",
+      "Install Component [Choose an alternate portrait for Sirene?]? [N]o, [Q]uit, or choose 1-5 → 2 (Original BG1 Default, sporeboy)",
+      "Install Component [Choose an alternate class for Sirene?]? [N]o, [Q]uit, [1] True Paladin, [2] Cavalier, [3] Inquisitor, [4] Undead Hunter → N (No)"
+    ]
   }
 }

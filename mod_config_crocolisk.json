@@ -110,10 +110,10 @@
       "setup_file": "setup-sirene.exe",
       "inputs": ["I", "2", "N"],
       "description": "Sirene NPC",
-      "active": "",
-      "download_url": "",
-      "version": "",
-      "latest_update": ""
+      "active": "false",
+      "download_url": "https://github.com/TheArtisanBG/Sirene-BG1/releases",
+      "version": "3.1",
+      "latest_update": "26-04-2024"
     },
     "Aura": {
       "setup_file": "setup-aura_BG1.exe",
