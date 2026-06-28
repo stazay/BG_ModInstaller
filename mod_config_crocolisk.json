@@ -79,6 +79,15 @@
       "version": "15",
       "latest_update": "21-01-2025"
     },
+    "Valerie": {
+      "setup_file": "setup-valerie.exe",
+      "inputs": ["0", "N", "I"],
+      "description": "Valerie NPC",
+      "active": "false",
+      "download_url": "https://github.com/SpellholdStudios/Valerie_NPC/releases",
+      "version": "1.2",
+      "latest_update": "18-08-2020"
+    },
     "Isra": {
       "setup_file": "setup-isra.exe",
       "inputs": ["0", "N", "I", "I"],
@@ -1043,6 +1052,7 @@
     "BG1_NPC_Project",
     "Indira",
     "Gavin",
+    "Valerie",
     "Isra",
     "Drake",
     "Sirene",
