@@ -250,15 +250,6 @@
       "version": "7",
       "latest_update": "27-04-2025"
     },
-    "Neera_Expansion": {
-      "setup_file": "setup-neera.exe",
-      "inputs": ["0", "N", "Y", "N", "I", "3"],
-      "description": "Neera Expansion",
-      "active": "",
-      "download_url": "",
-      "version": "",
-      "latest_update": ""
-    },
     "Ajantis_Expansion": {
       "setup_file": "Setup-AjantisBG1.exe",
       "inputs": ["0", "N", "I", "I"],
@@ -1080,7 +1071,6 @@
     "Faldorn_SOD",
     "Mother_Lost_SOD",
     "Glams_NPC_Pack",
-    "Neera_Expansion",
     "Ajantis_Expansion",
 
     "Unfinished_Business",
