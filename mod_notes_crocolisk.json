@@ -122,5 +122,12 @@
       "Install Component [Emily NPC for BG1EE]? [I]nstall, [N]ot Install, [Q]uit → I (Install)",
       "Install Component [Choose whether or not to have Emily's custom soundtrack play during timed talks.]? [N]o, [Q]uit, [1] Emily's Music → N (No)"
     ]
+  },
+  "Kale": {
+    "input_notes": [
+      "Install Component [Kale NPC for BG1EE and SoD]? [I]nstall, [N]ot Install, [Q]uit → I (Install)",
+      "Would you like to install Music for Kale? [1] Yes, [2] No → 2 (No)",
+      "Install Component [Give Kale the Warden Class? (Recommended)]? [N]o, [Q]uit, [1] Warden (Fighter Kit) → Q (Quit)"
+    ]
   }
 }
