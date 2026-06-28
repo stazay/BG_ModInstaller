@@ -67,5 +67,15 @@
       "Install Component [Indira NPC]? → I (Install)",
       "Install Component [Install Interjections for Indira (BETA)]? → Q (Quit)"
     ]
+  },
+  "Gavin": {
+    "input_notes": [
+      "Choose your language: → 0 (English)",
+      "Would you like to display the readme? → N (No)",
+      "Would you like to display the components from [Gavin: Romance]? → N (No)",
+      "Install Component [Gavin NPC for Tutu, BGT, and BG:EE]? → I (Install)",
+      "Install Component [Gavin: Alternate Portraits]? [N]o, [Q]uit, or choose 1-6 → 5 (Original alternate, by Kaeloree)",
+      "Install Component [Gavin: Player Initiated Dialogue]? → N (Not Install)"
+    ]
   }
 }

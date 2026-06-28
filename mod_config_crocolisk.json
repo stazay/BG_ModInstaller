@@ -57,7 +57,7 @@
       ],
       "description": "BG1 NPC Project",
       "active": "false",
-      "download_url": "https://www.gibberlings3.net/mods/npcs/bg1npc/",
+      "download_url": "https://github.com/Gibberlings3/BG1NPC/releases",
       "version": "32",
       "latest_update": "02-08-2023"
     },
@@ -72,12 +72,12 @@
     },
     "Gavin": {
       "setup_file": "setup-gavin.exe",
-      "inputs": ["0", "N", "Y", "I", "2", "N", "1", "Q"],
+      "inputs": ["0", "N", "N", "I", "5", "N"],
       "description": "Gavin NPC",
-      "active": "",
-      "download_url": "",
-      "version": "",
-      "latest_update": ""
+      "active": "false",
+      "download_url": "https://github.com/Gibberlings3/Gavin_BG/releases",
+      "version": "15",
+      "latest_update": "21-01-2025"
     },
     "Isra": {
       "setup_file": "setup-isra.exe",
