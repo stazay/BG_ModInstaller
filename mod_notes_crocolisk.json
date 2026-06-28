@@ -136,5 +136,11 @@
       "Install Component [Choose a portrait for Helga:]? [N]o, [Q]uit, [1] Default by Acifer, [2] Alt NWN Portrait → 1 (Default by Acifer)",
       "Install Component [Helga Alternate Class: Fighter/Priest of Haela]? [N]o, [Q]uit, [1] Fighter/Priest of Haela (Fighter Multi-class) → N (No)"
     ]
+  },
+  "Recorder": {
+    "input_notes": [
+      "Install Component [Recorder NPC MoD]? [I]nstall, [N]ot Install, [Q]uit → I (Install)",
+      "Install Component [Choose whether or not to have Recorder's custom soundtrack play during timed talks.]? [N]o, [Q]uit, [1] Recorder's Music → N (No)"
+    ]
   }
 }

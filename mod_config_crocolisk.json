@@ -157,8 +157,8 @@
       "description": "Recorder NPC",
       "active": "true",
       "download_url": "https://forums.beamdog.com/discussion/77784/v1-50-recorder-a-gnome-lorekeeper-npc-for-bg-ee-sod-and-eet",
-      "version": "",
-      "latest_update": ""
+      "version": "1.51",
+      "latest_update": "05-08-2025"
     },
     "Vienxay": {
       "setup_file": "setup-vienxay.exe",
