@@ -90,12 +90,12 @@
     },
     "Isra": {
       "setup_file": "setup-isra.exe",
-      "inputs": ["0", "N", "I", "I"],
+      "inputs": ["0", "N", "I", "I", "I"],
       "description": "Isra NPC",
-      "active": "",
-      "download_url": "",
-      "version": "",
-      "latest_update": ""
+      "active": "false",
+      "download_url": "https://github.com/SpellholdStudios/Isra_NPC/releases",
+      "version": "3.5",
+      "latest_update": "06-06-2021"
     },
     "Drake": {
       "setup_file": "setup-drake.exe",

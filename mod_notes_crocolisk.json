@@ -84,5 +84,14 @@
       "Would you like to display the readme? → N (No)",
       "Install Component [Valerie NPC Mod for BG1 Tutu, BGT BG:EE and EET]? → I (Install)"
     ]
+  },
+  "Isra": {
+    "input_notes": [
+      "Choose your language: → 0 (English)",
+      "Would you like to display the readme? → N (No)",
+      "Install Component [Isra NPC Mod for BG:EE, EET, BGT and TuTu]? → I (Install)",
+      "Install Component [Valerie/Isra crossmod content]? → I (Install)",
+      "Install Component [Gavin/Isra crossmod content]? → I (Install)"
+    ]
   }
 }
