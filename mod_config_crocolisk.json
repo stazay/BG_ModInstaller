@@ -128,7 +128,7 @@
       "setup_file": "setup-emily.exe",
       "inputs": ["I", "N"],
       "description": "Emily NPC",
-      "active": "false",
+      "active": "true",
       "download_url": "https://forums.beamdog.com/discussion/74672/v1-65-emily-a-half-elf-archer-for-bg-ee-sod-and-eet",
       "version": "1.65",
       "latest_update": "28-10-2021"
@@ -137,7 +137,7 @@
       "setup_file": "setup-kale.exe",
       "inputs": ["I", "2", "Q"],
       "description": "Kale NPC",
-      "active": "false",
+      "active": "true",
       "download_url": "(dead-link, latest version does not work - v1.73)",
       "version": "1.67",
       "latest_update": "25-01-2022"
@@ -146,7 +146,7 @@
       "setup_file": "setup-helga.exe",
       "inputs": ["I", "2", "2", "1"],
       "description": "Helga NPC",
-      "active": "false",
+      "active": "true",
       "download_url": "https://forums.beamdog.com/discussion/76460/v1-57-helga-a-dwarven-priestess-of-haela-brightaxe-for-bg-ee-and-sod-and-eet",
       "version": "",
       "latest_update": ""
@@ -155,7 +155,7 @@
       "setup_file": "setup-recorder.exe",
       "inputs": ["I", "N"],
       "description": "Recorder NPC",
-      "active": "false",
+      "active": "true",
       "download_url": "https://forums.beamdog.com/discussion/77784/v1-50-recorder-a-gnome-lorekeeper-npc-for-bg-ee-sod-and-eet",
       "version": "",
       "latest_update": ""
@@ -164,7 +164,7 @@
       "setup_file": "setup-vienxay.exe",
       "inputs": ["I", "3", "2"],
       "description": "Vienxay NPC",
-      "active": "false",
+      "active": "true",
       "download_url": "https://forums.beamdog.com/discussion/74701/v1-66-vienxay-a-elven-shadowmage-npc-for-bg-ee-sod-and-eet",
       "version": "",
       "latest_update": ""
