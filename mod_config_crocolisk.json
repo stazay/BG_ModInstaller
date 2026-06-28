@@ -144,12 +144,12 @@
     },
     "Helga": {
       "setup_file": "setup-helga.exe",
-      "inputs": ["I", "2", "2", "1"],
+      "inputs": ["I", "1", "N"],
       "description": "Helga NPC",
       "active": "true",
       "download_url": "https://forums.beamdog.com/discussion/76460/v1-57-helga-a-dwarven-priestess-of-haela-brightaxe-for-bg-ee-and-sod-and-eet",
-      "version": "",
-      "latest_update": ""
+      "version": "1.57",
+      "latest_update": "01-02-2026"
     },
     "Recorder": {
       "setup_file": "setup-recorder.exe",

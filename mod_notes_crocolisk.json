@@ -129,5 +129,12 @@
       "Would you like to install Music for Kale? [1] Yes, [2] No → 2 (No)",
       "Install Component [Give Kale the Warden Class? (Recommended)]? [N]o, [Q]uit, [1] Warden (Fighter Kit) → Q (Quit)"
     ]
+  },
+  "Helga": {
+    "input_notes": [
+      "Install Component [Helga NPC Mod]? [I]nstall, [N]ot Install, [Q]uit → I (Install)",
+      "Install Component [Choose a portrait for Helga:]? [N]o, [Q]uit, [1] Default by Acifer, [2] Alt NWN Portrait → 1 (Default by Acifer)",
+      "Install Component [Helga Alternate Class: Fighter/Priest of Haela]? [N]o, [Q]uit, [1] Fighter/Priest of Haela (Fighter Multi-class) → N (No)"
+    ]
   }
 }
