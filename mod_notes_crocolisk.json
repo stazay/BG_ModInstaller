@@ -205,5 +205,14 @@
     "input_notes": [
       "Install Component [Glam's NPC Pack for BG:EE, BGT and BG TUTU]? [I]nstall, [N]ot Install, [Q]uit → I (Install)"
     ]
+  },
+  "Ajantis_Expansion": {
+    "input_notes": [
+      "Choose your language: [0] English, [1] Francais, [2] Deutsch, [3] Simplified Chinese → 0 (English)",
+      "Would you like to display the readme? [Y]es, [N]o → N (No)",
+      "Install Component [Installs Ajantis BG1 Expansion Modification]? [I]nstall, [N]ot Install, [Q]uit → I (Install)",
+      "Install Component [Install the unique BG:EE BAM for Ajantis' Family Shield]? [I]nstall, [N]ot Install, [Q]uit → I (Install)",
+      "Install Component [Ajantis SoD NPC: Crossmod Content]? [I]nstall, [N]ot Install, [Q]uit → I (Install)"
+    ]
   }
 }

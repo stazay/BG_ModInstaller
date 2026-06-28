@@ -252,12 +252,12 @@
     },
     "Ajantis_Expansion": {
       "setup_file": "Setup-AjantisBG1.exe",
-      "inputs": ["0", "N", "I", "I"],
+      "inputs": ["0", "N", "I", "I", "I"],
       "description": "Ajantis Expansion",
-      "active": "",
-      "download_url": "",
-      "version": "",
-      "latest_update": ""
+      "active": "true",
+      "download_url": "https://github.com/Gibberlings3/Ajantis_BG1_Expansion/releases",
+      "version": "22",
+      "latest_update": "07-01-2026"
     },
     "Unfinished_Business": {
       "setup_file": "Setup-bg1ub.exe",
