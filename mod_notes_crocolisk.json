@@ -194,5 +194,10 @@
       "Would you like to display the readme? [Y]es, [N]o → N (No)",
       "Install Component [Mother Lost for Siege of Dragonspear]? [I]nstall, [N]ot Install, [Q]uit → I (Install)"
     ]
+  },
+  "Glams_NPC_Pack": {
+    "input_notes": [
+      "Install Component [Glam's NPC Pack for BG:EE, BGT and BG TUTU]? [I]nstall, [N]ot Install, [Q]uit → I (Install)"
+    ]
   }
 }

@@ -236,10 +236,10 @@
       "setup_file": "setup-GlamNPCPack.exe",
       "inputs": ["I"],
       "description": "Glam's NPC Pack",
-      "active": "",
-      "download_url": "",
-      "version": "",
-      "latest_update": ""
+      "active": "false",
+      "download_url": "https://github.com/Gibberlings3/Glam-NPC-Pack/releases",
+      "version": "7",
+      "latest_update": "27-04-2025"
     },
     "Neera_Expansion": {
       "setup_file": "setup-neera.exe",
