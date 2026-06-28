@@ -198,12 +198,12 @@
     },
     "Arkanis_SOD": {
       "setup_file": "setup-ArkanisSoD.exe",
-      "inputs": ["N", "I"],
+      "inputs": ["0", "N", "I"],
       "description": "Arkanis SOD NPC",
-      "active": "",
-      "download_url": "",
-      "version": "",
-      "latest_update": ""
+      "active": "true",
+      "download_url": "https://downloads.weaselmods.net/download/sir-arkanis-for-sod/",
+      "version": "1.1",
+      "latest_update": "04-02-2026"
     },
     "Eldoth_SOD": {
       "setup_file": "Setup-EldothSoD.exe",
