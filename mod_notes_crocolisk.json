@@ -163,6 +163,12 @@
       "Install Component [Bristlelick—the gnoll companion for BGEE]? [I]nstall, [N]ot Install, [Q]uit → I (Install)"
     ]
   },
+  "White": {
+    "input_notes": [
+      "Would you like to display the readme? [Y]es, [N]o → N (No)",
+      "Install Component [White NPC for BG:EE, BGT and TuTu]? [I]nstall, [N]ot Install, [Q]uit → I (Install)"
+    ]
+  },
   "Ophysia": {
     "input_notes": [
       "Would you like to display the readme? [Y]es, [N]o → N (No)",

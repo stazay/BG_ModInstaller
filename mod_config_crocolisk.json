@@ -187,6 +187,15 @@
       "version": "2.5.1",
       "latest_update": "27-01-2026"
     },
+    "White": {
+      "setup_file": "setup-white.exe",
+      "inputs": ["N", "I"],
+      "description": "White NPC",
+      "active": "true",
+      "download_url": "https://downloads.weaselmods.net/download/white-npc/",
+      "version": "3.3",
+      "latest_update": "13-01-2026"
+    },
     "Ophysia": {
       "setup_file": "setup-ophysiaBG1.exe",
       "inputs": ["N", "I", "I"],
@@ -1064,6 +1073,7 @@
     "Vienxay",
     "Walahnan",
     "Bristlelick",
+    "White",
     "Ophysia",
     "Arkanis_SOD",
     "Eldoth_SOD",
