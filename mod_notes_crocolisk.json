@@ -93,5 +93,13 @@
       "Install Component [Valerie/Isra crossmod content]? → I (Install)",
       "Install Component [Gavin/Isra crossmod content]? → I (Install)"
     ]
+  },
+  "Drake": {
+    "input_notes": [
+      "Install Component [Drake NPC for Baldur's Gate: Enhanced Edition]? → I (Install)",
+      "Install Component [Choose a portrait for Drake:]? [1] Default (The Artisan), [2] BG2-style (The Artisan), [3] Beta (Lava Del'Vortel) → 1 (Default Portrait, The Artisan)",
+      "Install Component [OPTIONAL: Install Universal Crossbows, Crossbow Proficiency for Drake?]? → N (Not Install)",
+      "Install Component [OPTIONAL: Original Soundset by BillyYank]? → I (Install)"
+    ]
   }
 }

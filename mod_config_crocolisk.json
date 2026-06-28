@@ -101,10 +101,10 @@
       "setup_file": "setup-drake.exe",
       "inputs": ["I", "1", "N", "I"],
       "description": "Drake NPC",
-      "active": "",
-      "download_url": "",
-      "version": "",
-      "latest_update": ""
+      "active": "false",
+      "download_url": "https://github.com/TheArtisanBG/Drake/releases",
+      "version": "1.7a",
+      "latest_update": "17-12-2022"
     },
     "Sirene": {
       "setup_file": "setup-sirene.exe",
