@@ -108,5 +108,13 @@
       "Install Component [Choose an alternate portrait for Sirene?]? [N]o, [Q]uit, or choose 1-5 → 2 (Original BG1 Default, sporeboy)",
       "Install Component [Choose an alternate class for Sirene?]? [N]o, [Q]uit, [1] True Paladin, [2] Cavalier, [3] Inquisitor, [4] Undead Hunter → N (No)"
     ]
+  },
+  "Aura": {
+    "input_notes": [
+      "What should be done with all components that are NOT YET installed? [I]nstall them, [S]kip them, [A]sk about each one → A (Ask about each one)",
+      "Install Component [Aura NPC for Baldur's Gate: Enhanced Edition]? [I]nstall, [N]ot Install, [Q]uit → I (Install)",
+      "Install Component [Choose a class for Aura:]? [1] Artificer (Thief), [2] Illusionist / Artificer (Mage / Thief), [3] Priestess / Artificer (Cleric / Thief), [4] Artificer (Bard, EEex required) → 4 (Artificer Bard, EEex required)",
+      "Install Component [Choose an alternate portrait for Aura:]? [N]o, [Q]uit, [1] Alternate 1 (Omar Diaz), [2] Alternate 2 (Pantalion), [3] Alternate 3 (The Artisan), [4] Original BG1 Default (Lava Del'Vortel), [5] Second BG1 Default (Lava Del'Vortel), [6] Original BG2 Default (The Artisan) → 5 (Second BG1 Default, Lava Del'Vortel)"
+    ]
   }
 }

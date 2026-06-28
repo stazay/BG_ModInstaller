@@ -117,12 +117,12 @@
     },
     "Aura": {
       "setup_file": "setup-aura_BG1.exe",
-      "inputs": ["I", "4", "1", "I"],
+      "inputs": ["A", "I", "4", "5"],
       "description": "Aura NPC",
-      "active": "",
-      "download_url": "",
-      "version": "",
-      "latest_update": ""
+      "active": "true",
+      "download_url": "https://github.com/TheArtisanBG/Aura_BG1_BG2_EET",
+      "version": "?",
+      "latest_update": "31-05-2026"
     },
     "Emily": {
       "setup_file": "setup-emily.exe",
