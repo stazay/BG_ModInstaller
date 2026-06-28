@@ -180,12 +180,12 @@
     },
     "Bristlelick": {
       "setup_file": "setup-bristlelick.exe",
-      "inputs": ["N", "I"],
+      "inputs": ["0", "N", "I"],
       "description": "Bristlelick NPC",
-      "active": "",
-      "download_url": "",
-      "version": "",
-      "latest_update": ""
+      "active": "true",
+      "download_url": "https://downloads.weaselmods.net/download/bristlelick/",
+      "version": "2.5.1",
+      "latest_update": "27-01-2026"
     },
     "Ophysia": {
       "setup_file": "setup-ophysiaBG1.exe",

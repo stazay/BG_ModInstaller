@@ -155,5 +155,12 @@
       "Would you like to display the readme? [Y]es, [N]o → N (No)",
       "Install Component [Walahnan NPC for BGEE]? [I]nstall, [N]ot Install, [Q]uit → I (Install)"
     ]
+  },
+  "Bristlelick": {
+    "input_notes": [
+      "Choose your language: [0] English, [1] Simplified Chinese → 0 (English)",
+      "Would you like to display the readme? [Y]es, [N]o → N (No)",
+      "Install Component [Bristlelick—the gnoll companion for BGEE]? [I]nstall, [N]ot Install, [Q]uit → I (Install)"
+    ]
   }
 }
