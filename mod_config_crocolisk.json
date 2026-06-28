@@ -173,10 +173,10 @@
       "setup_file": "setup-walahnan.exe",
       "inputs": ["N", "I"],
       "description": "Walahnan NPC",
-      "active": "",
-      "download_url": "",
-      "version": "",
-      "latest_update": ""
+      "active": "false",
+      "download_url": "https://downloads.weaselmods.net/download/walahnan-bg1ee/",
+      "version": "2.0",
+      "latest_update": "19-12-2022"
     },
     "Bristlelick": {
       "setup_file": "setup-bristlelick.exe",

@@ -149,5 +149,11 @@
       "Choose a portrait for Vienxay: [1] Default by Crisshasart, [2] Alt by Aeries1986, [3] Old Version (NWN) → 1 (Default by Crisshasart)",
       "Would you like to install Music for Vienxay? [1] Yes, [2] No → 2 (No)"
     ]
+  },
+  "Walahnan": {
+    "input_notes": [
+      "Would you like to display the readme? [Y]es, [N]o → N (No)",
+      "Install Component [Walahnan NPC for BGEE]? [I]nstall, [N]ot Install, [Q]uit → I (Install)"
+    ]
   }
 }
