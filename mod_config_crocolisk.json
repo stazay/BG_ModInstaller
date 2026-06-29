@@ -279,12 +279,12 @@
     },
     "Ascalons_Questpack": {
       "setup_file": "setup-ac_quest.exe",
-      "inputs": ["1", "I"],
+      "inputs": ["1", "I", "1", "1", "2"],
       "description": "Ascalon's Questpack",
-      "active": "",
-      "download_url": "",
-      "version": "",
-      "latest_update": ""
+      "active": "true",
+      "download_url": "https://github.com/Gitjas/Ascalons_Questpack/releases",
+      "version": "6.4",
+      "latest_update": "17-12-2025"
     },
     "Shades_Of_The_Sword_Coast": {
       "setup_file": "setup-SotSC.exe",

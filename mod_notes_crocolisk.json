@@ -229,5 +229,14 @@
       "Install Component [The Lure of the Sirine's Call]? [I]nstall, [N]ot Install, [Q]uit → I (Install)",
       "Install Component [Extended Lighthouse Area]? [I]nstall, [N]ot Install, [Q]uit → I (Install)"
     ]
+  },
+  "Ascalons_Questpack": {
+    "input_notes": [
+      "Choose your language: [0] Deutsch, [1] English, [2] Russian, [3] Italian, [4] French, [5] Spanish, [6] Simplified Chinese → 1 (English)",
+      "What should be done with all components that are NOT YET installed? [I]nstall them, [S]kip them, [A]sk about each one → I (Install all)",
+      "Install Component [Jumper]? [N]o, [Q]uit, [1] Original (Ugh and Jumper inside cave), [2] Alternative (Ugh and Jumper outside) → 1 (Original)",
+      "Install Component [Of Wolves and Men]? [N]o, [Q]uit, [1] Quest uses hut near Thalantyr in High Hedge, [2] Quest uses house in Beregost → 1 (High Hedge hut)",
+      "Install Component [The Serpents of Abbathor]? [N]o, [Q]uit, [1] Original version, [2] Tweaked version (quest can be finished in BG1) → 2 (Tweaked)"
+    ]
   }
 }
