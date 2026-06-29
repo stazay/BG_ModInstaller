@@ -289,5 +289,14 @@
       "Would you like to display the readme? [Y]es, [N]o → N (No)",
       "Install Component [Storm Caller Shaman Kit]? [I]nstall, [N]ot Install, [Q]uit → I (Install)"
     ]
+  },
+  "Will_Of_The_Wisps": {
+    "input_notes": [
+      "Choose your language: [0] English, [1] Simplified Chinese → 0 (English)",
+      "Would you like to display the readme? [Y]es, [N]o → N (No)",
+      "What should be done with all components that are NOT YET installed? [I]nstall them, [S]kip them, [A]sk about each one → A (Ask about each one)",
+      "Install Component [Witchlight Shaman Standalone Kit]? [I]nstall, [N]ot Install, [Q]uit → I (Install)",
+      "Install Component [Town Medium (Shaman) Kit]? [I]nstall, [N]ot Install, [Q]uit → N (Not Install)"
+    ]
   }
 }

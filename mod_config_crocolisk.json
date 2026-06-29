@@ -351,12 +351,12 @@
     },
     "Will_Of_The_Wisps": {
       "setup_file": "Setup-willowisp.exe",
-      "inputs": ["N", "A", "I"],
+      "inputs": ["0", "N", "A", "I", "N"],
       "description": "Will Of The Wisps Kit + NPC",
-      "active": "",
-      "download_url": "",
-      "version": "",
-      "latest_update": ""
+      "active": "true",
+      "download_url": "https://downloads.weaselmods.net/download/will-of-the-wisps/",
+      "version": "3.5",
+      "latest_update": "12-01-2026"
     },
     "Deratiseurs_Kitpack": {
       "setup_file": "Setup-Derats_kits.exe",
