@@ -251,5 +251,12 @@
       "Choose your language: [0] English, [1] Simplified Chinese → 0 (English)",
       "Install Component [Install Blackhearts for \"BGEE\" or \"EET including BGEE and BG2EE\"]? [I]nstall, [N]ot Install, [Q]uit → I (Install)"
     ]
+  },
+  "Loretakers": {
+    "input_notes": [
+      "Choose your language: [0] English, [1] Deutsch, [2] Chinese, [3] Russian, [4] Spanish, [5] Polish → 0 (English)",
+      "Would you like to display the readme? [Y]es, [N]o → N (No)",
+      "Install Component [Loretakers V 2.6]? [I]nstall, [N]ot Install, [Q]uit → I (Install)"
+    ]
   }
 }

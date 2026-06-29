@@ -308,10 +308,10 @@
       "setup_file": "setup-Loretakers.exe",
       "inputs": ["0", "N", "I"],
       "description": "Loretakers",
-      "active": "",
-      "download_url": "",
-      "version": "",
-      "latest_update": ""
+      "active": "true",
+      "download_url": "https://github.com/AciferBG/Loretakers/releases",
+      "version": "2.6",
+      "latest_update": "25-02-2026"
     },
     "Forgotten_Armament": {
       "setup_file": "setup-forgotten-armament.exe",
