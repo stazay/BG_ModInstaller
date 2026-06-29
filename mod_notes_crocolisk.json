@@ -221,5 +221,13 @@
       "Would you like to display the readme? [Y]es, [N]o → N (No)",
       "What should be done with all components that are NOT YET installed? [I]nstall them, [S]kip them, [A]sk about each one → I (Install all)"
     ]
+  },
+  "Sirines_Call": {
+    "input_notes": [
+      "Choose your language: [0] English, [1] Castellano, [2] Francais, [3] Deutsch, [4] Italiano, [5] Polski, [6] Russian, [7] Simplified Chinese → 0 (English)",
+      "Would you like to display the readme? [Y]es, [N]o → N (No)",
+      "Install Component [The Lure of the Sirine's Call]? [I]nstall, [N]ot Install, [Q]uit → I (Install)",
+      "Install Component [Extended Lighthouse Area]? [I]nstall, [N]ot Install, [Q]uit → I (Install)"
+    ]
   }
 }
