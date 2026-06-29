@@ -337,5 +337,12 @@
       "Install Component [Bardic Wonders: Items]? [I]nstall, [N]ot Install, [Q]uit → I (Install)",
       "Install Component [Bardic Wonders: Inspirations]? [I]nstall, [N]ot Install, [Q]uit → Q (Quit - continues in Bardic_Wonders2)"
     ]
+  },
+  "Shadow_Magic": {
+    "input_notes": [
+      "Install Component [Shadow Magic: Main Component]? [I]nstall, [N]ot Install, [Q]uit → I (Install)",
+      "Install Component [Shadow Magic: Resource Costs]? [1] Drain Constitution on Cast, [2] Drain Maximum Hit Points on Cast, [3] Drain Current Hit Points on Cast, [4] No Resource Cost → 3 (Drain Current Hit Points on Cast)",
+      "Install Component [Shadow Magic: Shadow Monk monk kit]? [I]nstall, [N]ot Install, [Q]uit → I (Install)"
+    ]
   }
 }

@@ -406,12 +406,12 @@
     },
     "Shadow_Magic": {
       "setup_file": "setup-shadowadept.exe",
-      "inputs": ["I", "2", "I"],
+      "inputs": ["I", "3", "I"],
       "description": "Shadow Magic Kits",
-      "active": "",
-      "download_url": "",
-      "version": "",
-      "latest_update": ""
+      "active": "true",
+      "download_url": "https://artisans-corner.com/shadow-magic/",
+      "version": "?",
+      "latest_update": "31-05-2026"
     },
     "IHateUndead": {
       "setup_file": "Setup-IHateUndead.exe",
