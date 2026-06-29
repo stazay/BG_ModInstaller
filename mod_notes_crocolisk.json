@@ -269,5 +269,12 @@
       "Install Component [Update Existing In-Game Items]? [I]nstall, [N]ot Install, [Q]uit → I (Install)",
       "Install Component [Add Breach Scrolls to Sorcerous Sundries]? [I]nstall, [N]ot Install, [Q]uit → Q (Quit)"
     ]
+  },
+  "Geomantic_Sorcerer": {
+    "input_notes": [
+      "Choose your language: [0] English, [1] Francais, [2] Spanish, [3] Simplified Chinese → 0 (English)",
+      "Would you like to display the readme? [Y]es, [N]o → N (No)",
+      "Install Component [Geomantic Sorcerer Kit]? [I]nstall, [N]ot Install, [Q]uit → I (Install)"
+    ]
   }
 }

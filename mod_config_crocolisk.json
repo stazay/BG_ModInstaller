@@ -326,10 +326,10 @@
       "setup_file": "setup-druidsor.exe",
       "inputs": ["0", "N", "I"],
       "description": "Geomantic Sorcerer Kit",
-      "active": "",
-      "download_url": "",
-      "version": "",
-      "latest_update": ""
+      "active": "false",
+      "download_url": "https://github.com/Gibberlings3/Geomantic_Sorcerer/releases",
+      "version": "9",
+      "latest_update": "07-05-2025"
     },
     "Spiritwalker": {
       "setup_file": "Setup-Spiritwalker.exe",
