@@ -315,5 +315,27 @@
       "Install Component [Warlock Kit]? [I]nstall, [N]ot Install, [Q]uit → I (Install)",
       "Install Contingency UI-based Spell Learning System? [1] Yes, [2] No → 1 (Yes)"
     ]
+  },
+  "Bardic_Wonders1": {
+    "input_notes": [
+      "Would you like to display the components from [Kits]? [Y]es, [N]o → Y (Yes)",
+      "Would you like to display the components from [Items & Abilities]? [Y]es, [N]o → Y (Yes)",
+      "Would you like to display the components from [Tweaks & Patches]? [Y]es, [N]o → Y (Yes)",
+      "Install Component [Bardic Wonders: Blade Overhaul]? [I]nstall, [N]ot Install, [Q]uit → N (Not Install)",
+      "Install Component [Bardic Wonders: Jester Overhaul]? [I]nstall, [N]ot Install, [Q]uit → N (Not Install)",
+      "Install Component [Bardic Wonders: Skald Overhaul]? [I]nstall, [N]ot Install, [Q]uit → N (Not Install)",
+      "Install Component [Bardic Wonders: Abettor of Mask Kit]? [I]nstall, [N]ot Install, [Q]uit → I (Install)",
+      "Install Component [Bardic Wonders: Dancer Kit]? [I]nstall, [N]ot Install, [Q]uit → N (Not Install)",
+      "Install Component [Bardic Wonders: Darkbloom Bard Kit]? [I]nstall, [N]ot Install, [Q]uit → N (Not Install)",
+      "Install Component [Bardic Wonders: Storm Drummer Kit]? [I]nstall, [N]ot Install, [Q]uit → I (Install)",
+      "Install Component [Bardic Wonders: Troubadour Kit]? [I]nstall, [N]ot Install, [Q]uit → I (Install)",
+      "OPTIONAL: Make Garrick a Troubadour? [1] Yes, [2] No → 1 (Yes)",
+      "Install Component [Bardic Wonders: Deathsinger Kit]? [I]nstall, [N]ot Install, [Q]uit → I (Install)",
+      "Install Component [Bardic Wonders: Strategist Kit]? [I]nstall, [N]ot Install, [Q]uit → I (Install)",
+      "Install Component [Bardic Wonders: Kapellmeister Kit]? [I]nstall, [N]ot Install, [Q]uit → I (Install)",
+      "Install Component [Bardic Wonders: Gallant Paladin Kit]? [I]nstall, [N]ot Install, [Q]uit → N (Not Install)",
+      "Install Component [Bardic Wonders: Items]? [I]nstall, [N]ot Install, [Q]uit → I (Install)",
+      "Install Component [Bardic Wonders: Inspirations]? [I]nstall, [N]ot Install, [Q]uit → Q (Quit - continues in Bardic_Wonders2)"
+    ]
   }
 }

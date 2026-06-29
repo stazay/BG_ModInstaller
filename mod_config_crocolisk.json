@@ -381,6 +381,7 @@
       "inputs": [
         "Y",
         "Y",
+        "Y",
         "N",
         "N",
         "N",
@@ -393,14 +394,15 @@
         "I",
         "I",
         "I",
+        "N",
         "I",
         "Q"
       ],
       "description": "Bardic Wonders Kits",
-      "active": "",
-      "download_url": "",
-      "version": "",
-      "latest_update": ""
+      "active": "true",
+      "download_url": "https://artisans-corner.com/bardic-wonders/",
+      "version": "2.9c",
+      "latest_update": "31-05-2026"
     },
     "Shadow_Magic": {
       "setup_file": "setup-shadowadept.exe",
