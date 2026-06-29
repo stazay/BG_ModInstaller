@@ -360,12 +360,12 @@
     },
     "Deratiseurs_Kitpack": {
       "setup_file": "Setup-Derats_kits.exe",
-      "inputs": ["1", "A", "N", "N", "I", "Q"],
+      "inputs": ["1", "A", "N", "N", "N", "I", "Q"],
       "description": "Preacher of Flames Kit",
-      "active": "",
-      "download_url": "",
-      "version": "",
-      "latest_update": ""
+      "active": "false",
+      "download_url": "https://github.com/Deratiseur/DUKP/releases",
+      "version": "18.6",
+      "latest_update": "30-08-2025"
     },
     "Warlock": {
       "setup_file": "Setup-C0Warlock.exe",

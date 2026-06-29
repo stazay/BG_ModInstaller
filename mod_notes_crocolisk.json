@@ -298,5 +298,16 @@
       "Install Component [Witchlight Shaman Standalone Kit]? [I]nstall, [N]ot Install, [Q]uit → I (Install)",
       "Install Component [Town Medium (Shaman) Kit]? [I]nstall, [N]ot Install, [Q]uit → N (Not Install)"
     ]
+  },
+  "Deratiseurs_Kitpack": {
+    "input_notes": [
+      "Choose your language: [0] Francais, [1] English → 1 (English)",
+      "What should be done with all components that are NOT YET installed? [I]nstall them, [S]kip them, [A]sk about each one → A (Ask about each one)",
+      "Install Component [Fighter (half-orc) Kit: Hatred Carrier]? [I]nstall, [N]ot Install, [Q]uit → N (Not Install)",
+      "Install Component [Ranger Kit: Hunter of Vermin]? [I]nstall, [N]ot Install, [Q]uit → N (Not Install)",
+      "Install Component [Wizard Kit: Sorcerer]? [I]nstall, [N]ot Install, [Q]uit → N (Not Install)",
+      "Install Component [Cleric Kit: Preacher of Flames]? [I]nstall, [N]ot Install, [Q]uit → I (Install)",
+      "Install Component [Cleric Kit: Goragos Crusaders]? [I]nstall, [N]ot Install, [Q]uit → Q (Quit)"
+    ]
   }
 }
