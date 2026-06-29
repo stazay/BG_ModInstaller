@@ -283,5 +283,11 @@
       "Would you like to display the readme? [Y]es, [N]o → N (No)",
       "Install Component [Spiritwalker Shaman Kit]? [I]nstall, [N]ot Install, [Q]uit → I (Install)"
     ]
+  },
+  "Stormcaller": {
+    "input_notes": [
+      "Would you like to display the readme? [Y]es, [N]o → N (No)",
+      "Install Component [Storm Caller Shaman Kit]? [I]nstall, [N]ot Install, [Q]uit → I (Install)"
+    ]
   }
 }
