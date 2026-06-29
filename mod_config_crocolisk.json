@@ -315,7 +315,7 @@
     },
     "Forgotten_Armament": {
       "setup_file": "setup-forgotten-armament.exe",
-      "inputs": ["0", "N", "Y", "N", "I", "I", "Q"],
+      "inputs": ["0", "N", "Y", "N", "N", "I", "Q"],
       "description": "Forgotten Armament",
       "active": "true",
       "download_url": "https://www.morpheus-mart.com/forgotten-armament",
