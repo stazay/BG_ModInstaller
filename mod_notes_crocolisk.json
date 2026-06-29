@@ -393,5 +393,25 @@
       "Install Component [Revised Stalker]? [I]nstall, [N]ot Install, [Q]uit → I (Install)",
       "Install Component [Revised Beastmaster]? [I]nstall, [N]ot Install, [Q]uit → Q (Quit)"
     ]
+  },
+  "Morpheus562_Kitpack": {
+    "input_notes": [
+      "Choose your language: [0] English, [1] Russian, [2] Chinese (by Cat) → 0 (English)",
+      "Would you like to display the readme? [Y]es, [N]o → N (No)",
+      "Would you like to display the components from [Fighter]? [Y]es, [N]o → Y (Yes)",
+      "Would you like to display the components from [Ranger]? [Y]es, [N]o → N (No)",
+      "Would you like to display the components from [Paladin]? [Y]es, [N]o → N (No)",
+      "Would you like to display the components from [Monk]? [Y]es, [N]o → N (No)",
+      "Would you like to display the components from [Mage]? [Y]es, [N]o → N (No)",
+      "Would you like to display the components from [Sorcerer]? [Y]es, [N]o → N (No)",
+      "Would you like to display the components from [Multiclass]? [Y]es, [N]o → N (No)",
+      "Install Component [Install Battle Master Kit]? [I]nstall, [N]ot Install, [Q]uit → N (Not Install)",
+      "Install Component [Install Battlerager Kit]? [I]nstall, [N]ot Install, [Q]uit → N (Not Install)",
+      "Install Component [Install Death Knight Kit]? [I]nstall, [N]ot Install, [Q]uit → I (Install)",
+      "Install Component [Install Dragoon Kit]? [I]nstall, [N]ot Install, [Q]uit → N (Not Install)",
+      "Install Component [Install Psi Warrior Kit]? [I]nstall, [N]ot Install, [Q]uit → I (Install)",
+      "Install Component [Install Shield Breaker Kit]? [I]nstall, [N]ot Install, [Q]uit → N (Not Install)",
+      "Install Component [Install Deathbringer Prestige Kit]? [I]nstall, [N]ot Install, [Q]uit → N (Not Install)"
+    ]
   }
 }

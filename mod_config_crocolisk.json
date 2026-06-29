@@ -491,13 +491,14 @@
         "I",
         "N",
         "I",
-        "Q"
+        "N",
+        "N"
       ],
       "description": "Morpheus562's Kits",
-      "active": "",
-      "download_url": "",
-      "version": "",
-      "latest_update": ""
+      "active": "true",
+      "download_url": "https://www.morpheus-mart.com/morpheus562s-kitpack",
+      "version": "5.9",
+      "latest_update": "15-03-2026"
     },
     "Expanded_Classes": {
       "setup_file": "setup-ExpandedClasses.exe",
