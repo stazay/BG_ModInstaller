@@ -238,5 +238,12 @@
       "Install Component [Of Wolves and Men]? [N]o, [Q]uit, [1] Quest uses hut near Thalantyr in High Hedge, [2] Quest uses house in Beregost → 1 (High Hedge hut)",
       "Install Component [The Serpents of Abbathor]? [N]o, [Q]uit, [1] Original version, [2] Tweaked version (quest can be finished in BG1) → 2 (Tweaked)"
     ]
+  },
+  "Shades_Of_The_Sword_Coast": {
+    "input_notes": [
+      "Choose your language: [0] English, [1] Italian, [2] Korean, [3] Russian, [4] Polish, [5] German, [6] Spanish, [7] Simplified Chinese, [8] Portuguese → 0 (English)",
+      "Would you like to display the readme? [Y]es, [N]o → N (No)",
+      "Install Component [Shades of the Sword Coast – Expansion Pack for BGEE]? [I]nstall, [N]ot Install, [Q]uit → I (Install)"
+    ]
   }
 }

@@ -290,10 +290,10 @@
       "setup_file": "setup-SotSC.exe",
       "inputs": ["0", "N", "I"],
       "description": "Shades of the Sword Coast",
-      "active": "",
-      "download_url": "",
-      "version": "",
-      "latest_update": ""
+      "active": "true",
+      "download_url": "https://downloads.weaselmods.net/download/shades-of-the-sword-coast/",
+      "version": "10.5",
+      "latest_update": "21-06-2026"
     },
     "Black_Hearts": {
       "setup_file": "setup-Blackhearts.exe",
