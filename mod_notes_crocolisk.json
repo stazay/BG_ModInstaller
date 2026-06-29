@@ -344,5 +344,23 @@
       "Install Component [Shadow Magic: Resource Costs]? [1] Drain Constitution on Cast, [2] Drain Maximum Hit Points on Cast, [3] Drain Current Hit Points on Cast, [4] No Resource Cost → 3 (Drain Current Hit Points on Cast)",
       "Install Component [Shadow Magic: Shadow Monk monk kit]? [I]nstall, [N]ot Install, [Q]uit → I (Install)"
     ]
+  },
+  "IHateUndead": {
+    "input_notes": [
+      "Choose your language: [0] English, [1] Francais, [2] Russkiy → 0 (English)",
+      "Would you like to display the readme? [Y]es, [N]o → N (No)",
+      "What should be done with all components that are NOT YET installed? [I]nstall them, [S]kip them, [A]sk about each one → A (Ask about each one)",
+      "Install Component [Undead Predator (Ranger Kit)]? [I]nstall, [N]ot Install, [Q]uit → N (Not Install)",
+      "Install Component [Holy Redeemer (Cleric Kit)]? [I]nstall, [N]ot Install, [Q]uit → N (Not Install)",
+      "Install Component [Deathslayer (Wizard Kit)]? [I]nstall, [N]ot Install, [Q]uit → N (Not Install)",
+      "Install Component [Undead Hunter Revision (Paladin Kit)]? [I]nstall, [N]ot Install, [Q]uit → N (Not Install)",
+      "Install Component [Death Tricker (Thief Kit)]? [I]nstall, [N]ot Install, [Q]uit → N (Not Install)",
+      "Install Component [Burial Defender (Fighter Kit)]? [I]nstall, [N]ot Install, [Q]uit → N (Not Install)",
+      "Install Component [Grave Mourner (Bard Kit)]? [I]nstall, [N]ot Install, [Q]uit → N (Not Install)",
+      "Install Component [Circle Enforcer (Druid Kit)]? [I]nstall, [N]ot Install, [Q]uit → N (Not Install)",
+      "Install Component [Pallid Mask (Monk Kit)]? [I]nstall, [N]ot Install, [Q]uit → I (Install)",
+      "Install Component [Dreadful Witch (Shaman Kit)]? [I]nstall, [N]ot Install, [Q]uit → I (Install)",
+      "Install Component [Imprisoned Soul (Sorcerer Kit)]? [I]nstall, [N]ot Install, [Q]uit → I (Install)"
+    ]
   }
 }

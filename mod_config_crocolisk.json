@@ -432,10 +432,10 @@
         "I"
       ],
       "description": "I Hate Undead Kits",
-      "active": "",
-      "download_url": "",
-      "version": "",
-      "latest_update": ""
+      "active": "false",
+      "download_url": "https://github.com/Raduziel/I-Hate-Undead-Kitpack/releases",
+      "version": "3.8.3",
+      "latest_update": "01-10-2023"
     },
     "Might_And_Guile": {
       "setup_file": "setup-might_and_guile.exe",
