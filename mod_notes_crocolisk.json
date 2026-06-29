@@ -245,5 +245,11 @@
       "Would you like to display the readme? [Y]es, [N]o → N (No)",
       "Install Component [Shades of the Sword Coast – Expansion Pack for BGEE]? [I]nstall, [N]ot Install, [Q]uit → I (Install)"
     ]
+  },
+  "Black_Hearts": {
+    "input_notes": [
+      "Choose your language: [0] English, [1] Simplified Chinese → 0 (English)",
+      "Install Component [Install Blackhearts for \"BGEE\" or \"EET including BGEE and BG2EE\"]? [I]nstall, [N]ot Install, [Q]uit → I (Install)"
+    ]
   }
 }

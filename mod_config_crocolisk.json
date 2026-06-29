@@ -299,10 +299,10 @@
       "setup_file": "setup-Blackhearts.exe",
       "inputs": ["0", "I"],
       "description": "Black Hearts",
-      "active": "",
-      "download_url": "",
-      "version": "",
-      "latest_update": ""
+      "active": "false",
+      "download_url": "https://github.com/A-Wizard-Did-It/Black-Hearts/releases",
+      "version": "2.03",
+      "latest_update": "27-05-2025"
     },
     "Loretakers": {
       "setup_file": "setup-Loretakers.exe",
