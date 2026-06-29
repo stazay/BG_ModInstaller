@@ -258,5 +258,16 @@
       "Would you like to display the readme? [Y]es, [N]o → N (No)",
       "Install Component [Loretakers V 2.6]? [I]nstall, [N]ot Install, [Q]uit → I (Install)"
     ]
+  },
+  "Forgotten_Armament": {
+    "input_notes": [
+      "Choose your language: [0] English, [1] Chinese → 0 (English)",
+      "Would you like to display the readme? [Y]es, [N]o → N (No)",
+      "Would you like to display the components from [Install Before SCS/Tactics Remix]? [Y]es, [N]o → Y (Yes)",
+      "Would you like to display the components from [Install After SCS/Tactics Remix]? [Y]es, [N]o → N (No)",
+      "Install Component [Add New Items to the Game]? [I]nstall, [N]ot Install, [Q]uit → I (Install)",
+      "Install Component [Update Existing In-Game Items]? [I]nstall, [N]ot Install, [Q]uit → I (Install)",
+      "Install Component [Add Breach Scrolls to Sorcerous Sundries]? [I]nstall, [N]ot Install, [Q]uit → Q (Quit)"
+    ]
   }
 }
