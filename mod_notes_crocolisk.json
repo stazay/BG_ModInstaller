@@ -276,5 +276,12 @@
       "Would you like to display the readme? [Y]es, [N]o → N (No)",
       "Install Component [Geomantic Sorcerer Kit]? [I]nstall, [N]ot Install, [Q]uit → I (Install)"
     ]
+  },
+  "Spiritwalker": {
+    "input_notes": [
+      "Choose your language: [0] English, [1] Italian, [2] French → 0 (English)",
+      "Would you like to display the readme? [Y]es, [N]o → N (No)",
+      "Install Component [Spiritwalker Shaman Kit]? [I]nstall, [N]ot Install, [Q]uit → I (Install)"
+    ]
   }
 }

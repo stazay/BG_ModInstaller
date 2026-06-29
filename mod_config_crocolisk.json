@@ -335,10 +335,10 @@
       "setup_file": "Setup-Spiritwalker.exe",
       "inputs": ["0", "N", "I"],
       "description": "Spiritwalker Kit",
-      "active": "",
-      "download_url": "",
-      "version": "",
-      "latest_update": ""
+      "active": "false",
+      "download_url": "(dead-link, latest version downloadable is 1.3)",
+      "version": "1.4",
+      "latest_update": "24-02-2019"
     },
     "Stormcaller": {
       "setup_file": "Setup-StormCaller.exe",
