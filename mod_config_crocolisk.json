@@ -371,10 +371,10 @@
       "setup_file": "Setup-C0Warlock.exe",
       "inputs": ["I", "1"],
       "description": "Warlock Kit",
-      "active": "",
-      "download_url": "",
-      "version": "",
-      "latest_update": ""
+      "active": "true",
+      "download_url": "https://artisans-corner.com/warlock/",
+      "version": "?",
+      "latest_update": "04-06-2026"
     },
     "Bardic_Wonders1": {
       "setup_file": "Setup-BardicWonders.exe",
