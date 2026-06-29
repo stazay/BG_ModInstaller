@@ -413,5 +413,37 @@
       "Install Component [Install Shield Breaker Kit]? [I]nstall, [N]ot Install, [Q]uit → N (Not Install)",
       "Install Component [Install Deathbringer Prestige Kit]? [I]nstall, [N]ot Install, [Q]uit → N (Not Install)"
     ]
+  },
+  "Expanded_Classes": {
+    "input_notes": [
+      "What should be done with all components that are NOT YET installed? [I]nstall them, [S]kip them, [A]sk about each one → A (Ask about each one)",
+      "Install Component [Archer Kit for Fighters, Paladins, and Thieves]? [I]nstall, [N]ot Install, [Q]uit → N (Not Install)",
+      "Install Component [Stalker and Assassin Kits for Monks]? [I]nstall, [N]ot Install, [Q]uit → N (Not Install)",
+      "Install Component [Shapeshifter Fighter Kit]? [I]nstall, [N]ot Install, [Q]uit → N (Not Install)",
+      "Install Component [Kensai Kit for Thieves, Paladins, and Monks]? [I]nstall, [N]ot Install, [Q]uit → N (Not Install)",
+      "Install Component [Sniper Kit for Thieves and Rangers]? [I]nstall, [N]ot Install, [Q]uit → I (Install)",
+      "Install Component [Vampyre Kit for Thieves]? [I]nstall, [N]ot Install, [Q]uit → I (Install)",
+      "Install Component [Sword Dancer Kit for Fighters and Paladins]? [I]nstall, [N]ot Install, [Q]uit → N (Not Install)",
+      "Install Component [Flare Dancer and Sky Dancer Kits for Monks]? [I]nstall, [N]ot Install, [Q]uit → N (Not Install)",
+      "Install Component [Seducer Kit for Thieves]? [I]nstall, [N]ot Install, [Q]uit → N (Not Install)",
+      "Install Component [Psionicist Kit for Fighters and Monks]? [I]nstall, [N]ot Install, [Q]uit → N (Not Install)",
+      "Install Component [War Hulk Kit for Fighters]? [I]nstall, [N]ot Install, [Q]uit → N (Not Install)",
+      "Install Component [Alchemist Kit for Mages and Thieves]? [I]nstall, [N]ot Install, [Q]uit → I (Install)",
+      "Install Component [Plasma Wizard Kit for BG1, BG2, and EET]? [I]nstall, [N]ot Install, [Q]uit → N (Not Install)",
+      "Install Component [War Mage Kit for Mages]? [I]nstall, [N]ot Install, [Q]uit → N (Not Install)",
+      "Install Component [Red Soul Kit for Mages and Sorcerers]? [I]nstall, [N]ot Install, [Q]uit → N (Not Install)",
+      "Install Component [Green Soul Kit for Mages and Sorcerers]? [I]nstall, [N]ot Install, [Q]uit → N (Not Install)",
+      "Install Component [Multiclass Kits (Cleric/Druid, Druid/Thief, Druid/Mage, Cleric/Druid/Mage, Fighter/Cleric/Druid/Mage/Thief, Fighter/Monk)]? [I]nstall, [N]ot Install, [Q]uit → N (Not Install)",
+      "Install Component [Seer Kit for Clerics and Druids]? [I]nstall, [N]ot Install, [Q]uit → I (Install)",
+      "Install Component [Force Wizard Kit for Mages]? [I]nstall, [N]ot Install, [Q]uit → N (Not Install)",
+      "Install Component [Executioner Kit for Fighters]? [I]nstall, [N]ot Install, [Q]uit → N (Not Install)",
+      "Install Component [Primordial Witch Doctor Kit for Bards]? [I]nstall, [N]ot Install, [Q]uit → N (Not Install)",
+      "Install Component [Primordial Witch Doctor-related Items for BG1]? [I]nstall, [N]ot Install, [Q]uit → N (Not Install)",
+      "Install Component [Kuo-toa Disciple Kit for Bards]? [I]nstall, [N]ot Install, [Q]uit → N (Not Install)",
+      "Install Component [Bog Witch Kit for Shamans]? [I]nstall, [N]ot Install, [Q]uit → N (Not Install)",
+      "Install Component [Butcher Kit for Fighters]? [I]nstall, [N]ot Install, [Q]uit → N (Not Install)",
+      "Install Component [Poison Druid Kit]? [I]nstall, [N]ot Install, [Q]uit → I (Install)",
+      "Install Component [Spy Kit for Thieves]? [I]nstall, [N]ot Install, [Q]uit → Q (Quit)"
+    ]
   }
 }
