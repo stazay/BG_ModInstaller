@@ -362,5 +362,36 @@
       "Install Component [Dreadful Witch (Shaman Kit)]? [I]nstall, [N]ot Install, [Q]uit → I (Install)",
       "Install Component [Imprisoned Soul (Sorcerer Kit)]? [I]nstall, [N]ot Install, [Q]uit → I (Install)"
     ]
+  },
+  "Might_And_Guile": {
+    "input_notes": [
+      "Choose your language: [0] English, [1] French → 0 (English)",
+      "What should be done with all components that are NOT YET installed? [I]nstall them, [S]kip them, [A]sk about each one → A (Ask about each one)",
+      "Install Component [Move the Cavalier to the Fighter Class]? [I]nstall, [N]ot Install, [Q]uit → N (Not Install)",
+      "Install Component [Add the Corsair (fighter kit)]? [I]nstall, [N]ot Install, [Q]uit → N (Not Install)",
+      "Install Component [Add the Sohei Warrior (fighter kit)]? [I]nstall, [N]ot Install, [Q]uit → N (Not Install)",
+      "Install Component [Add the Ironsmith (fighter kit)]? [I]nstall, [N]ot Install, [Q]uit → N (Not Install)",
+      "Install Component [Add the Barbarian/Thief (fighter/thief kit)]? [I]nstall, [N]ot Install, [Q]uit → N (Not Install)",
+      "Install Component [Add the Tomb Runner (fighter/thief kit)]? [I]nstall, [N]ot Install, [Q]uit → N (Not Install)",
+      "Install Component [Add the Thug (fighter/thief kit)]? [I]nstall, [N]ot Install, [Q]uit → N (Not Install)",
+      "Install Component [Add the Rake (thief kit) and revise the Swashbuckler]? [I]nstall, [N]ot Install, [Q]uit → N (Not Install)",
+      "Install Component [Add the Ninja (thief kit)]? [I]nstall, [N]ot Install, [Q]uit → N (Not Install)",
+      "Install Component [Add the Ninja (fighter/thief kit)]? [I]nstall, [N]ot Install, [Q]uit → N (Not Install)",
+      "Install Component [Add the Spellfilcher (mage/thief kit)]? [I]nstall, [N]ot Install, [Q]uit → N (Not Install)",
+      "Install Component [Add the Loremaster (mage/thief kit)]? [I]nstall, [N]ot Install, [Q]uit → N (Not Install)",
+      "Install Component [Add Regional Ranger kits]? [I]nstall, [N]ot Install, [Q]uit → N (Not Install)",
+      "Install Component [Add the Mage Hunter (ranger kit)]? [I]nstall, [N]ot Install, [Q]uit → I (Install)",
+      "Install Component [Add the Barbarian Ranger (ranger kit)]? [I]nstall, [N]ot Install, [Q]uit → N (Not Install)",
+      "Install Component [Move the Archer to the Fighter Class]? [I]nstall, [N]ot Install, [Q]uit → N (Not Install)",
+      "Install Component [Add the Elven Archer (ranger kit)]? [I]nstall, [N]ot Install, [Q]uit → N (Not Install)",
+      "Install Component [Add the Halfling Slinger (fighter/thief kit)]? [I]nstall, [N]ot Install, [Q]uit → I (Install)",
+      "Install Component [Add the Marksman (thief kit)]? [I]nstall, [N]ot Install, [Q]uit → N (Not Install)",
+      "Install Component [Improved Rangers]? [I]nstall, [N]ot Install, [Q]uit → N (Not Install)",
+      "Install Component [Revised Movement Bonuses (Quickstride)]? [I]nstall, [N]ot Install, [Q]uit → N (Not Install)",
+      "Install Component [Revised Ranger Spell Table]? [I]nstall, [N]ot Install, [Q]uit → N (Not Install)",
+      "Install Component [Revised Archers]? [I]nstall, [N]ot Install, [Q]uit → N (Not Install)",
+      "Install Component [Revised Stalker]? [I]nstall, [N]ot Install, [Q]uit → I (Install)",
+      "Install Component [Revised Beastmaster]? [I]nstall, [N]ot Install, [Q]uit → Q (Quit)"
+    ]
   }
 }

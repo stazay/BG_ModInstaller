@@ -440,7 +440,10 @@
     "Might_And_Guile": {
       "setup_file": "setup-might_and_guile.exe",
       "inputs": [
+        "0",
         "A",
+        "N",
+        "N",
         "N",
         "N",
         "N",
@@ -466,10 +469,10 @@
         "Q"
       ],
       "description": "Might And Guile Kits",
-      "active": "",
-      "download_url": "",
-      "version": "",
-      "latest_update": ""
+      "active": "false",
+      "download_url": "https://github.com/UnearthedArcana/Might_and_Guile/releases",
+      "version": "5.8.9",
+      "latest_update": "21-02-2025"
     },
     "Morpheus562_Kitpack": {
       "setup_file": "setup-morpheus562-s-kitpack.exe",
