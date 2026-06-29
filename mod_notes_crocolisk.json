@@ -214,5 +214,12 @@
       "Install Component [Install the unique BG:EE BAM for Ajantis' Family Shield]? [I]nstall, [N]ot Install, [Q]uit → I (Install)",
       "Install Component [Ajantis SoD NPC: Crossmod Content]? [I]nstall, [N]ot Install, [Q]uit → I (Install)"
     ]
+  },
+  "Unfinished_Business": {
+    "input_notes": [
+      "Choose your language: → 0 (English)",
+      "Would you like to display the readme? [Y]es, [N]o → N (No)",
+      "What should be done with all components that are NOT YET installed? [I]nstall them, [S]kip them, [A]sk about each one → I (Install all)"
+    ]
   }
 }

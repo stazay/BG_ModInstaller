@@ -261,12 +261,12 @@
     },
     "Unfinished_Business": {
       "setup_file": "Setup-bg1ub.exe",
-      "inputs": ["0", "N", "I", "I"],
+      "inputs": ["0", "N", "I"],
       "description": "Unfinished Business",
-      "active": "",
-      "download_url": "",
-      "version": "",
-      "latest_update": ""
+      "active": "false",
+      "download_url": "https://github.com/Pocket-Plane-Group/bg1ub/releases",
+      "version": "17.1",
+      "latest_update": "25-08-2025"
     },
     "Sirines_Call": {
       "setup_file": "Setup-sirinescall.exe",
