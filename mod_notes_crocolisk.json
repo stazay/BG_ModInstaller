@@ -570,5 +570,25 @@
       "Install Component [Bardic Wonders: Jester Overhaul]? [I]nstall, [N]ot Install, [Q]uit → I (Install)",
       "Install Component [Bardic Wonders: Skald Overhaul]? [I]nstall, [N]ot Install, [Q]uit → Q (Quit)"
     ]
+  },
+  "Artisans_Kitpack_Kits2": {
+    "input_notes": [
+      "Would you like to display the components from [Rule Tweaks]? [Y]es, [N]o → N (No)",
+      "Would you like to display the components from [Multi-Class Kits]? [Y]es, [N]o → N (No)",
+      "Would you like to display the components from [Sorcerer Kits]? [Y]es, [N]o → N (No)",
+      "Would you like to display the components from [Monk Kits]? [Y]es, [N]o → N (No)",
+      "Would you like to display the components from [Fighter Kits]? [Y]es, [N]o → N (No)",
+      "Would you like to display the components from [Ranger Kits]? [Y]es, [N]o → N (No)",
+      "Would you like to display the components from [Paladin Kits]? [Y]es, [N]o → N (No)",
+      "Would you like to display the components from [Druid Kits]? [Y]es, [N]o → N (No)",
+      "Would you like to display the components from [Thief Kits]? [Y]es, [N]o → Y (Yes)",
+      "Would you like to display the components from [Shaman Kits]? [Y]es, [N]o → N (No)",
+      "Would you like to display the components from [Other]? [Y]es, [N]o → N (No)",
+      "Install Component [Artisan's Kitpack: Thief Overhaul]? [I]nstall, [N]ot Install, [Q]uit → N (Not Install)",
+      "Install Component [Artisan's Kitpack: Assassin Overhaul]? [I]nstall, [N]ot Install, [Q]uit → I (Install)",
+      "Install Component [Artisan's Kitpack: Bounty Hunter Overhaul]? [I]nstall, [N]ot Install, [Q]uit → I (Install)",
+      "Install Component [Artisan's Kitpack: Swashbuckler Overhaul]? [I]nstall, [N]ot Install, [Q]uit → I (Install)",
+      "Install Component [Artisan's Kitpack: Shadowdancer Overhaul]? [I]nstall, [N]ot Install, [Q]uit → Q (Quit)"
+    ]
   }
 }

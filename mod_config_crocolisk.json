@@ -673,18 +673,21 @@
         "N",
         "N",
         "N",
+        "N",
         "Y",
         "N",
         "N",
+        "N",
+        "I",
         "I",
         "I",
         "Q"
       ],
       "description": "Artisan's Kitpack Kits",
-      "active": "",
-      "download_url": "",
-      "version": "",
-      "latest_update": ""
+      "active": "true",
+      "download_url": "https://artisans-corner.com/the-artisans-kitpack/",
+      "version": "?",
+      "latest_update": "31-05-2026"
     },
     "Artisans_Kitpack_Tweaks": {
       "setup_file": "Setup-ArtisansKitpack_tweak.exe",
