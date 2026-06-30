@@ -603,5 +603,15 @@
       "Install Component [Artisan's Kitpack: Trickster - Mimic Mod Kit Abilities (install this after other kits!)]? [I]nstall, [N]ot Install, [Q]uit → I (Install)",
       "Install Component [Artisan's Kitpack: Adjust kit THAC0 progression to match tweaked THAC0 tables]? [I]nstall, [N]ot Install, [Q]uit → Q (Quit)"
     ]
+  },
+  "Improved_Shamanic_Dance": {
+    "input_notes": [
+      "Choose your language: [0] English, [1] French, [2] German, [3] Italian, [4] Polish, [5] Russian → 0 (English)",
+      "Would you like to display the readme? [Y]es, [N]o → N (No)",
+      "Install Component [Improved Shamanic Dance]? [I]nstall, [N]ot Install, [Q]uit → I (Install)",
+      "Install Component [Expanded Shamanic Dance for high level characters]? [I]nstall, [N]ot Install, [Q]uit → I (Install)",
+      "Install Component [Add spell \"Shamanic Pact\"]? [I]nstall, [N]ot Install, [Q]uit → I (Install)",
+      "Install Component [Apply Shamanic Dance improvements to Shaman kits]? [I]nstall, [N]ot Install, [Q]uit → I (Install)"
+    ]
   }
 }
