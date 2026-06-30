@@ -691,17 +691,7 @@
     },
     "Artisans_Kitpack_Tweaks": {
       "setup_file": "Setup-ArtisansKitpack_tweak.exe",
-      "inputs": [
-        "A",
-        "I",
-        "I",
-        "N",
-        "I",
-        "I",
-        "N",
-        "I",
-        "Q"
-      ],
+      "inputs": ["A", "I", "I", "N", "I", "I", "N", "I", "Q"],
       "description": "Artisan's Kitpack Tweaks",
       "active": "true",
       "download_url": "https://artisans-corner.com/the-artisans-kitpack/",
@@ -750,10 +740,10 @@
         "I"
       ],
       "description": "House Rules",
-      "active": "",
-      "download_url": "",
-      "version": "",
-      "latest_update": ""
+      "active": "false",
+      "download_url": "https://artisans-corner.com/house-rules/",
+      "version": "?",
+      "latest_update": "04-06-2026"
     },
     "Tweaks_Anthology": {
       "setup_file": "setup-cdtweaks.exe",
@@ -894,10 +884,10 @@
         "Q"
       ],
       "description": "Tweaks Anthology",
-      "active": "",
-      "download_url": "",
-      "version": "",
-      "latest_update": ""
+      "active": "true",
+      "download_url": "https://github.com/Gibberlings3/Tweaks-Anthology/releases",
+      "version": "18",
+      "latest_update": "22-08-2025"
     },
     "Talents_Of_Faerun": {
       "setup_file": "setup-dw_talents.exe",
@@ -940,10 +930,10 @@
         "I"
       ],
       "description": "Talents Of Faerun",
-      "active": "",
-      "download_url": "",
-      "version": "",
-      "latest_update": ""
+      "active": "true",
+      "download_url": "https://github.com/Gibberlings3/TalentsOfFaerun/releases",
+      "version": "15",
+      "latest_update": "21-11-2024"
     },
     "Sword_Coast_Stratagems": {
       "setup_file": "setup-stratagems.exe",
@@ -1005,10 +995,10 @@
         "I"
       ],
       "description": "Sword Coast Stratagems",
-      "active": "",
-      "download_url": "",
-      "version": "",
-      "latest_update": ""
+      "active": "true",
+      "download_url": "https://github.com/Gibberlings3/SwordCoastStratagems/releases",
+      "version": "35.21",
+      "latest_update": "21-11-2024"
     },
     "ATweaks": {
       "setup_file": "setup-atweaks.exe",
@@ -1052,28 +1042,28 @@
         "I"
       ],
       "description": "ATweaks",
-      "active": "",
-      "download_url": "",
-      "version": "",
-      "latest_update": ""
+      "active": "false",
+      "download_url": "(dead, no links)",
+      "version": "4.53",
+      "latest_update": "06-03-2022"
     },
     "Defjam": {
       "setup_file": "setup-xpmod.exe",
       "inputs": ["0", "N", "2", "Q"],
       "description": "Defjam",
-      "active": "",
-      "download_url": "",
-      "version": "",
-      "latest_update": ""
+      "active": "false",
+      "download_url": "https://github.com/Pocket-Plane-Group/D0XPmod/releases/tag/v7",
+      "version": "7",
+      "latest_update": "24-04-2020"
     },
-    "PPE": {
-      "setup_file": "setup-PPE.exe",
-      "inputs": ["0", "Y", "I", "1", "I", "Q"],
-      "description": "Portraits, Portraits, Everywhere!",
+    "HPS Portraits Project": {
+      "setup_file": "setup-hps_portrait_project.exe",
+      "inputs": [],
+      "description": "The HPS Portraits Project",
       "active": "",
-      "download_url": "",
-      "version": "",
-      "latest_update": ""
+      "download_url": "https://github.com/HoldenBG/HPS-Portraits-Project-1.0/releases",
+      "version": "1.2",
+      "latest_update": "31-05-2026"
     }
   },
   "install_order": [
@@ -1142,6 +1132,6 @@
     "ATweaks",
     "Defjam",
 
-    "PPE"
+    "HPS Portraits Project"
   ]
 }
