@@ -613,7 +613,7 @@
     },
     "Artisans_Kitpack_NPC": {
       "setup_file": "Setup-ArtisansKitpack_npc.exe",
-      "inputs": ["A", "I", "1", "I", "I", "N", "N", "1", "I", "I"],
+      "inputs": ["A", "I", "1", "I", "I", "N", "1", "I", "N", "I", "I"],
       "description": "Artisan's Kitpack NPCs",
       "active": "true",
       "download_url": "https://artisans-corner.com/the-artisans-kitpack/",

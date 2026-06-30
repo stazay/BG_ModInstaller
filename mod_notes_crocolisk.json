@@ -512,5 +512,20 @@
       "Install Component [Artisan's Kitpack: Warhorn Shaman Kit]? [I]nstall, [N]ot Install, [Q]uit → I (Install)",
       "Install Component [Artisan's Kitpack: Favored Soul (EEex only, under Shaman in chargen)]? [I]nstall, [N]ot Install, [Q]uit → Q (Quit)"
     ]
+  },
+  "Artisans_Kitpack_NPC": {
+    "input_notes": [
+      "What should be done with all components that are NOT YET installed? [I]nstall them, [S]kip them, [A]sk about each one → A (Ask about each one)",
+      "Install Component [Artisan's Kitpack: Give Khalid the Vanguard Kit]? [I]nstall, [N]ot Install, [Q]uit → I (Install)",
+      "Install Component [Artisan's Kitpack: Make Skitia's Emily an]? [N]o, [Q]uit, [1] Arcane Archer, [2] Arcane Archer / Mage → 1 (Arcane Archer)",
+      "Install Component [Artisan's Kitpack: Rashemi Berserker Ranger Kit for Minsc]? [I]nstall, [N]ot Install, [Q]uit → I (Install)",
+      "Install Component [Artisan's Kitpack: Give Ajantis the Divine Champion Kit]? [I]nstall, [N]ot Install, [Q]uit → I (Install)",
+      "Install Component [Artisan's Kitpack: Red Wizard Mage Kit for Edwin]? [I]nstall, [N]ot Install, [Q]uit → N (Not Install)",
+      "Install Component [Artisan's Kitpack: Make Imoen a]? [N]o, [Q]uit, [1] Rogue Archer, [2] Trickster → 1 (Rogue Archer)",
+      "Install Component [Artisan's Kitpack: Give M'khiin the Warhorn Shaman Kit]? [I]nstall, [N]ot Install, [Q]uit → I (Install)",
+      "Install Component [Artisan's Kitpack: Make Rasaad a Sacred Fist]? [I]nstall, [N]ot Install, [Q]uit → N (Not Install)",
+      "Install Component [Artisan's Kitpack: Make Xan an Eldritch Knight]? [I]nstall, [N]ot Install, [Q]uit → I (Install)",
+      "Install Component [Bardic Wonders: Give Garrick the Troubadour Kit]? [I]nstall, [N]ot Install, [Q]uit → I (Install)"
+    ]
   }
 }
