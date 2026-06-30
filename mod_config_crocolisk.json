@@ -691,21 +691,31 @@
     },
     "Artisans_Kitpack_Tweaks": {
       "setup_file": "Setup-ArtisansKitpack_tweak.exe",
-      "inputs": ["I", "N", "I"],
+      "inputs": [
+        "A",
+        "I",
+        "I",
+        "N",
+        "I",
+        "I",
+        "N",
+        "I",
+        "Q"
+      ],
       "description": "Artisan's Kitpack Tweaks",
-      "active": "",
-      "download_url": "",
-      "version": "",
-      "latest_update": ""
+      "active": "true",
+      "download_url": "https://artisans-corner.com/the-artisans-kitpack/",
+      "version": "?",
+      "latest_update": "31-05-2026"
     },
     "Improved_Shamanic_Dance": {
       "setup_file": "setup-A7#ImprovedShamanicDance.exe",
       "inputs": ["0", "N", "I", "I", "I", "I"],
       "description": "Improved Shamanic Dance",
-      "active": "",
-      "download_url": "",
-      "version": "",
-      "latest_update": ""
+      "active": "false",
+      "download_url": "https://github.com/Argent77/A7-ImprovedShamanicDance/releases",
+      "version": "4.6",
+      "latest_update": "07-12-2024"
     },
     "House_Rules": {
       "setup_file": "Setup-HouseTweaks.exe",
