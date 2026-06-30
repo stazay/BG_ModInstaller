@@ -546,5 +546,19 @@
       "Install Component [Sorcerer Spell Switching]? [N]o, [Q]uit, [1] Change spells every level, [2] Change spells once every three levels → 1 (Change spells every level)",
       "Install Component [Multiclass Sorcerers]? [I]nstall, [N]ot Install, [Q]uit → Q (Quit)"
     ]
+  },
+  "Rogue_Rebalancing": {
+    "input_notes": [
+      "Choose your language: [0] English, [1] Francais, [2] Espanol, [3] Deutsch, [4] Russian, [5] Italian, [6] Japanese, [7] Polski → 0 (English)",
+      "Would you like to display the readme? [Y]es, [N]o → N (No)",
+      "Install Component [Proper dual-wielding implementation for Thieves and Bards]? [I]nstall, [N]ot Install, [Q]uit → I (Install)",
+      "Install Component [Thief kit revisions]? [I]nstall, [N]ot Install, [Q]uit → I (Install)",
+      "Install Component [Proper racial adjustments for thieving skills]? [I]nstall, [N]ot Install, [Q]uit → I (Install)",
+      "Install Component [Bard kit revisions]? [I]nstall, [N]ot Install, [Q]uit → I (Install)",
+      "Install Component [Proper spell progression for Bards]? [I]nstall, [N]ot Install, [Q]uit → I (Install)",
+      "Install Component [Additional equipment for Thieves and Bards]? [I]nstall, [N]ot Install, [Q]uit → I (Install)",
+      "Install Component [Revised Thievery]? [N]o, [Q]uit, [1] Use PnP thievery potions and prevent their effects from stacking, [2] Retain default thievery potions and prevent their effects from stacking → N (Not Install)",
+      "Install Component [BG2-style icons for RR content]? [I]nstall, [N]ot Install, [Q]uit → I (Install)"
+    ]
   }
 }

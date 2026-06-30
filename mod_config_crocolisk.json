@@ -649,10 +649,10 @@
       "setup_file": "setup-rr.exe",
       "inputs": ["0", "N", "I", "I", "I", "I", "I", "I", "N", "I"],
       "description": "Rogue Rebalancing",
-      "active": "",
-      "download_url": "",
-      "version": "",
-      "latest_update": ""
+      "active": "false",
+      "download_url": "(dead, no up to date link)",
+      "version": "4.90",
+      "latest_update": "03-03-2019"
     },
     "Bardic_Wonders2": {
       "setup_file": "Setup-BardicWonders.exe",
