@@ -613,5 +613,32 @@
       "Install Component [Add spell \"Shamanic Pact\"]? [I]nstall, [N]ot Install, [Q]uit → I (Install)",
       "Install Component [Apply Shamanic Dance improvements to Shaman kits]? [I]nstall, [N]ot Install, [Q]uit → I (Install)"
     ]
+  },
+  "House_Rules": {
+    "input_notes": [
+      "What should be done with all components that are NOT YET installed? [I]nstall them, [S]kip them, [A]sk about each one → A (Ask about each one)",
+      "Install Component [House Tweaks: Expanded Racial Enemies]? [I]nstall, [N]ot Install, [Q]uit → N (Not Install)",
+      "Install Component [House Tweaks: Expanded Shapeshifting]? [I]nstall, [N]ot Install, [Q]uit → I (Install)",
+      "Install Component [House Tweaks: Expanded Racial Bonuses]? [I]nstall, [N]ot Install, [Q]uit → N (Not Install)",
+      "Install Component [House Tweaks: Rebalanced Proficiencies]? [I]nstall, [N]ot Install, [Q]uit → N (Not Install)",
+      "Install Component [House Tweaks: Rebalanced Weapon Styles]? [I]nstall, [N]ot Install, [Q]uit → I (Install)",
+      "Install Component [House Tweaks: Racial Weapon Proficiency]? [I]nstall, [N]ot Install, [Q]uit → N (Not Install)",
+      "Install Component [House Tweaks: Rebalanced Attacks Per Round Progression]? [I]nstall, [N]ot Install, [Q]uit → N (Not Install)",
+      "Install Component [House Tweaks: Backstab Tweaks]? [N]o, [Q]uit, [1] Backstab from any direction, [2] Backstab from any direction + Backstab from out of stealth at -2 modifier when attacking from behind → N (Not Install)",
+      "Install Component [House Tweaks: Revised Strength Bonuses]? [I]nstall, [N]ot Install, [Q]uit → N (Not Install)",
+      "Install Component [House Tweaks: Revised Dexterity Bonuses]? [I]nstall, [N]ot Install, [Q]uit → N (Not Install)",
+      "Install Component [House Tweaks: Rebalanced Constitution Bonuses]? [N]o, [Q]uit, [1] Constitution Bonuses for All Classes + Regeneration Changes, [2] Regeneration Changes Only, [3] Constitution Bonuses for All Classes Only → N (Not Install)",
+      "Install Component [House Tweaks: INT/WIS/CHA-based Bonus Spell Slots]? [I]nstall, [N]ot Install, [Q]uit → N (Not Install)",
+      "Install Component [House Tweaks: Improved Dialogues (BG:EE)]? [I]nstall, [N]ot Install, [Q]uit → N (Not Install)",
+      "Install Component [House Tweaks: Not-So-Indestructible Rats]? [I]nstall, [N]ot Install, [Q]uit → N (Not Install)",
+      "Install Component [House Tweaks: Faster Troll Unconsciousness]? [I]nstall, [N]ot Install, [Q]uit → N (Not Install)",
+      "Install Component [House Tweaks: Race Text Patch]? [I]nstall, [N]ot Install, [Q]uit → N (Not Install)",
+      "Install Component [House Tweaks: Hoodless Thief Avatars]? [I]nstall, [N]ot Install, [Q]uit → N (Not Install)",
+      "Install Component [House Tweaks: Experience Books]? [I]nstall, [N]ot Install, [Q]uit → N (Not Install)",
+      "Install Component [House Tweaks: Frozen, Disintegrated and Petrified Creatures Drop Items when Shattered]? [I]nstall, [N]ot Install, [Q]uit → I (Install)",
+      "Install Component [House Tweaks: Low-level Charm spells e.g. Charm Person (or Mammal) no longer turn targets hostile after expiring]? [I]nstall, [N]ot Install, [Q]uit → N (Not Install)",
+      "Install Component [House Tweaks: Passive Trap Detection]? [N]o, [Q]uit, [1] 2% chance per 5 points in Detect Traps check once per second, [2] 5% chance per 5 points in Detect Traps check once per second, [3] 100% chance of trap detection check once per second, [4] 5% chance per 5 points in Detect Traps above 100 check once per second → 4 (5% per 5 pts above 100)",
+      "Install Component [House Tweaks: Remove all 'Hide in Shadows' Voice Cues]? [I]nstall, [N]ot Install, [Q]uit → Q (Quit)"
+    ]
   }
 }
