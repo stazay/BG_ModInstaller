@@ -811,5 +811,45 @@
       "Install Component [Make Rancor +1 a Bit More Reliable]? [I]nstall, [N]ot Install, [Q]uit → N (Not Install)",
       "Install Component [Delay Neera's Appearance in Beregost]? [N]o, [Q]uit, [1] Delay until Nashkel mines cleared, [2] Delay until PC has 5000 XP → N (Not Install)"
     ]
+  },
+  "Talents_Of_Faerun": {
+    "input_notes": [
+      "Would you like to display the readme? [Y]es, [N]o → N (No)",
+      "Would you like to display the components from [Spell system revisions and new spells]? [Y]es, [N]o → Y (Yes)",
+      "Would you like to display the components from [Races and subraces]? [Y]es, [N]o → N (No)",
+      "Would you like to display the components from [Class and kit revisions]? [Y]es, [N]o → N (No)",
+      "Would you like to display the components from [New classes and kits]? [Y]es, [N]o → N (No)",
+      "Would you like to display the components from [Multiclassed/dual-classed kits]? [Y]es, [N]o → N (No)",
+      "Would you like to display the components from [Revised and new high-level and lower-level abilities]? [Y]es, [N]o → N (No)",
+      "Would you like to display the components from [Rule-system changes]? [Y]es, [N]o → Y (Yes)",
+      "Would you like to display the components from [User interface tweaks]? [Y]es, [N]o → Y (Yes)",
+      "Install Component [Install in batch mode (ask about all components before starting installation). DO NOT USE WITH PROJECT INFINITY.]? [I]nstall, or [N]ot Install or [Q]uit → N (Not Install)",
+      "Install Component [Include arcane spells from Icewind Dale: Enhanced Edition]? [I]nstall, or [N]ot Install or [Q]uit → I (Install)",
+      "Install Component [Include divine spells from Icewind Dale: Enhanced Edition]? [I]nstall, or [N]ot Install or [Q]uit → I (Install)",
+      "Install Component [Include bard songs from Icewind Dale: Enhanced Edition]? [I]nstall, or [N]ot Install or [Q]uit → N (Not Install)",
+      "Install Component [Install all spell tweaks (if you don't select this, you will be given a chance to choose by category)]? [I]nstall, or [N]ot Install or [Q]uit → N (Not Install)",
+      "Install Component [Core Stratagems spell-system changes (assumed by Sword Coast Stratagems mod)]? [I]nstall, or [N]ot Install or [Q]uit → I (Install)",
+      "Install Component [Changes to Restoration]? [I]nstall, or [N]ot Install or [Q]uit → N (Not Install)",
+      "Install Component [Changes to shapeshift spells]? [I]nstall, or [N]ot Install or [Q]uit → I (Install)",
+      "Install Component [Icewind Dale-inspired tweaks to Baldur's Gate/Baldur's Gate II spells]? [I]nstall, or [N]ot Install or [Q]uit → Y (Install)",
+      "Install Component [Rebalancings of slightly-too-powerful spells]? [I]nstall, or [N]ot Install or [Q]uit → N (Not Install)",
+      "Install Component [Spell school changes]? [I]nstall, or [N]ot Install or [Q]uit → I (Install)",
+      "Install Component [Spells increased in power]? [I]nstall, or [N]ot Install or [Q]uit → I (Install)",
+      "Install Component [Add 9 new arcane spells]? [I]nstall, or [N]ot Install or [Q]uit → I (Install)",
+      "Install Component [Add 6 new divine spells (some borrowed from Divine Remix)]? [I]nstall, or [N]ot Install or [Q]uit → I (Install)",
+      "Install Component [Revised Elementals]? [I]nstall, or [N]ot Install or [Q]uit → I (Install)",
+      "Install Component [Revised ability score modifiers]? [N]o, [Q]uit, [1] Standard Talents of Faerun system (recommended), [2] Strict pen-and-paper 3rd edition system → 1 (Standard Talents of Faerun system)",
+      "Install Component [Point-buy system for choosing ability scores]? [N]o, [Q]uit, [1-5 options] → N (Not Install)",
+      "Install Component [3rd-edition-style THAC0s (somewhat faster progression for clerics/thieves/mages)]? [I]nstall, or [N]ot Install or [Q]uit → N (Not Install)",
+      "Install Component [Revised Shields]? [I]nstall, or [N]ot Install or [Q]uit → N (Not Install)",
+      "Install Component [Cleric/Rangers may become proficient with longbows and shortbows]? [I]nstall, or [N]ot Install or [Q]uit → N (Not Install)",
+      "Install Component [Wider access to Grand Mastery]? [N]o, [Q]uit, [1-3 options] → N (Not Install)",
+      "Install Component [Dual-class kitted characters must obey the weapon-proficiency restrictions of their kit]? [I]nstall, or [N]ot Install or [Q]uit → N (Not Install)",
+      "Install Component [Dual-class characters gain weapon proficiencies as for their current class]? [I]nstall, or [N]ot Install or [Q]uit → N (Not Install)",
+      "Install Component [Revised Weapon Proficiency System]? [I]nstall, or [N]ot Install or [Q]uit → N (Not Install)",
+      "Install Component [Revised Weapon Styles]? [I]nstall, or [N]ot Install or [Q]uit → N (Not Install)",
+      "Install Component [Tidy up class-selection menu]? [I]nstall, or [N]ot Install or [Q]uit → N (Not Install)",
+      "Install Component [Thieves gain skill points in multiples of five]? [I]nstall, or [N]ot Install or [Q]uit → I (Install)"
+    ]
   }
 }
