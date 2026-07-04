@@ -645,7 +645,7 @@
     },
     "Rogue_Rebalancing": {
       "setup_file": "setup-rr.exe",
-      "inputs": ["0", "N", "I", "I", "I", "I", "I", "I", "N", "I"],
+      "inputs": ["0", "N", "N", "N", "N", "N", "I", "I", "N", "I"],
       "description": "Rogue Rebalancing",
       "active": "false",
       "download_url": "(dead, no up to date link)",
