@@ -317,7 +317,7 @@
       "setup_file": "setup-forgotten-armament.exe",
       "inputs": ["0", "N", "N", "I", "Q"],
       "description": "Forgotten Armament",
-      "active": "true",
+      "active": "false",
       "download_url": "https://www.morpheus-mart.com/forgotten-armament",
       "version": "4.4",
       "latest_update": "26-06-2024"
