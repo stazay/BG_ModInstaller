@@ -116,7 +116,7 @@
       "latest_update": "26-04-2024"
     },
     "Aura": {
-      "setup_file": "setup-aura_BG1.exe",
+      "setup_file": "Setup-Aura_BG1_2_EET",
       "inputs": ["A", "I", "4", "5"],
       "description": "Aura NPC",
       "active": "true",
@@ -368,7 +368,7 @@
       "latest_update": "30-08-2025"
     },
     "Warlock": {
-      "setup_file": "Setup-C0Warlock.exe",
+      "setup_file": "Setup-Artisans_Warlock.exe",
       "inputs": ["I", "1"],
       "description": "Warlock Kit",
       "active": "true",
