@@ -555,10 +555,7 @@
       "Install Component [Sorcerer: Revenant Disciple]? [I]nstall, [N]ot Install, [Q]uit → N (Not Install)",
       "Install Component [Sorcerer: Amorphous Disciple]? [I]nstall, [N]ot Install, [Q]uit → N (Not Install)",
       "Install Component [Revised Specialists]? [I]nstall, [N]ot Install, [Q]uit → I (Install)",
-      "Install Component [Revised Metamagic]? [N]o, [Q]uit, [1] Innate metamagic, learned automatically by everyone, [2] Innate metamagic, learned automatically but NOT by sorcerers, [3] Innate metamagic, learned from scrolls or character generation, [4] Innate metamagic, learned from scrolls ONLY (none for sorcerers) → N (Not Install)",
-      "Install Component [Metamagic: fill sequencers for free]? [I]nstall, [N]ot Install, [Q]uit → N (Not Install)",
-      "Install Component [Sorcerer Spell Switching]? [N]o, [Q]uit, [1] Change spells every level, [2] Change spells once every three levels → 1 (Change spells every level)",
-      "Install Component [Multiclass Sorcerers]? [I]nstall, [N]ot Install, [Q]uit → Q (Quit)"
+      "Install Component [Revised Metamagic]? [N]o, [Q]uit, [1] Innate metamagic, learned automatically by everyone, [2] Innate metamagic, learned automatically but NOT by sorcerers, [3] Innate metamagic, learned from scrolls or character generation, [4] Innate metamagic, learned from scrolls ONLY (none for sorcerers) → [Q]uit → Q (Quit)"
     ]
   },
   "Rogue_Rebalancing": {
