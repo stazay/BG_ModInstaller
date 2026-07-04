@@ -315,12 +315,12 @@
     },
     "Forgotten_Armament": {
       "setup_file": "setup-forgotten-armament.exe",
-      "inputs": ["0", "N", "Y", "N", "N", "I", "Q"],
+      "inputs": ["0", "N", "N", "I", "Q"],
       "description": "Forgotten Armament",
       "active": "true",
       "download_url": "https://www.morpheus-mart.com/forgotten-armament",
-      "version": "6.0",
-      "latest_update": "15-03-2026"
+      "version": "4.4",
+      "latest_update": "26-06-2024"
     },
     "Geomantic_Sorcerer": {
       "setup_file": "setup-druidsor.exe",
