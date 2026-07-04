@@ -316,26 +316,39 @@
       "Install Contingency UI-based Spell Learning System? [1] Yes, [2] No → 1 (Yes)"
     ]
   },
-  "Bardic_Wonders1": {
+  "Bardic_Wonders": {
     "input_notes": [
       "Would you like to display the components from [Kits]? [Y]es, [N]o → Y (Yes)",
       "Would you like to display the components from [Items & Abilities]? [Y]es, [N]o → Y (Yes)",
       "Would you like to display the components from [Tweaks & Patches]? [Y]es, [N]o → Y (Yes)",
-      "Install Component [Bardic Wonders: Blade Overhaul]? [I]nstall, [N]ot Install, [Q]uit → N (Not Install)",
-      "Install Component [Bardic Wonders: Jester Overhaul]? [I]nstall, [N]ot Install, [Q]uit → N (Not Install)",
-      "Install Component [Bardic Wonders: Skald Overhaul]? [I]nstall, [N]ot Install, [Q]uit → N (Not Install)",
+      "Install Component [Bardic Wonders: Blade Overhaul]? [I]nstall, [N]ot Install, [Q]uit → I (Install)",
+      "Install Component [Bardic Wonders: Jester Overhaul]? [I]nstall, [N]ot Install, [Q]uit → I (Install)",
+      "Install Component [Bardic Wonders: Skald Overhaul]? [I]nstall, [N]ot Install, [Q]uit → I (Install)",
       "Install Component [Bardic Wonders: Abettor of Mask Kit]? [I]nstall, [N]ot Install, [Q]uit → I (Install)",
-      "Install Component [Bardic Wonders: Dancer Kit]? [I]nstall, [N]ot Install, [Q]uit → N (Not Install)",
-      "Install Component [Bardic Wonders: Darkbloom Bard Kit]? [I]nstall, [N]ot Install, [Q]uit → N (Not Install)",
+      "Install Component [Bardic Wonders: Dancer Kit]? [I]nstall, [N]ot Install, [Q]uit → I (Install)",
+      "Install Component [Bardic Wonders: Darkbloom Bard Kit]? [I]nstall, [N]ot Install, [Q]uit → I (Install)",
       "Install Component [Bardic Wonders: Storm Drummer Kit]? [I]nstall, [N]ot Install, [Q]uit → I (Install)",
       "Install Component [Bardic Wonders: Troubadour Kit]? [I]nstall, [N]ot Install, [Q]uit → I (Install)",
       "OPTIONAL: Make Garrick a Troubadour? [1] Yes, [2] No → 1 (Yes)",
       "Install Component [Bardic Wonders: Deathsinger Kit]? [I]nstall, [N]ot Install, [Q]uit → I (Install)",
       "Install Component [Bardic Wonders: Strategist Kit]? [I]nstall, [N]ot Install, [Q]uit → I (Install)",
       "Install Component [Bardic Wonders: Kapellmeister Kit]? [I]nstall, [N]ot Install, [Q]uit → I (Install)",
-      "Install Component [Bardic Wonders: Gallant Paladin Kit]? [I]nstall, [N]ot Install, [Q]uit → N (Not Install)",
+      "Install Component [Bardic Wonders: Gallant Paladin Kit]? [I]nstall, [N]ot Install, [Q]uit → I (Install)",
       "Install Component [Bardic Wonders: Items]? [I]nstall, [N]ot Install, [Q]uit → I (Install)",
-      "Install Component [Bardic Wonders: Inspirations]? [I]nstall, [N]ot Install, [Q]uit → Q (Quit - continues in Bardic_Wonders2)"
+      "Install Component [Bardic Wonders: Inspirations]? [I]nstall, [N]ot Install, [Q]uit → I (Install)",
+      "Install Component [Bardic Wonders: High Level Abilities]? [I]nstall, [N]ot Install, [Q]uit → I (Install)",
+      "Install Component [Bardic Wonders: New Bard Spells]? [I]nstall, [N]ot Install, [Q]uit → I (Install)",
+      "Install Component [Bardic Wonders: Armored Casting for Bards]? [I]nstall, [N]ot Install, [Q]uit → N (Not Install)",
+      "Install Component [Bardic Wonders: Bard Song Mechanics Tweak]? [I]nstall, [N]ot Install, [Q]uit → N (Not Install)",
+      "Install Component [Bardic Wonders: Item Restriction Tweaks—Bards may use mage items and priest scrolls]? [I]nstall, [N]ot Install, [Q]uit → N (Not Install)",
+      "Install Component [Bardic Wonders: Item Restriction Tweaks—Bards may use Small and Medium Shields]? [I]nstall, [N]ot Install, [Q]uit → N (Not Install)",
+      "Install Component [Bardic Wonders: Item Restriction Tweaks—Bards may use Helmets]? [I]nstall, [N]ot Install, [Q]uit → N (Not Install)",
+      "Install Component [Bardic Wonders: Bard Song Overhead Visual Effect]? [I]nstall, [N]ot Install, [Q]uit → N (Not Install)",
+      "Install Component [Bardic Wonders: Mage/Bard and Fighter/Mage/Bard multi-class (EEex, under thief multis)]? [I]nstall, [N]ot Install, [Q]uit → I (Install)",
+      "Add 9th Level Mage Spells to Fighter/Mage/Bard HLAs? [1] Yes, [2] No → 2 (No)",
+      "Install Component [Bardic Wonders: 3e Alignment for Bards (any non-lawful)]? [I]nstall, [N]ot Install, [Q]uit → N (Not Install)",
+      "Install Component [Bardic Wonders: Bard Casting Level Begins from 2nd level]? [I]nstall, [N]ot Install, [Q]uit → N (Not Install)",
+      "Install Component [Bardic Wonders: Patch Dialogue Class Checks for: Gallant, Mage/Bard and Fighter/Mage/Bard (install late)]? [I]nstall, [N]ot Install, [Q]uit → I (Install)"
     ]
   },
   "Shadow_Magic": {
@@ -559,16 +572,6 @@
       "Install Component [Additional equipment for Thieves and Bards]? [I]nstall, [N]ot Install, [Q]uit → I (Install)",
       "Install Component [Revised Thievery]? [N]o, [Q]uit, [1] Use PnP thievery potions and prevent their effects from stacking, [2] Retain default thievery potions and prevent their effects from stacking → N (Not Install)",
       "Install Component [BG2-style icons for RR content]? [I]nstall, [N]ot Install, [Q]uit → I (Install)"
-    ]
-  },
-  "Bardic_Wonders2": {
-    "input_notes": [
-      "Would you like to display the components from [Kits]? [Y]es, [N]o → Y (Yes)",
-      "Would you like to display the components from [Items & Abilities]? [Y]es, [N]o → N (No)",
-      "Would you like to display the components from [Tweaks & Patches]? [Y]es, [N]o → N (No)",
-      "Install Component [Bardic Wonders: Blade Overhaul]? [I]nstall, [N]ot Install, [Q]uit → N (Not Install)",
-      "Install Component [Bardic Wonders: Jester Overhaul]? [I]nstall, [N]ot Install, [Q]uit → I (Install)",
-      "Install Component [Bardic Wonders: Skald Overhaul]? [I]nstall, [N]ot Install, [Q]uit → Q (Quit)"
     ]
   },
   "Artisans_Kitpack_Kits2": {
