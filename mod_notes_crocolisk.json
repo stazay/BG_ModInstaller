@@ -45,19 +45,15 @@
   },
   "BG1_NPC_Project": {
     "input_notes": [
-      "Choose your language: → 0 (English)",
-      "Would you like to display the readme? → N (No)",
-      "Would you like to display the components from [The BG1 NPC Project: Banters, Quests, and Interjections]? → Y (Yes)",
-      "Would you like to display the components from [The BG1 NPC Project: Romances]? → N (No)",
-      "Would you like to display the components from [The BG1 NPC Project: Tweaks]? → Y (Yes)",
-      "Would you like to display the components from [The BG1 NPC Project: Portrait Changes and Additions]? → Y (Yes)",
-      "Install Component [The BG1 NPC Project: Required Modifications]? → I (Install)",
-      "Install Component [The BG1 NPC Project: Banters, Quests, and Interjections]? → I (Install)",
-      "Install Component [The BG1 NPC Project: NPCs can be sent to wait in an inn]? → N (Not Install)",
-      "Install Component [BGEE Banter Timing Tweak]? [N]o, [Q]uit, or choose 1-5 → N (No)",
-      "Install Component [The BG1 NPC Project: Bardic Reputation Adjustment]? → N (Not Install)",
-      "Install Component [The BG1 NPC Project: Sarevok's Diary Adjustments]? [N]o, [Q]uit, or choose 1 → 1 (SixofSpades Extended Sarevok's Diary)",
-      "Install Component [The BG1 NPC Project: Kivan's Proficiency]? [N]o, [Q]uit, [1] Kivan uses spears, [2] Kivan uses halberds → Q (Quit)"
+      "Choose your language: [0] English, ... → 0 (English)",
+      "Would you like to display the readme? [Y]es, [N]o → N (No)",
+      "Would you like to display the components from [The BG1 NPC Project: Banters, Quests, and Interjections]? [Y]es, [N]o → Y (Yes)",
+      "Would you like to display the components from [The BG1 NPC Project: Romances]? [Y]es, [N]o → N (No)",
+      "Would you like to display the components from [The BG1 NPC Project: Tweaks]? [Y]es, [N]o → N (No)",
+      "Would you like to display the components from [The BG1 NPC Project: Portrait Changes and Additions]? [Y]es, [N]o → N (No)",
+      "Install Component [The BG1 NPC Project: Required Modifications]? [I]nstall, [N]ot Install, [Q]uit → I (Install)",
+      "Install Component [The BG1 NPC Project: Banters, Quests, and Interjections]? [I]nstall, [N]ot Install, [Q]uit → I (Install)",
+      "Install Component [The BG1 NPC Project: Player-Initiated Dialogues]? [I]nstall, [N]ot Install, [Q]uit → Q (Quit)"
     ]
   },
   "Indira": {
