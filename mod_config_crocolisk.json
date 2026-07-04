@@ -873,7 +873,7 @@
         "I",
         "N",
         "I",
-        "Y",
+        "I",
         "N",
         "I",
         "I",
@@ -1089,10 +1089,6 @@
     "House_Rules",
     "Tweaks_Anthology",
     "Talents_Of_Faerun",
-    "Sword_Coast_Stratagems",
-    "ATweaks",
-    "Defjam",
-
-    "HPS Portraits Project"
+    "Sword_Coast_Stratagems"
   ]
 }
