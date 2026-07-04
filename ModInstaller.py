@@ -5,7 +5,7 @@ import zipfile
 
 
 class SimpleModExtractor:
-    def __init__(self, config_file='mod_config.json'):
+    def __init__(self, config_file='mod_config_crocolisk.json'):
         if not os.path.exists(config_file):
             raise FileNotFoundError(f"Config file '{config_file}' not found.")
         with open(config_file, 'r') as f:
