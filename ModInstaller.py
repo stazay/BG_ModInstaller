@@ -151,17 +151,34 @@ class SimpleModExtractor:
 
             batch_content.extend([
                 f'echo Installing {mod_name}: {description}',
-                f'{setup_file} < {input_filename} > {output_file} 2>&1',
-                f'set MOD_ERR=%errorlevel%',
-                f'if %MOD_ERR% equ 0 (',
-                f'    echo [%date% %time%] SUCCESS:  {mod_name} ^({description}^) >> {log_file}',
-                f') else if %MOD_ERR% equ 3 (',
-                f'    echo [%date% %time%] WARNING:  {mod_name} ^({description}^) >> {log_file}',
-                f') else (',
-                f'    echo [%date% %time%] FAILED:   {mod_name} ^({description}^) >> {log_file}',
-                f')',
-                f'powershell -NoProfile -Command "Get-Content \'{output_file}\' | Where-Object {{ $_ -match \'Installing \\[|Installed\\.|NOT INSTALLED|ERROR\' }} | ForEach-Object {{ $_ -replace \'Installing \\[\',\'Installed [\' -replace \'(?<=\\]) \\[[^\\]]+\\]$\',\'\' }}"',
-                f'powershell -NoProfile -Command "Get-Content \'{output_file}\' | Where-Object {{ $_ -match \'Installing \\[|Installed\\.|NOT INSTALLED|ERROR\' }} | ForEach-Object {{ $_ -replace \'Installing \\[\',\'Installed [\' -replace \'(?<=\\]) \\[[^\\]]+\\]$\',\'\' }} | Add-Content \'{log_file}\'"',
+                f'{setup_file} < {input_filename} 2>&1 | powershell -NoProfile -Command "'
+                f"$input | Tee-Object -FilePath {output_file} | "
+                "ForEach-Object -Begin { $cur='' } -Process {"
+                "if($_ -match 'Installing \\['){"
+                "if($cur){Write-Host ('Successfully installed ' + $cur)};"
+                "$cur='[' + ($_ -replace 'Installing \\[','') -replace '(?<=\\]) \\[[^\\]]+\\]$','';"
+                "Write-Host ('Installing ' + $cur)"
+                "} elseif($_ -match 'NOT INSTALLED Due to error'){"
+                "if($cur){Write-Host ('Failed to install ' + $cur)};"
+                "Write-Host $_;"
+                "$cur=''"
+                "} elseif($_ -match 'Installed\\.'){"
+                "if($cur){Write-Host ('Successfully installed ' + $cur)};"
+                "$cur=''"
+                "} elseif($_ -match 'ERROR|FATAL'){"
+                "Write-Host $_"
+                "}}"
+                " -End { if($cur){Write-Host ('Successfully installed ' + $cur)} }"
+                '"',
+                f'set MOD_STAT=SUCCESS',
+                f'findstr /I /C:"Installed with warnings" {output_file} >nul 2>&1',
+                f'if %errorlevel% equ 0 set MOD_STAT=WARNING',
+                f'findstr /I /C:"NOT INSTALLED Due to error" {output_file} >nul 2>&1',
+                f'if %errorlevel% equ 0 set MOD_STAT=FAILED',
+                f'if "%MOD_STAT%"=="SUCCESS" echo [%date% %time%] SUCCESS:  {mod_name} ^({description}^) >> {log_file}',
+                f'if "%MOD_STAT%"=="WARNING" echo [%date% %time%] WARNING:  {mod_name} ^({description}^) >> {log_file}',
+                f'if "%MOD_STAT%"=="FAILED" echo [%date% %time%] FAILED:   {mod_name} ^({description}^) >> {log_file}',
+                f'powershell -NoProfile -Command "Get-Content \'{output_file}\' | Where-Object {{ $_ -match \'Installing \\[|Installed\\.|NOT INSTALLED|ERROR|FATAL\' }} | ForEach-Object {{ $_ -replace \'Installing \\[\',\'Installed [\' -replace \'(?<=\\]) \\[[^\\]]+\\]$\',\'\' }} | Add-Content \'{log_file}\'"',
                 f'echo. >> {log_file}',
                 f'del {output_file}',
                 f'echo Finished installing {mod_name}',
