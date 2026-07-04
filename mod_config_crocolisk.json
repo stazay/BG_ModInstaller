@@ -40,17 +40,7 @@
     },
     "BG1_NPC_Project": {
       "setup_file": "setup-bg1npc.exe",
-      "inputs": [
-        "0",
-        "N",
-        "Y",
-        "N",
-        "N",
-        "N",
-        "I",
-        "I",
-        "Q"
-      ],
+      "inputs": ["0", "N", "Y", "N", "N", "N", "I", "I", "Q"],
       "description": "BG1 NPC Project",
       "active": "false",
       "download_url": "https://github.com/Gibberlings3/BG1NPC/releases",
