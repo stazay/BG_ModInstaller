@@ -32,7 +32,7 @@ class SimpleModExtractor:
                     if self.extract_zip(filepath):
                         extracted_count += 1
 
-                elif filename.lower().endswith('.exe'):
+                elif filename.lower().endswith('.exe') or filename.lower().endswith('.7z'):
                     if self.extract_exe_with_7zip(filepath):
                         extracted_count += 1
 
