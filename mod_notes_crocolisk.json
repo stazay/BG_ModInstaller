@@ -913,5 +913,13 @@
       "Install Component [Expanded temple services]? [I]nstall, or [N]ot Install or [Q]uit → I (Install)",
       "Install Component [BG2-style icons for aTweaks content]? [I]nstall, or [N]ot Install or [Q]uit → I (Install)"
     ]
+  },
+  "Defjam": {
+    "input_notes": [
+      "Choose your language: [0] English, [1] Polski, [2] French, [3] Spanish, [4] Deutsch → 0 (English)",
+      "Would you like to display the readme? [Y]es, [N]o → N (No)",
+      "Install Component [Creature XP Reduction]? [N]o, [Q]uit or choose one: [1] Reduce to 75%, [2] Reduce to 50%, [3] Reduce to 25%, [4] Reduce to 1/6th for solo play, [5] Reduce to 10%, [6] Increase to 150%, [7] Increase to 200% → 2 (Reduce to 50%)",
+      "Install Component [Locks, Traps and Spells XP Reduction]? [N]o, [Q]uit or choose one: [1] Reduce to 75%, [2] Reduce to 50%, [3] Reduce to 25%, [4] Reduce to 1/6th for solo play, [5] Reduce to 10%, [6] Increase to 150%, [7] Increase to 200% → Q (Quit)"
+    ]
   }
 }
