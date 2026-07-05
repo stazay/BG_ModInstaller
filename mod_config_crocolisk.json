@@ -1013,8 +1013,8 @@
       "version": "7",
       "latest_update": "24-04-2020"
     },
-    "HPS Portraits Project": {
-      "setup_file": "setup-hps_portrait_project.exe",
+    "HPS_Portraits_Project": {
+      "setup_file": "setup-hps_portraits_project.exe",
       "inputs": ["N", "Y", "Y", "I", "I", "I", "I", "N", "N", "N", "4"],
       "description": "The HPS Portraits Project",
       "active": "",
@@ -1087,6 +1087,6 @@
     "Sword_Coast_Stratagems",
     "Defjam",
 
-    "HPS Portraits Project"
+    "HPS_Portraits_Project"
   ]
 }

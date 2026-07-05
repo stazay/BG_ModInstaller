@@ -915,7 +915,7 @@
       "Install Component [Locks, Traps and Spells XP Reduction]? [N]o, [Q]uit or choose one: [1] Reduce to 75%, [2] Reduce to 50%, [3] Reduce to 25%, [4] Reduce to 1/6th for solo play, [5] Reduce to 10%, [6] Increase to 150%, [7] Increase to 200% → Q (Quit)"
     ]
   },
-  "HPS Portraits Project": {
+  "HPS_Portraits_Project": {
     "input_notes": [
       "Would you like to display the readme? [Y]es, [N]o → N (No)",
       "Would you like to display the components from [Add missing Portraits to Base Game Npcs]? [Y]es, [N]o → Y (Yes)",
