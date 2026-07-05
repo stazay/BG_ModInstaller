@@ -890,14 +890,13 @@
         "N",
         "N",
         "N",
-        "N",
         "I"
       ],
       "description": "Talents Of Faerun",
-      "active": "true",
+      "active": "false",
       "download_url": "https://github.com/Gibberlings3/TalentsOfFaerun/releases",
-      "version": "15",
-      "latest_update": "21-11-2024"
+      "version": "3",
+      "latest_update": "07-01-2024"
     },
     "Sword_Coast_Stratagems": {
       "setup_file": "setup-stratagems.exe",
@@ -1091,6 +1090,7 @@
     "House_Rules",
     "Tweaks_Anthology",
     "Talents_Of_Faerun",
-    "Sword_Coast_Stratagems"
+    "Sword_Coast_Stratagems",
+    "ATweaks"
   ]
 }
