@@ -921,5 +921,20 @@
       "Install Component [Creature XP Reduction]? [N]o, [Q]uit or choose one: [1] Reduce to 75%, [2] Reduce to 50%, [3] Reduce to 25%, [4] Reduce to 1/6th for solo play, [5] Reduce to 10%, [6] Increase to 150%, [7] Increase to 200% → 2 (Reduce to 50%)",
       "Install Component [Locks, Traps and Spells XP Reduction]? [N]o, [Q]uit or choose one: [1] Reduce to 75%, [2] Reduce to 50%, [3] Reduce to 25%, [4] Reduce to 1/6th for solo play, [5] Reduce to 10%, [6] Increase to 150%, [7] Increase to 200% → Q (Quit)"
     ]
+  },
+  "HPS Portraits Project": {
+    "input_notes": [
+      "Would you like to display the readme? [Y]es, [N]o → N (No)",
+      "Would you like to display the components from [Add missing Portraits to Base Game Npcs]? [Y]es, [N]o → Y (Yes)",
+      "Would you like to display the components from [Add missing Portraits to Mods' Npcs]? [Y]es, [N]o → Y (Yes)",
+      "Install Component [Add missing Portraits to Base Game Unique NPCs]? [I]nstall, or [N]ot Install or [Q]uit → I (Install)",
+      "Install Component [Add missing Portraits to Minor and Common NPCs]? [I]nstall, or [N]ot Install or [Q]uit → I (Install)",
+      "Install Component [Add missing Portraits to Monsters and other Special NPCs]? [I]nstall, or [N]ot Install or [Q]uit → I (Install)",
+      "Install Component [Add new Portraits to Throne of Bhaal NPCs]? [I]nstall, or [N]ot Install or [Q]uit → I (Install)",
+      "Install Component [De-clone area's common NPCs and add unique portraits to them]? [I]nstall, or [N]ot Install or [Q]uit → N (Not Install)",
+      "Install Component [Add new portraits to original party NPCs]? [I]nstall, or [N]ot Install or [Q]uit → N (Not Install)",
+      "Install Component [Add drow portraits to original party NPCs]? [I]nstall, or [N]ot Install or [Q]uit → N (Not Install)",
+      "Install Component [Detect and add missing portraits to all mod's NPCs automatically (No => manual mod selection)]? [N]o, [Q]uit or choose one: [1] Add for all mods, replace original mod NPC and Party NPC portraits, [2] Add for all mods, replace Party NPC portraits only, [3] Add for all mods, replace original mod NPC portraits only, [4] Add for all mods, do not replace any existing portraits → 4 (Add for all mods, do not replace any existing portraits)"
+    ]
   }
 }

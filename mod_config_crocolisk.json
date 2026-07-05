@@ -1022,7 +1022,7 @@
     },
     "HPS Portraits Project": {
       "setup_file": "setup-hps_portrait_project.exe",
-      "inputs": [],
+      "inputs": ["N", "Y", "Y", "I", "I", "I", "I", "N", "N", "N", "4"],
       "description": "The HPS Portraits Project",
       "active": "",
       "download_url": "https://github.com/HoldenBG/HPS-Portraits-Project-1.0/releases",
@@ -1091,6 +1091,9 @@
     "Tweaks_Anthology",
     "Talents_Of_Faerun",
     "Sword_Coast_Stratagems",
-    "ATweaks"
+    "ATweaks",
+    "Defjam",
+
+    "HPS Portraits Project"
   ]
 }
