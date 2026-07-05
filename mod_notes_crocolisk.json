@@ -801,16 +801,7 @@
       "Install Component [Add 6 new divine spells (some borrowed from Divine Remix)]? [I]nstall, or [N]ot Install or [Q]uit → I (Install)",
       "Install Component [Revised Elementals]? [I]nstall, or [N]ot Install or [Q]uit → I (Install)",
       "Install Component [Revised ability score modifiers]? [N]o, [Q]uit or choose one: [1] Standard Talents of Faerun system (recommended), [2] Strict pen-and-paper 3rd edition system → 1 (Standard Talents of Faerun system)",
-      "Install Component [Point-buy system for choosing ability scores]? [N]o, [Q]uit or choose one: [1] 75 points, [2] 80 points, [3] 85 points, [4] 90 points, [5] Random points → N (Not Install)",
-      "Install Component [3rd-edition-style THAC0s (somewhat faster progression for clerics/thieves/mages)]? [I]nstall, or [N]ot Install or [Q]uit → N (Not Install)",
-      "Install Component [Remove intelligence-based restrictions on number and level of learnable spells]? [I]nstall, or [N]ot Install or [Q]uit → N (Not Install)",
-      "Install Component [Cleric/Rangers may become proficient with longbows and shortbows]? [I]nstall, or [N]ot Install or [Q]uit → N (Not Install)",
-      "Install Component [Wider access to Grand Mastery]? [N]o, [Q]uit or choose one: [1] Multi-classed fighters, [2] Paladins/blackguards/single-classed rangers, [3] All single- and multi-classed warriors → N (Not Install)",
-      "Install Component [Dual-class kitted characters must obey the weapon-proficiency restrictions of their kit]? [I]nstall, or [N]ot Install or [Q]uit → N (Not Install)",
-      "Install Component [Dual-class characters gain weapon proficiencies as for their current class]? [I]nstall, or [N]ot Install or [Q]uit → N (Not Install)",
-      "Install Component [Revised Weapon Proficiency System]? [I]nstall, or [N]ot Install or [Q]uit → N (Not Install)",
-      "Install Component [Tidy up class-selection menu]? [I]nstall, or [N]ot Install or [Q]uit → N (Not Install)",
-      "Install Component [Thieves gain skill points in multiples of five]? [I]nstall, or [N]ot Install or [Q]uit → I (Install)"
+      "Install Component [Point-buy system for choosing ability scores]? [N]o, [Q]uit or choose one: [1] 75 points, [2] 80 points, [3] 85 points, [4] 90 points, [5] Random points → Q (Quit)"
     ]
   },
   "Sword_Coast_Stratagems": {
