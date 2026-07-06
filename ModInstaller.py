@@ -178,7 +178,7 @@ class SimpleModExtractor:
                 f'if "%MOD_STAT%"=="SUCCESS" echo [%date% %time%] SUCCESS:  {mod_name} ^({description}^) >> {log_file}',
                 f'if "%MOD_STAT%"=="WARNING" echo [%date% %time%] WARNING:  {mod_name} ^({description}^) >> {log_file}',
                 f'if "%MOD_STAT%"=="FAILED" echo [%date% %time%] FAILED:   {mod_name} ^({description}^) >> {log_file}',
-                f'powershell -NoProfile -Command "Get-Content \'{output_file}\' | Where-Object {{ $_ -match \'Installing \\[|Installed\\.|NOT INSTALLED|ERROR|FATAL\' }} | ForEach-Object {{ $_ -replace \'Installing \\[\',\'Installed [\' -replace \'(?<=\\]) \\[[^\\]]+\\]$\',\'\' }} | Add-Content \'{log_file}\'"',
+                f'type {output_file} >> {log_file}',
                 f'echo. >> {log_file}',
                 f'del {output_file}',
                 f'echo Finished installing {mod_name}',
