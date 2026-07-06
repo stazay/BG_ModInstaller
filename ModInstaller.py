@@ -5,7 +5,7 @@ import zipfile
 
 
 class SimpleModExtractor:
-    def __init__(self, config_file='mod_config_crocolisk.json'):
+    def __init__(self, config_file):
         if not os.path.exists(config_file):
             raise FileNotFoundError(f"Config file '{config_file}' not found.")
         with open(config_file, 'r') as f:
@@ -198,19 +198,3 @@ class SimpleModExtractor:
 
         print(f"\nBatch file created: {batch_path}")
         print("This batch file uses input redirection from text files for installers.")
-
-def main():
-    extractor = SimpleModExtractor()
-
-    print("Simple BG Enhanced Edition Mod Extractor")
-    print("=" * 45)
-
-    if extractor.extract_mods():
-        print("\n" + "=" * 45)
-        extractor.list_setup_files()
-        extractor.create_simple_batch()
-    else:
-        print("No mods were extracted.")
-
-if __name__ == "__main__":
-    main()
