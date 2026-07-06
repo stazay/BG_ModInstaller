@@ -1,0 +1,352 @@
+{
+  "source_folder": "C:\\Users\\helpp\\Desktop\\BG2 DL",
+  "destination_folder": "C:\\Program Files (x86)\\GOG Galaxy\\Games\\Test",
+  "mod_components": {
+    "Jims_Fix_Pack": {
+      "setup_file": "Setup-jimfix.exe",
+      "inputs": ["0", "1", "N", "Y", "Y", "I", "1", "I", "I", "N"],
+      "description": "Jim's Fix Pack",
+      "active": "",
+      "download_url": "",
+      "version": "",
+      "latest_update": ""
+    },
+    "EEex": {
+      "setup_file": "setup-EEex.exe",
+      "inputs": ["N", "A", "I", "Q"],
+      "description": "EEex",
+      "active": "",
+      "download_url": "",
+      "version": "",
+      "latest_update": ""
+    },
+    "Ascension": {
+      "setup_file": "Setup-Ascension.exe",
+      "inputs": [
+        "0",
+        "N",
+        "Y",
+        "Y",
+        "Y",
+        "I",
+        "I",
+        "I",
+        "I",
+        "I",
+        "I",
+        "1",
+        "I",
+        "I",
+        "I",
+        "I",
+        "I",
+        "I",
+        "N",
+        "N",
+        "I",
+        "I",
+        "I"
+      ],
+      "description": "Ascension",
+      "active": "",
+      "download_url": "",
+      "version": "",
+      "latest_update": ""
+    },
+    "Assassinations": {
+      "setup_file": "setup-assassinations.exe",
+      "inputs": ["0", "N", "I"],
+      "description": "Assassinations",
+      "active": "",
+      "download_url": "",
+      "version": "",
+      "latest_update": ""
+    },
+    "Dungeon_Crawl": {
+      "setup_file": "setup-dc.exe",
+      "inputs": ["0", "N", "I"],
+      "description": "Dungeon Crawl",
+      "active": "",
+      "download_url": "",
+      "version": "",
+      "latest_update": ""
+    },
+    "G3_Anniversary_Mod": {
+      "setup_file": "setup-g3anniversary.exe",
+      "inputs": ["0", "N", "I"],
+      "description": "Gibberlings 3 Anniversary Mod",
+      "active": "",
+      "download_url": "",
+      "version": "",
+      "latest_update": ""
+    },
+    "Tower_of_Deception": {
+      "setup_file": "Setup-ToD.exe",
+      "inputs": ["0", "N", "I", "N", "N"],
+      "description": "Tower of Deception",
+      "active": "",
+      "download_url": "",
+      "version": "",
+      "latest_update": ""
+    },
+    "Back_To_Brynnlaw": {
+      "setup_file": "Setup-BackBrynnlaw.exe",
+      "inputs": ["0", "N", "I"],
+      "description": "Back To Brynnlaw",
+      "active": "",
+      "download_url": "",
+      "version": "",
+      "latest_update": ""
+    },
+    "The_Sellswords": {
+      "setup_file": "setup-sellswords.exe",
+      "inputs": ["0", "N", "I"],
+      "description": "The Sellswords",
+      "active": "",
+      "download_url": "",
+      "version": "",
+      "latest_update": ""
+    },
+    "The_White_Queen": {
+      "setup_file": "Setup-WhiteQueen.exe",
+      "inputs": ["0", "N", "1"],
+      "description": "The White Queen",
+      "active": "",
+      "download_url": "",
+      "version": "",
+      "latest_update": ""
+    },
+    "I_Shall_Never_Forget": {
+      "setup_file": "Setup-ISNF.exe",
+      "inputs": ["0", "N", "I"],
+      "description": "I Shall Never Forget",
+      "active": "",
+      "download_url": "",
+      "version": "",
+      "latest_update": ""
+    },
+    "Tales_of_the_Deep_Gardens": {
+      "setup_file": "Setup-ISNF.exe",
+      "inputs": ["0", "N", "1"],
+      "description": "Tales of the Deep Gardens",
+      "active": "",
+      "download_url": "",
+      "version": "",
+      "latest_update": ""
+    },
+    "The_Cost_of_Skies_Soul": {
+      "setup_file": "Setup-SkieCost.exe",
+      "inputs": ["0", "N", "A", "I", "I", "N", "I", "N", "I"],
+      "description": "The Cost of Skie's Soul",
+      "active": "",
+      "download_url": "",
+      "version": "",
+      "latest_update": ""
+    },
+    "Oozes_Lounge": {
+      "setup_file": "Setup-Ooze.exe",
+      "inputs": ["0", "N", "I"],
+      "description": "Ooze's Lounge",
+      "active": "",
+      "download_url": "",
+      "version": "",
+      "latest_update": ""
+    },
+    "The_Southern_Edge": {
+      "setup_file": "Setup-SouthernEdge.exe",
+      "inputs": ["0", "N", "1"],
+      "description": "The Southern Edge",
+      "active": "",
+      "download_url": "",
+      "version": "",
+      "latest_update": ""
+    },
+    "Tangled_Oak_Isle": {
+      "setup_file": "Setup-TangledIsle.exe",
+      "inputs": ["0", "N", "1"],
+      "description": "Tangled Oak Isle",
+      "active": "",
+      "download_url": "",
+      "version": "",
+      "latest_update": ""
+    },
+    "Bridges_Block": {
+      "setup_file": "setup-BridgesBlock.exe",
+      "inputs": ["0", "N", "I"],
+      "description": "Bridge's Block",
+      "active": "",
+      "download_url": "",
+      "version": "",
+      "latest_update": ""
+    },
+    "Alabaster_Sands": {
+      "setup_file": "Setup-AlabasterSands.exe",
+      "inputs": ["0", "N", "1"],
+      "description": "Alabaster Sands",
+      "active": "",
+      "download_url": "",
+      "version": "",
+      "latest_update": ""
+    },
+    "Journey_to_Whin_Hill": {
+      "setup_file": "setup-WhinHill.exe",
+      "inputs": ["N", "1", "I", "N"],
+      "description": "Journey to Whin Hill",
+      "active": "",
+      "download_url": "",
+      "version": "",
+      "latest_update": ""
+    },
+    "In_Love_Undeath": {
+      "setup_file": "Setup-InLoveUndeath.exe",
+      "inputs": ["N", "1", "N"],
+      "description": "In Love, Undeath",
+      "active": "",
+      "download_url": "",
+      "version": "",
+      "latest_update": ""
+    },
+    "The_Bloodied_Stings_of_Barovia": {
+      "setup_file": "Setup-BloodiedStingsOfBarovia.exe",
+      "inputs": ["0", "N", "I"],
+      "description": "The Bloodied Stings of Barovia",
+      "active": "",
+      "download_url": "",
+      "version": "",
+      "latest_update": ""
+    },
+    "Juniper_and_the_Stone_Leech": {
+      "setup_file": "Setup-JuniperAndTheStoneLeech.exe",
+      "inputs": ["0", "N", "I", "N"],
+      "description": "Juniper and the Stone Leech",
+      "active": "",
+      "download_url": "",
+      "version": "",
+      "latest_update": ""
+    },
+    "Dark_Tidings": {
+      "setup_file": "setup-tidings.exe",
+      "inputs": ["1", "N", "I"],
+      "description": "Dark Tidings",
+      "active": "",
+      "download_url": "",
+      "version": "",
+      "latest_update": ""
+    },
+    "Call_of_the_Lost_Goddess": {
+      "setup_file": "setup-godcall.exe",
+      "inputs": ["1", "N", "I", "I", "I"],
+      "description": "Call of the Lost Goddess",
+      "active": "",
+      "download_url": "",
+      "version": "",
+      "latest_update": ""
+    },
+    "Throne_of_the_Mad_God": {
+      "setup_file": "Setup-ThroneoftheMadGod.exe",
+      "inputs": ["1", "N", "I"],
+      "description": "Throne of the Mad God",
+      "active": "",
+      "download_url": "",
+      "version": "",
+      "latest_update": ""
+    },
+    "Fight_the_Heavens": {
+      "setup_file": "setup-fight-the-heavens.exe",
+      "inputs": ["N", "I"],
+      "description": "Fight the Heavens",
+      "active": "",
+      "download_url": "",
+      "version": "",
+      "latest_update": ""
+    },
+    "Crucible": {
+      "setup_file": "setup-crucible.exe",
+      "inputs": ["0", "1"],
+      "description": "Crucible",
+      "active": "",
+      "download_url": "",
+      "version": "",
+      "latest_update": ""
+    },
+    "Unfinished_Business": {
+      "setup_file": "setup-ub.exe",
+      "inputs": [
+        "0",
+        "N",
+        "I",
+        "I",
+        "I",
+        "N",
+        "N",
+        "N",
+        "I",
+        "I",
+        "I",
+        "I",
+        "I",
+        "I",
+        "N",
+        "N",
+        "I",
+        "I",
+        "I",
+        "N",
+        "I",
+        "I",
+        "N",
+        "N",
+        "I",
+        "I"
+      ],
+      "description": "Unfinished Business",
+      "active": "",
+      "download_url": "",
+      "version": "",
+      "latest_update": ""
+    },
+    "Dingos_Questpack": {
+      "setup_file": "setup-d0questpack.exe",
+      "inputs": [
+        "0",
+        "N",
+        "A",
+        "I",
+        "1",
+        "1",
+        "I",
+        "I",
+        "I",
+        "I",
+        "I",
+        "I",
+        "N",
+        "1",
+        "I",
+        "I",
+        "I",
+        "I",
+        "I",
+        "I",
+        "I",
+        "I",
+        "I"
+      ],
+      "description": "Dingo's Questpack",
+      "active": "",
+      "download_url": "",
+      "version": "",
+      "latest_update": ""
+    },
+    "Ascalons_Questpack": {
+      "setup_file": "setup-ascalon-questpack.exe",
+      "inputs": ["1", "I"],
+      "description": "Ascalon's Questpack",
+      "active": "",
+      "download_url": "",
+      "version": "",
+      "latest_update": ""
+    }
+  },
+  "install_order": ["Jims_Fix_Pack"]
+}
