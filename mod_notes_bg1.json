@@ -927,7 +927,7 @@
       "Install Component [De-clone area's common NPCs and add unique portraits to them]? [I]nstall, or [N]ot Install or [Q]uit → N (Not Install)",
       "Install Component [Add new portraits to original party NPCs]? [I]nstall, or [N]ot Install or [Q]uit → I (Install)",
       "Install Component [Add drow portraits to original party NPCs]? [I]nstall, or [N]ot Install or [Q]uit → N (Not Install)",
-      "Install Component [Detect and add missing portraits to all mod's NPCs automatically (No => manual mod selection)]? [N]o, [Q]uit or choose one: [1] Add for all mods, replace original mod NPC and Party NPC portraits, [2] Add for all mods, replace Party NPC portraits only, [3] Add for all mods, replace original mod NPC portraits only, [4] Add for all mods, do not replace any existing portraits → 2 (Add for all mods, replace Party NPC portraits only)"
+      "Install Component [Detect and add missing portraits to all mod's NPCs automatically (No => manual mod selection)]? [N]o, [Q]uit or choose one: [1] Add for all mods, replace original mod NPC and Party NPC portraits, [2] Add for all mods, replace Party NPC portraits only, [3] Add for all mods, replace original mod NPC portraits only, [4] Add for all mods, do not replace any existing portraits → 1 (Add for all mods, replace original mod NPC and Party NPC portraits)"
     ]
   }
 }
