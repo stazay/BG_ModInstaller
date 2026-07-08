@@ -1,5 +1,7 @@
 # 🔧 BGEE & BG2EE Mod Installer Tool
 
+![Python](./tech/python.png) ![Shell](./tech/shell.png) ![Git](./tech/git.png) ![VSCode](./tech/vscode.png)
+
 Did you ever find it tedious to install all your _Baldur's Gate: Enhanced Edition_ mods manually?  
 This script helps you automate that process for the future, using Python!
 
@@ -7,16 +9,16 @@ This script helps you automate that process for the future, using Python!
 
 ## 📁 File Structure
 
-| File | Purpose |
-|------|---------|
-| `ModInstaller.py` | Shared base class — extraction, batch generation logic |
-| `bg1_install.py` | Launcher for Baldur's Gate 1 |
-| `bg2_install.py` | Launcher for Baldur's Gate 2 |
-| `mod_config_bg1.json` | BG1 mod configuration |
-| `mod_config_bg2.json` | BG2 mod configuration |
-| `mod_notes_bg1.json` | Notes explaining each input choice for BG1 mods |
-| `mod_notes_bg2.json` | Notes explaining each input choice for BG2 mods |
-| `example_mod_config.json` | Minimal example config to get started |
+| File                      | Purpose                                                |
+| ------------------------- | ------------------------------------------------------ |
+| `ModInstaller.py`         | Shared base class — extraction, batch generation logic |
+| `bg1_install.py`          | Launcher for Baldur's Gate 1                           |
+| `bg2_install.py`          | Launcher for Baldur's Gate 2                           |
+| `mod_config_bg1.json`     | BG1 mod configuration                                  |
+| `mod_config_bg2.json`     | BG2 mod configuration                                  |
+| `mod_notes_bg1.json`      | Notes explaining each input choice for BG1 mods        |
+| `mod_notes_bg2.json`      | Notes explaining each input choice for BG2 mods        |
+| `example_mod_config.json` | Minimal example config to get started                  |
 
 ---
 
@@ -36,7 +38,7 @@ This script helps you automate that process for the future, using Python!
      - `version` — current version
      - `latest_update` — date of latest update
    - `install_order` — list of mod keys in the order they should be installed. Only mods listed here will be installed.
-   > ⚠️ Mod keys (the names used in `mod_components` and `install_order`) must not contain spaces or apostrophes, as they are used to generate filenames. Use underscores instead, e.g. `Jims_Fix_Pack`.
+     > ⚠️ Mod keys (the names used in `mod_components` and `install_order`) must not contain spaces or apostrophes, as they are used to generate filenames. Use underscores instead, e.g. `Jims_Fix_Pack`.
 4. **Important:** The first input for your very first mod should include the language parameter, e.g. `"2"` for English.
 5. Run the relevant launcher:
    - `python bg1_install.py` for BG1
