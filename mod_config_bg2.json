@@ -4,12 +4,12 @@
   "mod_components": {
     "Jims_Fix_Pack": {
       "setup_file": "Setup-jimfix.exe",
-      "inputs": ["0", "1", "N", "Y", "Y", "I", "1", "I", "I", "N"],
+      "inputs": ["0", "1", "N", "Y", "Y", "I", "2", "I", "I", "N"],
       "description": "Jim's Fix Pack",
-      "active": "",
-      "download_url": "",
-      "version": "",
-      "latest_update": ""
+      "active": "false",
+      "download_url": "https://forums.beamdog.com/discussion/66358/mod-jimfix-ascension-scs-fixes-general-tweaks-updated-for-scs-v33",
+      "version": "3.1a",
+      "latest_update": "20-09-2020"
     },
     "EEex": {
       "setup_file": "setup-EEex.exe",

@@ -1,0 +1,16 @@
+{
+  "Jims_Fix_Pack": {
+    "input_notes": [
+      "Choose your language: → 0 (English)",
+      "Please choose the language in which you wish to play the game: → 1 (English)",
+      "Would you like to display the readme? → N (No)",
+      "Would you like to display the components from [Fixes]? → Y (Yes)",
+      "Would you like to display the components from [Tweaks]? → Y (Yes)",
+      "Install Component [Check for and fix incorrect spell animations]? → I (Install)",
+      "Install Component [Add spell school notifications to the combat log]? → 2 (All spells with a casting time greater than 2)",
+      "Install Component [Add expiration notifications for buffs]? → I (Install)",
+      "Install Component [Add expiration notifications for item buffs]? → I (Install)",
+      "Install Component [Reveal all hidden doors]? → N (Not Install)"
+    ]
+  }
+}
