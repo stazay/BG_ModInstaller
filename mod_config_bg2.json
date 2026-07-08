@@ -15,10 +15,10 @@
       "setup_file": "setup-EEex.exe",
       "inputs": ["N", "A", "Y", "N", "I", "I", "I", "N", "N", "N", "I"],
       "description": "EEex",
-      "active": "",
-      "download_url": "",
-      "version": "",
-      "latest_update": ""
+      "active": "true",
+      "download_url": "https://github.com/Bubb13/EEex/releases",
+      "version": "1.0.0",
+      "latest_update": "10-05-2026"
     },
     "Ascension": {
       "setup_file": "Setup-Ascension.exe",
