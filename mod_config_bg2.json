@@ -13,7 +13,7 @@
     },
     "EEex": {
       "setup_file": "setup-EEex.exe",
-      "inputs": ["N", "A", "I", "Q"],
+      "inputs": ["N", "A", "Y", "N", "I", "I", "I", "N", "N", "N", "I"],
       "description": "EEex",
       "active": "",
       "download_url": "",
