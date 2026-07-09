@@ -74,11 +74,11 @@
     "G3_Anniversary_Mod": {
       "setup_file": "setup-g3anniversary.exe",
       "inputs": ["0", "N", "I"],
-      "description": "Gibberlings 3 Anniversary Mod",
-      "active": "",
-      "download_url": "",
-      "version": "",
-      "latest_update": ""
+      "description": "Gibberlings 3 Anniversary",
+      "active": "true",
+      "download_url": "https://github.com/Gibberlings3/g3anniversary/releases",
+      "version": "14",
+      "latest_update": "24-04-2026"
     },
     "Tower_of_Deception": {
       "setup_file": "Setup-ToD.exe",

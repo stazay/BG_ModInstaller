@@ -68,5 +68,12 @@
       "Would you like to display the readme? → N (No)",
       "Install Component [Dungeon Crawl]? → I (Install)"
     ]
+  },
+  "G3_Anniversary_Mod": {
+    "input_notes": [
+      "Choose your language: → 0 (English)",
+      "Would you like to display the readme? → N (No)",
+      "Install Component [The Gibberlings Three Anniversary Mod]? → I (Install)"
+    ]
   }
 }
