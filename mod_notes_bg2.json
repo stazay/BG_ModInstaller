@@ -54,5 +54,12 @@
       "Install Component [Sharper portraits of Abazigal and Gromnir for the Enhanced Edition, by DavidW]? → I (Install)",
       "Install Component [Slightly improved cutscenes, by DavidW]? → I (Install)"
     ]
+  },
+  "Assassinations": {
+    "input_notes": [
+      "Choose your language: → 0 (English)",
+      "Would you like to display the readme? → N (No)",
+      "Install Component [Assassinations mod for Baldur's Gate II]? → I (Install)"
+    ]
   }
 }
