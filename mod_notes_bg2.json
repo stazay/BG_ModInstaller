@@ -27,5 +27,32 @@
       "Install Component [Enable time step module: Advance 1 game tick on keypress]? → N (Not Install)",
       "Install Component [Enable timer module: Visual indicators for modal actions, contingencies, and spell/item cooldowns]? → I (Install)"
     ]
+  },
+  "Ascension": {
+    "input_notes": [
+      "Choose your language: → 0 (English)",
+      "Would you like to display the readme? → N (No)",
+      "Would you like to display the components from [Ascension]? → Y (Yes)",
+      "Would you like to display the components from [Tougher Throne of Bhaal battles]? → Y (Yes)",
+      "Would you like to display the components from [Additional Content (not part of original Ascension mod)]? → Y (Yes)",
+      "Install Component [Rewritten Final Chapter of Throne of Bhaal]? → I (Install)",
+      "Install Component [Balthazar can be redeemed]? → I (Install)",
+      "Install Component [Improved Sarevok-Player Interactions]? → I (Install)",
+      "Install Component [Improved Imoen-Player Interactions in Throne of Bhaal]? → I (Install)",
+      "Install Component [Restored Bhaalspawn Powers]? → I (Install)",
+      "Install Component [Improved Slayer Transformation]? → I (Install)",
+      "Install Component [Expanded Epilogues for Bioware NPCs]? → 1 (David Gaider's expanded epilogues for Bioware NPCs)",
+      "Install Component [Tougher Abazigal]? → I (Install)",
+      "Install Component [Tougher Balthazar]? → I (Install)",
+      "Install Component [Tougher Demogorgon]? → I (Install)",
+      "Install Component [Tougher Gromnir]? → I (Install)",
+      "Install Component [Tougher Illasera]? → I (Install)",
+      "Install Component [Tougher Yaga-Shura]? → I (Install)",
+      "Install Component [Full-body portrait for Bodhi]? → N (Not Install)",
+      "Install Component [Alternate Balthazar portrait, by Cuv]? → I (Install)",
+      "Install Component [Extended Epilogues for additional Beamdog NPCs, by shawne]? → I (Install)",
+      "Install Component [Sharper portraits of Abazigal and Gromnir for the Enhanced Edition, by DavidW]? → I (Install)",
+      "Install Component [Slightly improved cutscenes, by DavidW]? → I (Install)"
+    ]
   }
 }
