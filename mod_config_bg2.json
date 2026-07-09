@@ -215,6 +215,15 @@
       "version": "",
       "latest_update": ""
     },
+    "Ink_Gallery": {
+      "setup_file": "Setup-InkGallery.exe",
+      "inputs": [],
+      "description": "Ink Gallery",
+      "active": "",
+      "download_url": "",
+      "version": "",
+      "latest_update": ""
+    },
     "Juniper_and_the_Stone_Leech": {
       "setup_file": "Setup-JuniperAndTheStoneLeech.exe",
       "inputs": ["0", "N", "I", "N"],
@@ -222,6 +231,15 @@
       "active": "",
       "download_url": "",
       "version": "",
+      "latest_update": ""
+    },
+    "Poisoned_Pathways": {
+      "setup_file": "Setup-Poisoned_pathways.exe",
+      "inputs": [],
+      "description": "Poisoned Pathways",
+      "active": "",
+      "download_url": "",
+      "version": "1.1",
       "latest_update": ""
     },
     "Dark_Tidings": {
@@ -346,7 +364,715 @@
       "download_url": "",
       "version": "",
       "latest_update": ""
+    },
+    "Item_Upgrade": {
+      "setup_file": "",
+      "inputs": [],
+      "description": "Item Upgrade",
+      "active": "",
+      "download_url": "",
+      "version": "55",
+      "latest_update": ""
+    },
+    "SoD_to_BG2_item_upgrade": {
+      "setup_file": "",
+      "inputs": [],
+      "description": "SoD to BG2 EE",
+      "active": "",
+      "download_url": "",
+      "version": "1.2.0",
+      "latest_update": ""
+    },
+    "Improved_Haerdalis_Swords": {
+      "setup_file": "",
+      "inputs": [],
+      "description": "Improved Haerdalis Swords",
+      "active": "",
+      "download_url": "",
+      "version": "",
+      "latest_update": ""
+    },
+    "Forgotten_Armament": {
+      "setup_file": "",
+      "inputs": [],
+      "description": "Forgotten Armament",
+      "active": "",
+      "download_url": "",
+      "version": "",
+      "latest_update": ""
+    },
+    "Cowled_Menace": {
+      "setup_file": "",
+      "inputs": [],
+      "description": "Cowled Menace",
+      "active": "",
+      "download_url": "",
+      "version": "2.0.3",
+      "latest_update": ""
+    },
+    "Tashia": {
+      "setup_file": "",
+      "inputs": [],
+      "description": "Tashia NPC",
+      "active": "",
+      "download_url": "",
+      "version": "1.5",
+      "latest_update": ""
+    },
+    "Amber": {
+      "setup_file": "",
+      "inputs": [],
+      "description": "Amber NPC",
+      "active": "",
+      "download_url": "",
+      "version": "",
+      "latest_update": ""
+    },
+    "Kivan": {
+      "setup_file": "",
+      "inputs": [],
+      "description": "Kivan NPC",
+      "active": "",
+      "download_url": "",
+      "version": "",
+      "latest_update": ""
+    },
+    "Gavin": {
+      "setup_file": "",
+      "inputs": [],
+      "description": "Gavin NPC",
+      "active": "",
+      "download_url": "",
+      "version": "",
+      "latest_update": ""
+    },
+    "Aurenaseph": {
+      "setup_file": "",
+      "inputs": [],
+      "description": "Auren Aseph NPC",
+      "active": "",
+      "download_url": "",
+      "version": "",
+      "latest_update": ""
+    },
+    "Sarah": {
+      "setup_file": "",
+      "inputs": [],
+      "description": "Sarah NPC",
+      "active": "",
+      "download_url": "",
+      "version": "",
+      "latest_update": ""
+    },
+    "Angelo": {
+      "setup_file": "",
+      "inputs": [],
+      "description": "Angelo NPC",
+      "active": "",
+      "download_url": "",
+      "version": "",
+      "latest_update": ""
+    },
+    "Yeslick_NPC": {
+      "setup_file": "",
+      "inputs": [],
+      "description": "Yeslick NPC",
+      "active": "",
+      "download_url": "",
+      "version": "5.0",
+      "latest_update": ""
+    },
+    "Tyris_Flare": {
+      "setup_file": "",
+      "inputs": [],
+      "description": "Tyris Flare NPC",
+      "active": "",
+      "download_url": "",
+      "version": "",
+      "latest_update": ""
+    },
+    "Adrian": {
+      "setup_file": "",
+      "inputs": [],
+      "description": "Adrian NPC",
+      "active": "",
+      "download_url": "",
+      "version": "",
+      "latest_update": ""
+    },
+    "Saerileth": {
+      "setup_file": "",
+      "inputs": [],
+      "description": "Saerileth NPC",
+      "active": "",
+      "download_url": "",
+      "version": "",
+      "latest_update": ""
+    },
+    "Isra": {
+      "setup_file": "",
+      "inputs": [],
+      "description": "Isra NPC",
+      "active": "",
+      "download_url": "",
+      "version": "",
+      "latest_update": ""
+    },
+    "The_Beaurin_Legacy": {
+      "setup_file": "",
+      "inputs": [],
+      "description": "The Beaurin Legacy",
+      "active": "",
+      "download_url": "",
+      "version": "",
+      "latest_update": ""
+    },
+    "Navarra": {
+      "setup_file": "",
+      "inputs": [],
+      "description": "Navarra NPC",
+      "active": "",
+      "download_url": "",
+      "version": "",
+      "latest_update": ""
+    },
+    "Yasraena": {
+      "setup_file": "",
+      "inputs": [],
+      "description": "Yasraena NPC",
+      "active": "",
+      "download_url": "",
+      "version": "",
+      "latest_update": ""
+    },
+    "Xan": {
+      "setup_file": "",
+      "inputs": [],
+      "description": "Xan",
+      "active": "",
+      "download_url": "",
+      "version": "",
+      "latest_update": ""
+    },
+    "Evandra": {
+      "setup_file": "",
+      "inputs": [],
+      "description": "Evandra",
+      "active": "",
+      "download_url": "",
+      "version": "",
+      "latest_update": ""
+    },
+    "Kelsey": {
+      "setup_file": "",
+      "inputs": [],
+      "description": "Kelsey",
+      "active": "",
+      "download_url": "",
+      "version": "",
+      "latest_update": ""
+    },
+    "Keto": {
+      "setup_file": "",
+      "inputs": [],
+      "description": "Keto",
+      "active": "",
+      "download_url": "",
+      "version": "",
+      "latest_update": ""
+    },
+    "Fade": {
+      "setup_file": "",
+      "inputs": [],
+      "description": "Fade",
+      "active": "",
+      "download_url": "",
+      "version": "",
+      "latest_update": ""
+    },
+    "Faldorn": {
+      "setup_file": "",
+      "inputs": [],
+      "description": "Faldorn",
+      "active": "",
+      "download_url": "",
+      "version": "",
+      "latest_update": ""
+    },
+    "Skitia_NPCs": {
+      "setup_file": "",
+      "inputs": [],
+      "description": "Skitia NPCs",
+      "active": "",
+      "download_url": "",
+      "version": "",
+      "latest_update": ""
+    },
+    "Walahnan": {
+      "setup_file": "",
+      "inputs": [],
+      "description": "Walahnan",
+      "active": "",
+      "download_url": "",
+      "version": "",
+      "latest_update": ""
+    },
+    "Fyalvara": {
+      "setup_file": "",
+      "inputs": [],
+      "description": "Fyalvara",
+      "active": "",
+      "download_url": "",
+      "version": "1.1",
+      "latest_update": ""
+    },
+    "Lhannd": {
+      "setup_file": "",
+      "inputs": [],
+      "description": "Lhannd",
+      "active": "",
+      "download_url": "",
+      "version": "1.5",
+      "latest_update": ""
+    },
+    "Petsy": {
+      "setup_file": "",
+      "inputs": [],
+      "description": "Petsy",
+      "active": "",
+      "download_url": "",
+      "version": "4.4.2",
+      "latest_update": ""
+    },
+    "Yvette_Romance": {
+      "setup_file": "",
+      "inputs": [],
+      "description": "Yvette Romance",
+      "active": "",
+      "download_url": "",
+      "version": "5.2",
+      "latest_update": ""
+    },
+    "Sirene": {
+      "setup_file": "",
+      "inputs": [],
+      "description": "Sirene",
+      "active": "",
+      "download_url": "",
+      "version": "",
+      "latest_update": ""
+    },
+    "Pai_Na": {
+      "setup_file": "",
+      "inputs": [],
+      "description": "Pai-Na",
+      "active": "",
+      "download_url": "",
+      "version": "",
+      "latest_update": ""
+    },
+    "Willowisp": {
+      "setup_file": "",
+      "inputs": [],
+      "description": "Willowisp",
+      "active": "",
+      "download_url": "",
+      "version": "",
+      "latest_update": ""
+    },
+    "Beyond_the_Law": {
+      "setup_file": "",
+      "inputs": [],
+      "description": "Beyond the Law",
+      "active": "",
+      "download_url": "",
+      "version": "",
+      "latest_update": ""
+    },
+    "BG2_Autumns_Twilight": {
+      "setup_file": "",
+      "inputs": [],
+      "description": "BG2 Autumn's Twilight Mod",
+      "active": "",
+      "download_url": "",
+      "version": "",
+      "latest_update": ""
+    },
+    "BG2_Banter_Packs": {
+      "setup_file": "",
+      "inputs": [],
+      "description": "BG2 Banter Packs",
+      "active": "",
+      "download_url": "",
+      "version": "",
+      "latest_update": ""
+    },
+    "Extended_Banters": {
+      "setup_file": "",
+      "inputs": [],
+      "description": "Extended Banters",
+      "active": "",
+      "download_url": "",
+      "version": "",
+      "latest_update": ""
+    },
+    "Mazzy_Friendship": {
+      "setup_file": "",
+      "inputs": [],
+      "description": "Mazzy Friendship",
+      "active": "",
+      "download_url": "",
+      "version": "",
+      "latest_update": ""
+    },
+    "Yoshimo_Friendship": {
+      "setup_file": "",
+      "inputs": [],
+      "description": "Yoshimo Friendship",
+      "active": "",
+      "download_url": "",
+      "version": "",
+      "latest_update": ""
+    },
+    "Geomantic": {
+      "setup_file": "",
+      "inputs": [],
+      "description": "Geomantic",
+      "active": "",
+      "download_url": "",
+      "version": "",
+      "latest_update": ""
+    },
+    "Spiritwalker": {
+      "setup_file": "",
+      "inputs": [],
+      "description": "Spiritwalker",
+      "active": "",
+      "download_url": "",
+      "version": "",
+      "latest_update": ""
+    },
+    "Storm_Caller": {
+      "setup_file": "",
+      "inputs": [],
+      "description": "Storm Caller",
+      "active": "",
+      "download_url": "",
+      "version": "",
+      "latest_update": ""
+    },
+    "Derats_Unused_Kits_Pack": {
+      "setup_file": "",
+      "inputs": [],
+      "description": "Derat's Unused Kits Pack",
+      "active": "",
+      "download_url": "",
+      "version": "",
+      "latest_update": ""
+    },
+    "Warlock": {
+      "setup_file": "",
+      "inputs": [],
+      "description": "Warlock",
+      "active": "",
+      "download_url": "",
+      "version": "",
+      "latest_update": ""
+    },
+    "FGKits": {
+      "setup_file": "",
+      "inputs": [],
+      "description": "FGKits",
+      "active": "",
+      "download_url": "",
+      "version": "",
+      "latest_update": ""
+    },
+    "I_Hate_Undead": {
+      "setup_file": "",
+      "inputs": [],
+      "description": "I Hate Undead",
+      "active": "",
+      "download_url": "",
+      "version": "",
+      "latest_update": ""
+    },
+    "Bardic_Wonders": {
+      "setup_file": "",
+      "inputs": [],
+      "description": "Bardic Wonders",
+      "active": "",
+      "download_url": "",
+      "version": "2.6",
+      "latest_update": ""
+    },
+    "Shadow_Magic": {
+      "setup_file": "",
+      "inputs": [],
+      "description": "Shadow Magic",
+      "active": "",
+      "download_url": "",
+      "version": "",
+      "latest_update": ""
+    },
+    "Might_and_Guile": {
+      "setup_file": "",
+      "inputs": [],
+      "description": "Might and Guile",
+      "active": "",
+      "download_url": "",
+      "version": "",
+      "latest_update": ""
+    },
+    "Morpheus562s_Kitpack": {
+      "setup_file": "",
+      "inputs": [],
+      "description": "Morpheus562's Kitpack",
+      "active": "",
+      "download_url": "",
+      "version": "",
+      "latest_update": ""
+    },
+    "Expanded_Classes": {
+      "setup_file": "",
+      "inputs": [],
+      "description": "Expanded Classes",
+      "active": "",
+      "download_url": "",
+      "version": "1.35",
+      "latest_update": ""
+    },
+    "The_Artisans_Kitpack": {
+      "setup_file": "",
+      "inputs": [],
+      "description": "The Artisan's Kitpack",
+      "active": "",
+      "download_url": "",
+      "version": "",
+      "latest_update": ""
+    },
+    "Tome_and_Blood": {
+      "setup_file": "",
+      "inputs": [],
+      "description": "Tome and Blood",
+      "active": "",
+      "download_url": "",
+      "version": "",
+      "latest_update": ""
+    },
+    "Rogue_Rebalancing": {
+      "setup_file": "",
+      "inputs": [],
+      "description": "Rogue Rebalancing",
+      "active": "",
+      "download_url": "",
+      "version": "",
+      "latest_update": ""
+    },
+    "Monk_Overhaul": {
+      "setup_file": "",
+      "inputs": [],
+      "description": "Monk Overhaul",
+      "active": "",
+      "download_url": "",
+      "version": "1.2",
+      "latest_update": ""
+    },
+    "Improved_Shamanic_Dance": {
+      "setup_file": "",
+      "inputs": [],
+      "description": "Improved Shamanic Dance",
+      "active": "",
+      "download_url": "",
+      "version": "",
+      "latest_update": ""
+    },
+    "House_Rule_Tweaks": {
+      "setup_file": "",
+      "inputs": [],
+      "description": "House Rule Tweaks",
+      "active": "",
+      "download_url": "",
+      "version": "2.5a",
+      "latest_update": ""
+    },
+    "Tactics_Remix": {
+      "setup_file": "",
+      "inputs": [],
+      "description": "Tactics Remix",
+      "active": "",
+      "download_url": "",
+      "version": "",
+      "latest_update": ""
+    },
+    "Tweaks_Anthology": {
+      "setup_file": "",
+      "inputs": [],
+      "description": "Tweaks Anthology",
+      "active": "",
+      "download_url": "",
+      "version": "",
+      "latest_update": ""
+    },
+    "aTweaks": {
+      "setup_file": "",
+      "inputs": [],
+      "description": "aTweaks",
+      "active": "false",
+      "download_url": "",
+      "version": "4.53",
+      "latest_update": "06-03-2022"
+    },
+    "Talents_Of_Faerun": {
+      "setup_file": "",
+      "inputs": [],
+      "description": "Talents Of Faerun",
+      "active": "false",
+      "download_url": "",
+      "version": "beta-15",
+      "latest_update": ""
+    },
+    "Sword_Coast_Stratagems": {
+      "setup_file": "setup-stratagems.exe",
+      "inputs": [],
+      "description": "Sword Coast Stratagems",
+      "active": "true",
+      "download_url": "https://github.com/Gibberlings3/SwordCoastStratagems/releases",
+      "version": "35.21",
+      "latest_update": "21-11-2024"
+    },
+    "BP": {
+      "setup_file": "",
+      "inputs": [],
+      "description": "BP",
+      "active": "",
+      "download_url": "",
+      "version": "",
+      "latest_update": ""
+    },
+    "XP_Mod": {
+      "setup_file": "",
+      "inputs": [],
+      "description": "XP Mod",
+      "active": "",
+      "download_url": "",
+      "version": "",
+      "latest_update": ""
+    },
+    "HPS_Portraits_Project": {
+      "setup_file": "setup-hps_portraits_project.exe",
+      "inputs": [],
+      "description": "The HPS Portraits Project",
+      "active": "true",
+      "download_url": "https://github.com/HoldenBG/HPS-Portraits-Project-1.0/releases",
+      "version": "1.2",
+      "latest_update": "31-05-2026"
     }
   },
-  "install_order": ["Jims_Fix_Pack"]
+  "install_order": [
+    "Jims_Fix_Pack",
+    "EEex",
+
+    "Ascension",
+    "Assassinations",
+    "Dungeon_Crawl",
+    "G3_Anniversary_Mod",
+    "Tower_of_Deception",
+    "Back_To_Brynnlaw",
+    "The_Sellswords",
+    "The_White_Queen",
+    "I_Shall_Never_Forget",
+    "Tales_of_the_Deep_Gardens",
+    "The_Cost_of_Skies_Soul",
+    "Oozes_Lounge",
+    "The_Southern_Edge",
+    "Tangled_Oak_Isle",
+    "Bridges_Block",
+    "Alabaster_Sands",
+    "Journey_to_Whin_Hill",
+    "In_Love_Undeath",
+    "The_Bloodied_Stings_of_Barovia",
+    "Ink_Gallery",
+    "Juniper_and_the_Stone_Leech",
+    "Poisoned_Pathways",
+    "Dark_Tidings",
+    "Call_of_the_Lost_Goddess",
+    "Throne_of_the_Mad_God",
+    "Fight_the_Heavens",
+    "Crucible",
+    "Unfinished_Business",
+    "Dingos_Questpack",
+    "Ascalons_Questpack",
+
+    "Item_Upgrade",
+    "SoD_to_BG2_item_upgrade",
+    "Improved_Haerdalis_Swords",
+    "Forgotten_Armament",
+    "Cowled_Menace",
+    "Tashia",
+    "Amber",
+    "Kivan",
+    "Gavin",
+    "Aurenaseph",
+    "Sarah",
+    "Angelo",
+    "Yeslick_NPC",
+    "Tyris_Flare",
+    "Adrian",
+    "Saerileth",
+    "Isra",
+    "The_Beaurin_Legacy",
+    "Navarra",
+    "Yasraena",
+    "Xan",
+    "Evandra",
+    "Kelsey",
+    "Keto",
+    "Fade",
+    "Faldorn",
+    "Skitia_NPCs",
+    "Walahnan",
+    "Fyalvara",
+    "Lhannd",
+    "Petsy",
+    "Yvette_Romance",
+    "Sirene",
+    "Pai_Na",
+    "Willowisp",
+    "Beyond_the_Law",
+    "BG2_Autumns_Twilight",
+    "BG2_Banter_Packs",
+    "Extended_Banters",
+    "Mazzy_Friendship",
+    "Yoshimo_Friendship",
+
+    "Geomantic",
+    "Spiritwalker",
+    "Storm_Caller",
+    "Derats_Unused_Kits_Pack",
+    "Warlock",
+    "FGKits",
+    "I_Hate_Undead",
+    "Bardic_Wonders",
+    "Shadow_Magic",
+    "Might_and_Guile",
+    "Morpheus562s_Kitpack",
+    "Expanded_Classes",
+    "The_Artisans_Kitpack",
+    "Tome_and_Blood",
+    "Rogue_Rebalancing",
+    "Monk_Overhaul",
+    "Improved_Shamanic_Dance",
+
+    "House_Rule_Tweaks",
+    "Tactics_Remix",
+    "Tweaks_Anthology",
+    "aTweaks",
+    "Talents_Of_Faerun",
+    "Sword_Coast_Stratagems",
+    "BP",
+    "XP_Mod",
+
+    "HPS_Portraits_Project"
+  ]
 }
