@@ -54,7 +54,7 @@
       "latest_update": "18-05-2025"
     },
     "Assassinations": {
-      "setup_file": "setup-assassinations.exe",
+      "setup_file": "Setup-Assassinations.exe",
       "inputs": ["0", "N", "I"],
       "description": "Assassinations",
       "active": "false",
@@ -350,7 +350,7 @@
         "I",
         "I"
       ],
-      "description": "Dingo's Questpack",
+      "description": "Ding0's Questpack",
       "active": "",
       "download_url": "",
       "version": "",
@@ -377,7 +377,7 @@
     "SoD_to_BG2_item_upgrade": {
       "setup_file": "",
       "inputs": [],
-      "description": "SoD to BG2 EE",
+      "description": "SoD to BG2 Item Upgrades",
       "active": "",
       "download_url": "",
       "version": "1.2.0",
@@ -521,7 +521,7 @@
     "The_Beaurin_Legacy": {
       "setup_file": "",
       "inputs": [],
-      "description": "The Beaurin Legacy",
+      "description": "The Beaurin Legacy NPC",
       "active": "",
       "download_url": "",
       "version": "",
@@ -548,7 +548,7 @@
     "Xan": {
       "setup_file": "",
       "inputs": [],
-      "description": "Xan",
+      "description": "Xan NPC",
       "active": "",
       "download_url": "",
       "version": "",
@@ -557,7 +557,7 @@
     "Evandra": {
       "setup_file": "",
       "inputs": [],
-      "description": "Evandra",
+      "description": "Evandra NPC",
       "active": "",
       "download_url": "",
       "version": "",
@@ -566,7 +566,7 @@
     "Kelsey": {
       "setup_file": "",
       "inputs": [],
-      "description": "Kelsey",
+      "description": "Kelsey NPC",
       "active": "",
       "download_url": "",
       "version": "",
@@ -575,7 +575,7 @@
     "Keto": {
       "setup_file": "",
       "inputs": [],
-      "description": "Keto",
+      "description": "Keto NPC",
       "active": "",
       "download_url": "",
       "version": "",
@@ -584,7 +584,7 @@
     "Fade": {
       "setup_file": "",
       "inputs": [],
-      "description": "Fade",
+      "description": "Fade NPC",
       "active": "",
       "download_url": "",
       "version": "",
@@ -593,7 +593,7 @@
     "Faldorn": {
       "setup_file": "",
       "inputs": [],
-      "description": "Faldorn",
+      "description": "Faldorn NPC",
       "active": "",
       "download_url": "",
       "version": "",
@@ -611,7 +611,7 @@
     "Walahnan": {
       "setup_file": "",
       "inputs": [],
-      "description": "Walahnan",
+      "description": "Walahnan NPC",
       "active": "",
       "download_url": "",
       "version": "",
@@ -620,7 +620,7 @@
     "Fyalvara": {
       "setup_file": "",
       "inputs": [],
-      "description": "Fyalvara",
+      "description": "Fyalvara NPC",
       "active": "",
       "download_url": "",
       "version": "1.1",
@@ -629,7 +629,7 @@
     "Lhannd": {
       "setup_file": "",
       "inputs": [],
-      "description": "Lhannd",
+      "description": "Lhannd NPC",
       "active": "",
       "download_url": "",
       "version": "1.5",
@@ -638,7 +638,7 @@
     "Petsy": {
       "setup_file": "",
       "inputs": [],
-      "description": "Petsy",
+      "description": "Petsy NPC",
       "active": "",
       "download_url": "",
       "version": "4.4.2",
@@ -647,7 +647,7 @@
     "Yvette_Romance": {
       "setup_file": "",
       "inputs": [],
-      "description": "Yvette Romance",
+      "description": "Yvette NPC",
       "active": "",
       "download_url": "",
       "version": "5.2",
@@ -656,7 +656,7 @@
     "Sirene": {
       "setup_file": "",
       "inputs": [],
-      "description": "Sirene",
+      "description": "Sirene NPC",
       "active": "",
       "download_url": "",
       "version": "",
@@ -665,7 +665,7 @@
     "Pai_Na": {
       "setup_file": "",
       "inputs": [],
-      "description": "Pai-Na",
+      "description": "Pai-Na NPC",
       "active": "",
       "download_url": "",
       "version": "",
@@ -674,7 +674,7 @@
     "Willowisp": {
       "setup_file": "",
       "inputs": [],
-      "description": "Willowisp",
+      "description": "Will Of The Wisps Kit + NPC",
       "active": "",
       "download_url": "",
       "version": "",
@@ -683,7 +683,7 @@
     "Beyond_the_Law": {
       "setup_file": "",
       "inputs": [],
-      "description": "Beyond the Law",
+      "description": "Beyond the Law Quests and NPCs",
       "active": "",
       "download_url": "",
       "version": "",
@@ -692,7 +692,7 @@
     "BG2_Autumns_Twilight": {
       "setup_file": "",
       "inputs": [],
-      "description": "BG2 Autumn's Twilight Mod",
+      "description": "BG2 Autumn's Twilight Quests and NPCs",
       "active": "",
       "download_url": "",
       "version": "",
@@ -710,7 +710,7 @@
     "Extended_Banters": {
       "setup_file": "",
       "inputs": [],
-      "description": "Extended Banters",
+      "description": "Extended BG2 Banters",
       "active": "",
       "download_url": "",
       "version": "",
@@ -737,7 +737,7 @@
     "Geomantic": {
       "setup_file": "",
       "inputs": [],
-      "description": "Geomantic",
+      "description": "Geomantic Sorcerer Kit",
       "active": "",
       "download_url": "",
       "version": "",
@@ -746,7 +746,7 @@
     "Spiritwalker": {
       "setup_file": "",
       "inputs": [],
-      "description": "Spiritwalker",
+      "description": "Spiritwalker Kit",
       "active": "",
       "download_url": "",
       "version": "",
@@ -755,7 +755,7 @@
     "Storm_Caller": {
       "setup_file": "",
       "inputs": [],
-      "description": "Storm Caller",
+      "description": "Storm Caller Kit",
       "active": "",
       "download_url": "",
       "version": "",
@@ -764,7 +764,7 @@
     "Derats_Unused_Kits_Pack": {
       "setup_file": "",
       "inputs": [],
-      "description": "Derat's Unused Kits Pack",
+      "description": "Preacher of Flames Kit",
       "active": "",
       "download_url": "",
       "version": "",
@@ -773,7 +773,7 @@
     "Warlock": {
       "setup_file": "",
       "inputs": [],
-      "description": "Warlock",
+      "description": "Warlock Kit",
       "active": "",
       "download_url": "",
       "version": "",
@@ -782,7 +782,7 @@
     "FGKits": {
       "setup_file": "",
       "inputs": [],
-      "description": "FGKits",
+      "description": "FG Kits",
       "active": "",
       "download_url": "",
       "version": "",
@@ -791,7 +791,7 @@
     "I_Hate_Undead": {
       "setup_file": "",
       "inputs": [],
-      "description": "I Hate Undead",
+      "description": "I Hate Undead Kits",
       "active": "",
       "download_url": "",
       "version": "",
@@ -800,7 +800,7 @@
     "Bardic_Wonders": {
       "setup_file": "",
       "inputs": [],
-      "description": "Bardic Wonders",
+      "description": "Bardic Wonders Kits and Tweaks",
       "active": "",
       "download_url": "",
       "version": "2.6",
@@ -809,7 +809,7 @@
     "Shadow_Magic": {
       "setup_file": "",
       "inputs": [],
-      "description": "Shadow Magic",
+      "description": "Shadow Magic Kit",
       "active": "",
       "download_url": "",
       "version": "",
@@ -818,7 +818,7 @@
     "Might_and_Guile": {
       "setup_file": "",
       "inputs": [],
-      "description": "Might and Guile",
+      "description": "Might and Guile Kits and Tweaks",
       "active": "",
       "download_url": "",
       "version": "",
@@ -836,7 +836,7 @@
     "Expanded_Classes": {
       "setup_file": "",
       "inputs": [],
-      "description": "Expanded Classes",
+      "description": "Expanded Classes Kits",
       "active": "",
       "download_url": "",
       "version": "1.35",
@@ -854,7 +854,7 @@
     "Tome_and_Blood": {
       "setup_file": "",
       "inputs": [],
-      "description": "Tome and Blood",
+      "description": "Tome and Blood Kit tweaks",
       "active": "",
       "download_url": "",
       "version": "",
@@ -941,16 +941,16 @@
       "version": "35.21",
       "latest_update": "21-11-2024"
     },
-    "BP": {
+    "The_Big_Picture": {
       "setup_file": "",
       "inputs": [],
-      "description": "BP",
+      "description": "The Big Picture",
       "active": "",
       "download_url": "",
       "version": "",
       "latest_update": ""
     },
-    "XP_Mod": {
+    "Defjam": {
       "setup_file": "",
       "inputs": [],
       "description": "XP Mod",
@@ -1070,7 +1070,7 @@
     "aTweaks",
     "Talents_Of_Faerun",
     "Sword_Coast_Stratagems",
-    "BP",
+    "The_Big_Picture",
     "XP_Mod",
 
     "HPS_Portraits_Project"
