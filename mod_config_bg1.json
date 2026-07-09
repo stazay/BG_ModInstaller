@@ -1017,7 +1017,7 @@
       "setup_file": "setup-hps_portraits_project.exe",
       "inputs": ["N", "Y", "Y", "I", "I", "I", "I", "N", "I", "N", "1"],
       "description": "The HPS Portraits Project",
-      "active": "",
+      "active": "true",
       "download_url": "https://github.com/HoldenBG/HPS-Portraits-Project-1.0/releases",
       "version": "1.2",
       "latest_update": "31-05-2026"
