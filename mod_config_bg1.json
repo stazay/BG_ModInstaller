@@ -397,7 +397,7 @@
         "N",
         "I"
       ],
-      "description": "Bardic Wonders Kits",
+      "description": "Bardic Wonders Kits and Tweaks",
       "active": "true",
       "download_url": "https://artisans-corner.com/bardic-wonders/",
       "version": "2.9c",
@@ -467,7 +467,7 @@
         "I",
         "Q"
       ],
-      "description": "Might And Guile Kits",
+      "description": "Might And Guile Kits and Tweaks",
       "active": "false",
       "download_url": "https://github.com/UnearthedArcana/Might_and_Guile/releases",
       "version": "5.8.9",
@@ -1007,7 +1007,7 @@
     "Defjam": {
       "setup_file": "setup-xpmod.exe",
       "inputs": ["0", "N", "2", "Q"],
-      "description": "Defjam",
+      "description": "XP mod",
       "active": "false",
       "download_url": "https://github.com/Pocket-Plane-Group/D0XPmod/releases/tag/v7",
       "version": "7",
