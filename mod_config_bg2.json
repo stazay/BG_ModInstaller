@@ -82,12 +82,12 @@
     },
     "Tower_of_Deception": {
       "setup_file": "Setup-ToD.exe",
-      "inputs": ["0", "N", "I", "N", "N"],
+      "inputs": ["0", "N", "I", "I", "Q"],
       "description": "Tower of Deception",
-      "active": "",
-      "download_url": "",
-      "version": "",
-      "latest_update": ""
+      "active": "false",
+      "download_url": "https://github.com/Black-Wyrm-Lair/TowerOfDeception/releases",
+      "version": "4.1.0",
+      "latest_update": "25-05-2025"
     },
     "Back_To_Brynnlaw": {
       "setup_file": "Setup-BackBrynnlaw.exe",

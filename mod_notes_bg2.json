@@ -75,5 +75,14 @@
       "Would you like to display the readme? → N (No)",
       "Install Component [The Gibberlings Three Anniversary Mod]? → I (Install)"
     ]
+  },
+  "Tower_of_Deception": {
+    "input_notes": [
+      "Choose your language: → 0 (English)",
+      "Would you like to display the readme? → N (No)",
+      "Install Component [Tower of Deception]? → I (Install)",
+      "Install Component [Improved Astral Shard Guardian]? → I (Install)",
+      "Install Component [Encounter with Ustrain]? → Q (Quit)"
+    ]
   }
 }
