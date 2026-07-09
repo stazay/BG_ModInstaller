@@ -66,10 +66,10 @@
       "setup_file": "setup-dc.exe",
       "inputs": ["0", "N", "I"],
       "description": "Dungeon Crawl",
-      "active": "",
-      "download_url": "",
-      "version": "",
-      "latest_update": ""
+      "active": "false",
+      "download_url": "https://github.com/Pocket-Plane-Group/Dungeon_Crawl/releases",
+      "version": "13.1",
+      "latest_update": "16-05-2021"
     },
     "G3_Anniversary_Mod": {
       "setup_file": "setup-g3anniversary.exe",

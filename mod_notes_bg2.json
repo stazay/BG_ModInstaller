@@ -61,5 +61,12 @@
       "Would you like to display the readme? → N (No)",
       "Install Component [Assassinations mod for Baldur's Gate II]? → I (Install)"
     ]
+  },
+  "Dungeon_Crawl": {
+    "input_notes": [
+      "Choose your language: → 0 (English)",
+      "Would you like to display the readme? → N (No)",
+      "Install Component [Dungeon Crawl]? → I (Install)"
+    ]
   }
 }
