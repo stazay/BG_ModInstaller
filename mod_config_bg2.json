@@ -93,199 +93,199 @@
       "setup_file": "Setup-BackBrynnlaw.exe",
       "inputs": ["0", "N", "I"],
       "description": "Back To Brynnlaw",
-      "active": "",
-      "download_url": "",
-      "version": "",
-      "latest_update": ""
+      "active": "false",
+      "download_url": "https://github.com/Pocket-Plane-Group/Back_to_Brynnlaw/releases",
+      "version": "9",
+      "latest_update": "15-05-2021"
     },
     "The_Sellswords": {
       "setup_file": "setup-sellswords.exe",
       "inputs": ["0", "N", "I"],
       "description": "The Sellswords",
-      "active": "",
-      "download_url": "",
-      "version": "",
-      "latest_update": ""
+      "active": "false",
+      "download_url": "https://github.com/Pocket-Plane-Group/Sellswords/releases",
+      "version": "9.1",
+      "latest_update": "15-05-2021"
     },
     "The_White_Queen": {
       "setup_file": "Setup-WhiteQueen.exe",
       "inputs": ["0", "N", "1"],
       "description": "The White Queen",
-      "active": "",
-      "download_url": "",
-      "version": "",
-      "latest_update": ""
+      "active": "true",
+      "download_url": "https://downloads.weaselmods.net/download/the-white-queen/",
+      "version": "7.4.2",
+      "latest_update": "28-04-2026"
     },
     "I_Shall_Never_Forget": {
       "setup_file": "Setup-ISNF.exe",
       "inputs": ["0", "N", "I"],
       "description": "I Shall Never Forget",
-      "active": "",
-      "download_url": "",
-      "version": "",
-      "latest_update": ""
+      "active": "true",
+      "download_url": "https://downloads.weaselmods.net/download/i-shall-never-forget/",
+      "version": "6.5.6",
+      "latest_update": "14-06-2026"
     },
     "Tales_of_the_Deep_Gardens": {
       "setup_file": "Setup-ISNF.exe",
       "inputs": ["0", "N", "1"],
       "description": "Tales of the Deep Gardens",
-      "active": "",
-      "download_url": "",
-      "version": "",
-      "latest_update": ""
+      "active": "true",
+      "download_url": "https://downloads.weaselmods.net/download/tales-of-the-deep-gardens/",
+      "version": "12.96",
+      "latest_update": "10-01-2026"
     },
     "The_Cost_of_Skies_Soul": {
       "setup_file": "Setup-SkieCost.exe",
       "inputs": ["0", "N", "A", "I", "I", "N", "I", "N", "I"],
       "description": "The Cost of Skie's Soul",
-      "active": "",
-      "download_url": "",
-      "version": "",
-      "latest_update": ""
+      "active": "true",
+      "download_url": "https://downloads.weaselmods.net/download/skie-the-cost-of-one-girls-soul/",
+      "version": "7.1.1",
+      "latest_update": "31-03-2026"
     },
     "Oozes_Lounge": {
       "setup_file": "Setup-Ooze.exe",
       "inputs": ["0", "N", "I"],
       "description": "Ooze's Lounge",
-      "active": "",
-      "download_url": "",
-      "version": "",
-      "latest_update": ""
+      "active": "true",
+      "download_url": "https://downloads.weaselmods.net/download/oozes-lounge/",
+      "version": "3.1",
+      "latest_update": "23-05-2026"
     },
     "The_Southern_Edge": {
       "setup_file": "Setup-SouthernEdge.exe",
       "inputs": ["0", "N", "1"],
       "description": "The Southern Edge",
-      "active": "",
-      "download_url": "",
-      "version": "",
-      "latest_update": ""
+      "active": "true",
+      "download_url": "https://downloads.weaselmods.net/download/southern-edge/",
+      "version": "6.0",
+      "latest_update": "30-01-2026"
     },
     "Tangled_Oak_Isle": {
       "setup_file": "Setup-TangledIsle.exe",
       "inputs": ["0", "N", "1"],
       "description": "Tangled Oak Isle",
-      "active": "",
-      "download_url": "",
-      "version": "",
-      "latest_update": ""
+      "active": "true",
+      "download_url": "https://downloads.weaselmods.net/download/tangled-oak-isle/",
+      "version": "4.7",
+      "latest_update": "10-01-2026"
     },
     "Bridges_Block": {
       "setup_file": "setup-BridgesBlock.exe",
       "inputs": ["0", "N", "I"],
       "description": "Bridge's Block",
-      "active": "",
-      "download_url": "",
-      "version": "",
-      "latest_update": ""
+      "active": "true",
+      "download_url": "https://downloads.weaselmods.net/download/bridges-block/",
+      "version": "2.02",
+      "latest_update": "03-01-2026"
     },
     "Alabaster_Sands": {
       "setup_file": "Setup-AlabasterSands.exe",
       "inputs": ["0", "N", "1"],
       "description": "Alabaster Sands",
-      "active": "",
-      "download_url": "",
-      "version": "",
-      "latest_update": ""
+      "active": "true",
+      "download_url": "https://downloads.weaselmods.net/download/alabaster-sands/",
+      "version": "2.0",
+      "latest_update": "23-05-2026"
     },
     "Journey_to_Whin_Hill": {
       "setup_file": "setup-WhinHill.exe",
       "inputs": ["N", "1", "I", "N"],
       "description": "Journey to Whin Hill",
-      "active": "",
-      "download_url": "",
-      "version": "",
-      "latest_update": ""
+      "active": "true",
+      "download_url": "https://downloads.weaselmods.net/download/the-journey-to-the-whin-hill/",
+      "version": "1.4",
+      "latest_update": "18-05-2026"
     },
     "In_Love_Undeath": {
       "setup_file": "Setup-InLoveUndeath.exe",
       "inputs": ["N", "1", "N"],
       "description": "In Love, Undeath",
-      "active": "",
-      "download_url": "",
-      "version": "",
-      "latest_update": ""
+      "active": "true",
+      "download_url": "https://downloads.weaselmods.net/download/in-love-undeath/",
+      "version": "1.8.5",
+      "latest_update": "05-07-2026"
     },
     "The_Bloodied_Stings_of_Barovia": {
       "setup_file": "Setup-BloodiedStingsOfBarovia.exe",
       "inputs": ["0", "N", "I"],
       "description": "The Bloodied Stings of Barovia",
-      "active": "",
-      "download_url": "",
-      "version": "",
-      "latest_update": ""
+      "active": "true",
+      "download_url": "https://downloads.weaselmods.net/download/the-bloodied-stings-of-barovia/",
+      "version": "2.6.2",
+      "latest_update": "04-02-2026"
     },
     "Ink_Gallery": {
       "setup_file": "Setup-InkGallery.exe",
       "inputs": [],
       "description": "Ink Gallery",
-      "active": "",
-      "download_url": "",
-      "version": "",
-      "latest_update": ""
+      "active": "true",
+      "download_url": "https://downloads.weaselmods.net/download/the-ink-gallery/",
+      "version": "1.3",
+      "latest_update": "02-06-2026"
     },
     "Juniper_and_the_Stone_Leech": {
       "setup_file": "Setup-JuniperAndTheStoneLeech.exe",
       "inputs": ["0", "N", "I", "N"],
       "description": "Juniper and the Stone Leech",
-      "active": "",
-      "download_url": "",
-      "version": "",
-      "latest_update": ""
+      "active": "true",
+      "download_url": "https://downloads.weaselmods.net/download/juniper-and-the-stone-leech/",
+      "version": "1.8.6",
+      "latest_update": "27-04-2026"
     },
     "Poisoned_Pathways": {
       "setup_file": "Setup-Poisoned_pathways.exe",
       "inputs": [],
       "description": "Poisoned Pathways",
-      "active": "",
-      "download_url": "",
+      "active": "true",
+      "download_url": "https://github.com/AciferBG/Poisoned-Pathways/releases",
       "version": "1.1",
-      "latest_update": ""
+      "latest_update": "28-06-2026"
     },
     "Dark_Tidings": {
       "setup_file": "setup-tidings.exe",
       "inputs": ["1", "N", "I"],
       "description": "Dark Tidings",
-      "active": "",
-      "download_url": "",
-      "version": "",
-      "latest_update": ""
+      "active": "true",
+      "download_url": "https://github.com/AciferBG/Dark-Tidings/releases",
+      "version": "3.0",
+      "latest_update": "14-03-2026"
     },
     "Call_of_the_Lost_Goddess": {
       "setup_file": "setup-godcall.exe",
       "inputs": ["1", "N", "I", "I", "I"],
       "description": "Call of the Lost Goddess",
-      "active": "",
-      "download_url": "",
-      "version": "",
-      "latest_update": ""
+      "active": "true",
+      "download_url": "https://github.com/AciferBG/Call-of-the-Lost-Goddess/releases",
+      "version": "3.0",
+      "latest_update": "01-07-2026"
     },
     "Throne_of_the_Mad_God": {
       "setup_file": "Setup-ThroneoftheMadGod.exe",
       "inputs": ["1", "N", "I"],
       "description": "Throne of the Mad God",
-      "active": "",
-      "download_url": "",
-      "version": "",
-      "latest_update": ""
+      "active": "true",
+      "download_url": "https://github.com/AciferBG/Throne-of-the-Mad-God/releases",
+      "version": "2.2",
+      "latest_update": "01-07-2026"
     },
     "Fight_the_Heavens": {
       "setup_file": "setup-fight-the-heavens.exe",
       "inputs": ["N", "I"],
       "description": "Fight the Heavens",
-      "active": "",
-      "download_url": "",
-      "version": "",
-      "latest_update": ""
+      "active": "false",
+      "download_url": "https://www.morpheus-mart.com/fight-the-heavens",
+      "version": "1.2",
+      "latest_update": "11-10-2025"
     },
     "Crucible": {
       "setup_file": "setup-crucible.exe",
       "inputs": ["0", "1"],
       "description": "Crucible",
-      "active": "",
-      "download_url": "",
-      "version": "",
-      "latest_update": ""
+      "active": "true",
+      "download_url": "https://www.morpheus-mart.com/crucible",
+      "version": "5.0",
+      "latest_update": "15-03-2026"
     },
     "Unfinished_Business": {
       "setup_file": "setup-ub.exe",
@@ -318,10 +318,10 @@
         "I"
       ],
       "description": "Unfinished Business",
-      "active": "",
-      "download_url": "",
-      "version": "",
-      "latest_update": ""
+      "active": "false",
+      "download_url": "https://github.com/Pocket-Plane-Group/UnfinishedBusiness/releases",
+      "version": "28",
+      "latest_update": "03-01-2021"
     },
     "Dingos_Questpack": {
       "setup_file": "setup-d0questpack.exe",
@@ -351,575 +351,575 @@
         "I"
       ],
       "description": "Ding0's Questpack",
-      "active": "",
-      "download_url": "",
-      "version": "",
-      "latest_update": ""
+      "active": "false",
+      "download_url": "https://www.pocketplane.net/quest-pack/",
+      "version": "3.5",
+      "latest_update": "29-12-2014"
     },
     "Ascalons_Questpack": {
       "setup_file": "setup-ascalon-questpack.exe",
       "inputs": ["1", "I"],
       "description": "Ascalon's Questpack",
-      "active": "",
-      "download_url": "",
-      "version": "",
-      "latest_update": ""
+      "active": "yes",
+      "download_url": "https://github.com/Gitjas/Ascalons_Questpack/releases",
+      "version": "6.4",
+      "latest_update": "17-12-2025"
     },
     "Item_Upgrade": {
       "setup_file": "",
       "inputs": [],
       "description": "Item Upgrade",
-      "active": "",
-      "download_url": "",
+      "active": "false",
+      "download_url": "https://github.com/Pocket-Plane-Group/Item_Upgrade/releases",
       "version": "55",
-      "latest_update": ""
+      "latest_update": "17-02-2025"
     },
     "SoD_to_BG2_item_upgrade": {
       "setup_file": "",
       "inputs": [],
       "description": "SoD to BG2 Item Upgrades",
-      "active": "",
-      "download_url": "",
+      "active": "false",
+      "download_url": "https://github.com/Gibberlings3/SoD-to-BG2EE-Item-Upgrade/releases (do not want versions beyond 1.2.0)",
       "version": "1.2.0",
-      "latest_update": ""
+      "latest_update": "11-07-2020"
     },
     "Improved_Haerdalis_Swords": {
-      "setup_file": "",
+      "setup_file": "swordap.exe",
       "inputs": [],
       "description": "Improved Haerdalis Swords",
-      "active": "",
-      "download_url": "",
-      "version": "",
-      "latest_update": ""
+      "active": "false",
+      "download_url": "https://github.com/SpellholdStudios/HaerDalis_Swords/releases",
+      "version": "3.1.0",
+      "latest_update": "30-08-2020"
     },
     "Forgotten_Armament": {
-      "setup_file": "",
+      "setup_file": "forgotten-armament.exe",
       "inputs": [],
       "description": "Forgotten Armament",
-      "active": "",
-      "download_url": "",
-      "version": "",
-      "latest_update": ""
+      "active": "false",
+      "download_url": "https://www.morpheus-mart.com/forgotten-armament (later versions broken)",
+      "version": "4.4",
+      "latest_update": "26-06-2024"
     },
     "Cowled_Menace": {
       "setup_file": "",
       "inputs": [],
       "description": "Cowled Menace",
-      "active": "",
-      "download_url": "",
+      "active": "true",
+      "download_url": "https://github.com/Gibberlings3/CowledMenace/releases",
       "version": "2.0.3",
-      "latest_update": ""
+      "latest_update": "19-05-2026"
     },
     "Tashia": {
       "setup_file": "",
       "inputs": [],
       "description": "Tashia NPC",
-      "active": "",
-      "download_url": "",
+      "active": "false",
+      "download_url": "https://github.com/Spellhold-Studios/Tashia-NPC/releases",
       "version": "1.5",
-      "latest_update": ""
+      "latest_update": "22-11-2024"
     },
     "Amber": {
       "setup_file": "",
       "inputs": [],
       "description": "Amber NPC",
-      "active": "",
-      "download_url": "",
-      "version": "",
-      "latest_update": ""
+      "active": "false",
+      "download_url": "https://www.gibberlings3.net/files/file/685-amber/",
+      "version": "10",
+      "latest_update": "07-05-2025"
     },
     "Kivan": {
       "setup_file": "",
       "inputs": [],
       "description": "Kivan NPC",
-      "active": "",
-      "download_url": "",
-      "version": "",
-      "latest_update": ""
+      "active": "false",
+      "download_url": "https://github.com/Gibberlings3/Kivan_and_Deheriana/releases",
+      "version": "19",
+      "latest_update": "15-01-2025"
     },
     "Gavin": {
       "setup_file": "",
       "inputs": [],
       "description": "Gavin NPC",
-      "active": "",
-      "download_url": "",
-      "version": "",
-      "latest_update": ""
+      "active": "false",
+      "download_url": "https://github.com/Gibberlings3/Gavin_BG2/releases",
+      "version": "24",
+      "latest_update": "21-01-2025"
     },
-    "Aurenaseph": {
+    "Auren_aseph": {
       "setup_file": "",
       "inputs": [],
       "description": "Auren Aseph NPC",
-      "active": "",
-      "download_url": "",
-      "version": "",
-      "latest_update": ""
+      "active": "false",
+      "download_url": "https://github.com/Gibberlings3/AurenAseph/releases",
+      "version": "13",
+      "latest_update": "17-03-2026"
     },
     "Sarah": {
       "setup_file": "",
       "inputs": [],
       "description": "Sarah NPC",
-      "active": "",
-      "download_url": "",
-      "version": "",
-      "latest_update": ""
+      "active": "false",
+      "download_url": "https://github.com/Gibberlings3/Sarah/releases",
+      "version": "8",
+      "latest_update": "16-02-2025"
     },
     "Angelo": {
       "setup_file": "",
       "inputs": [],
       "description": "Angelo NPC",
-      "active": "",
-      "download_url": "",
-      "version": "",
-      "latest_update": ""
+      "active": "false",
+      "download_url": "https://www.gibberlings3.net/files/file/686-angelo/",
+      "version": "9",
+      "latest_update": "28-09-2021"
     },
     "Yeslick_NPC": {
       "setup_file": "",
       "inputs": [],
       "description": "Yeslick NPC",
-      "active": "",
-      "download_url": "",
+      "active": "false",
+      "download_url": "https://github.com/SpellholdStudios/Yeslick_NPC/releases",
       "version": "5.0",
-      "latest_update": ""
+      "latest_update": "17-09-2020"
     },
     "Tyris_Flare": {
       "setup_file": "",
       "inputs": [],
       "description": "Tyris Flare NPC",
-      "active": "",
-      "download_url": "",
-      "version": "",
-      "latest_update": ""
+      "active": "false",
+      "download_url": "https://github.com/Gibberlings3/TyrisFlare/releases",
+      "version": "12",
+      "latest_update": "21-01-2025"
     },
     "Adrian": {
       "setup_file": "",
       "inputs": [],
       "description": "Adrian NPC",
-      "active": "",
-      "download_url": "",
-      "version": "",
-      "latest_update": ""
+      "active": "false",
+      "download_url": "https://github.com/Spellhold-Studios/Adrian-NPC/releases",
+      "version": "6.1",
+      "latest_update": "15-06-2023"
     },
     "Saerileth": {
       "setup_file": "",
       "inputs": [],
       "description": "Saerileth NPC",
-      "active": "",
-      "download_url": "",
-      "version": "",
-      "latest_update": ""
+      "active": "false",
+      "download_url": "(dead link)",
+      "version": "20",
+      "latest_update": "30-06-2018"
     },
     "Isra": {
-      "setup_file": "",
+      "setup_file": "Setup-isra_bg2.exe",
       "inputs": [],
       "description": "Isra NPC",
-      "active": "",
-      "download_url": "",
-      "version": "",
-      "latest_update": ""
+      "active": "false",
+      "download_url": "https://github.com/SpellholdStudios/Isra_NPC_BG2/releases",
+      "version": "3.1",
+      "latest_update": "30-03-2020"
     },
     "The_Beaurin_Legacy": {
       "setup_file": "",
       "inputs": [],
       "description": "The Beaurin Legacy NPC",
-      "active": "",
-      "download_url": "",
-      "version": "",
-      "latest_update": ""
+      "active": "false",
+      "download_url": "https://www.gibberlings3.net/files/file/998-beaurin-legacy/",
+      "version": "5.3",
+      "latest_update": "23-07-2023"
     },
     "Navarra": {
       "setup_file": "",
       "inputs": [],
       "description": "Navarra NPC",
-      "active": "",
-      "download_url": "",
-      "version": "",
+      "active": "false",
+      "download_url": "https://www.gibberlings3.net/files/file/1035-navarra/",
+      "version": "1.5",
       "latest_update": ""
     },
     "Yasraena": {
       "setup_file": "",
       "inputs": [],
       "description": "Yasraena NPC",
-      "active": "",
-      "download_url": "",
-      "version": "",
-      "latest_update": ""
+      "active": "false",
+      "download_url": "(dead link)",
+      "version": "16",
+      "latest_update": "18-04-2016"
     },
     "Xan": {
       "setup_file": "",
       "inputs": [],
       "description": "Xan NPC",
-      "active": "",
-      "download_url": "",
-      "version": "",
-      "latest_update": ""
+      "active": "false",
+      "download_url": "https://github.com/Pocket-Plane-Group/Xan_for_BGII/releases",
+      "version": "19",
+      "latest_update": "04-08-2020"
     },
     "Evandra": {
       "setup_file": "",
       "inputs": [],
       "description": "Evandra NPC",
-      "active": "",
-      "download_url": "",
-      "version": "",
-      "latest_update": ""
+      "active": "false",
+      "download_url": "https://www.gibberlings3.net/files/file/1008-evandra/",
+      "version": "2.2",
+      "latest_update": "05-07-2019"
     },
     "Kelsey": {
       "setup_file": "",
       "inputs": [],
       "description": "Kelsey NPC",
-      "active": "",
-      "download_url": "",
-      "version": "",
-      "latest_update": ""
+      "active": "false",
+      "download_url": "https://github.com/Pocket-Plane-Group/Kelsey/releases",
+      "version": "6",
+      "latest_update": "12-01-2020"
     },
     "Keto": {
       "setup_file": "",
       "inputs": [],
       "description": "Keto NPC",
-      "active": "",
-      "download_url": "",
-      "version": "",
-      "latest_update": ""
+      "active": "false",
+      "download_url": "https://github.com/Pocket-Plane-Group/Keto/releases",
+      "version": "6",
+      "latest_update": "03-08-2020"
     },
     "Fade": {
       "setup_file": "",
       "inputs": [],
       "description": "Fade NPC",
-      "active": "",
-      "download_url": "",
-      "version": "",
-      "latest_update": ""
+      "active": "false",
+      "download_url": "https://github.com/Spellhold-Studios/Fade-NPC/releases",
+      "version": "5.6",
+      "latest_update": "04-08-2020"
     },
     "Faldorn": {
       "setup_file": "",
       "inputs": [],
       "description": "Faldorn NPC",
-      "active": "",
-      "download_url": "",
-      "version": "",
-      "latest_update": ""
+      "active": "true",
+      "download_url": "https://downloads.weaselmods.net/download/faldorn-bg2ee/",
+      "version": "1.5.1",
+      "latest_update": "21-05-2026"
     },
     "Skitia_NPCs": {
       "setup_file": "",
       "inputs": [],
       "description": "Skitia NPCs",
-      "active": "",
-      "download_url": "",
-      "version": "",
-      "latest_update": ""
+      "active": "true",
+      "download_url": "https://github.com/Skitia/SkitiaNPCs/releases",
+      "version": "1.15",
+      "latest_update": "30-12-2025"
     },
     "Walahnan": {
       "setup_file": "",
       "inputs": [],
       "description": "Walahnan NPC",
-      "active": "",
-      "download_url": "",
-      "version": "",
-      "latest_update": ""
+      "active": "false",
+      "download_url": "https://downloads.weaselmods.net/download/walahnan-bg2ee/",
+      "version": "1.0",
+      "latest_update": "18-12-2022"
     },
     "Fyalvara": {
       "setup_file": "",
       "inputs": [],
       "description": "Fyalvara NPC",
-      "active": "",
-      "download_url": "",
-      "version": "1.1",
-      "latest_update": ""
+      "active": "true",
+      "download_url": "https://downloads.weaselmods.net/download/fyalvara/",
+      "version": "1.4",
+      "latest_update": "05-07-2026"
     },
     "Lhannd": {
       "setup_file": "",
       "inputs": [],
       "description": "Lhannd NPC",
-      "active": "",
-      "download_url": "",
-      "version": "1.5",
-      "latest_update": ""
+      "active": "true",
+      "download_url": "https://downloads.weaselmods.net/download/lhannd/",
+      "version": "2.0",
+      "latest_update": "18-10-2025"
     },
     "Petsy": {
       "setup_file": "",
       "inputs": [],
       "description": "Petsy NPC",
-      "active": "",
-      "download_url": "",
-      "version": "4.4.2",
-      "latest_update": ""
+      "active": "true",
+      "download_url": "https://downloads.weaselmods.net/download/petsy/",
+      "version": "4.4.3",
+      "latest_update": "09-07-2026"
     },
     "Yvette_Romance": {
       "setup_file": "",
       "inputs": [],
       "description": "Yvette NPC",
-      "active": "",
-      "download_url": "",
+      "active": "true",
+      "download_url": "https://downloads.weaselmods.net/download/yvette-romance/",
       "version": "5.2",
-      "latest_update": ""
+      "latest_update": "26-06-2026"
     },
     "Sirene": {
       "setup_file": "",
       "inputs": [],
       "description": "Sirene NPC",
-      "active": "",
-      "download_url": "",
-      "version": "",
-      "latest_update": ""
+      "active": "true",
+      "download_url": "https://forums.beamdog.com/discussion/62163/v1-9-sirene-a-tiefling-paladin-of-ilmater-npc-for-bg2-ee",
+      "version": "?",
+      "latest_update": "01-06-2026"
     },
     "Pai_Na": {
       "setup_file": "",
       "inputs": [],
       "description": "Pai-Na NPC",
-      "active": "",
-      "download_url": "",
-      "version": "",
-      "latest_update": ""
+      "active": "true",
+      "download_url": "https://forums.beamdog.com/discussion/43113/v1-7-paina-a-half-drow-hivemaster-druid-npc-for-bg2-ee",
+      "version": "?",
+      "latest_update": "07-05-2026"
     },
     "Willowisp": {
       "setup_file": "",
       "inputs": [],
       "description": "Will Of The Wisps Kit + NPC",
-      "active": "",
-      "download_url": "",
-      "version": "",
-      "latest_update": ""
+      "active": "true",
+      "download_url": "https://downloads.weaselmods.net/download/will-of-the-wisps/",
+      "version": "3.5",
+      "latest_update": "12-01-2026"
     },
     "Beyond_the_Law": {
       "setup_file": "",
       "inputs": [],
       "description": "Beyond the Law Quests and NPCs",
-      "active": "",
-      "download_url": "",
-      "version": "",
-      "latest_update": ""
+      "active": "false",
+      "download_url": "https://github.com/SpellholdStudios/Beyond_the_Law/releases",
+      "version": "2.0.0",
+      "latest_update": "26-10-2021"
     },
     "BG2_Autumns_Twilight": {
       "setup_file": "",
       "inputs": [],
       "description": "BG2 Autumn's Twilight Quests and NPCs",
-      "active": "",
-      "download_url": "",
-      "version": "",
-      "latest_update": ""
+      "active": "true",
+      "download_url": "https://github.com/evancauteren/bg2-autumns-twilight-mod/releases",
+      "version": "1.4.5",
+      "latest_update": "02-05-2026"
     },
     "BG2_Banter_Packs": {
       "setup_file": "",
       "inputs": [],
       "description": "BG2 Banter Packs",
-      "active": "",
-      "download_url": "",
-      "version": "",
-      "latest_update": ""
+      "active": "false",
+      "download_url": "https://github.com/Pocket-Plane-Group/Banter_Pack/releases",
+      "version": "18",
+      "latest_update": "17-09-2021"
     },
     "Extended_Banters": {
       "setup_file": "",
       "inputs": [],
       "description": "Extended BG2 Banters",
-      "active": "",
-      "download_url": "",
-      "version": "",
-      "latest_update": ""
+      "active": "false",
+      "download_url": "https://github.com/SpellholdStudios/IEP_Extended_Banter/releases",
+      "version": "5.8",
+      "latest_update": "18-07-2021"
     },
     "Mazzy_Friendship": {
       "setup_file": "",
       "inputs": [],
       "description": "Mazzy Friendship",
-      "active": "",
-      "download_url": "",
-      "version": "",
-      "latest_update": ""
+      "active": "false",
+      "download_url": "https://github.com/SpellholdStudios/MazzyFriendship/releases",
+      "version": "3.5",
+      "latest_update": "15-02-2020"
     },
     "Yoshimo_Friendship": {
       "setup_file": "",
       "inputs": [],
       "description": "Yoshimo Friendship",
-      "active": "",
-      "download_url": "",
-      "version": "",
-      "latest_update": ""
+      "active": "false",
+      "download_url": "https://github.com/SpellholdStudios/YoshimoFriendship/releases",
+      "version": "5.0",
+      "latest_update": "22-03-2024"
     },
     "Geomantic": {
       "setup_file": "",
       "inputs": [],
       "description": "Geomantic Sorcerer Kit",
-      "active": "",
-      "download_url": "",
-      "version": "",
-      "latest_update": ""
+      "active": "false",
+      "download_url": "https://github.com/Gibberlings3/Geomantic_Sorcerer/releases",
+      "version": "9",
+      "latest_update": "07-05-2025"
     },
     "Spiritwalker": {
       "setup_file": "",
       "inputs": [],
       "description": "Spiritwalker Kit",
-      "active": "",
-      "download_url": "",
-      "version": "",
-      "latest_update": ""
+      "active": "false",
+      "download_url": "(dead-link, latest version downloadable is 1.3)",
+      "version": "1.4",
+      "latest_update": "24-02-2019"
     },
     "Storm_Caller": {
       "setup_file": "",
       "inputs": [],
       "description": "Storm Caller Kit",
-      "active": "",
-      "download_url": "",
-      "version": "",
-      "latest_update": ""
+      "active": "false",
+      "download_url": "(dead-link, latest version downloadable is 1.1)",
+      "version": "1.2",
+      "latest_update": "24-02-2019"
     },
     "Derats_Unused_Kits_Pack": {
       "setup_file": "",
       "inputs": [],
       "description": "Preacher of Flames Kit",
-      "active": "",
-      "download_url": "",
-      "version": "",
-      "latest_update": ""
+      "active": "false",
+      "download_url": "https://github.com/Deratiseur/DUKP/releases",
+      "version": "18.6",
+      "latest_update": "30-08-2025"
     },
     "Warlock": {
       "setup_file": "",
       "inputs": [],
       "description": "Warlock Kit",
-      "active": "",
-      "download_url": "",
-      "version": "",
-      "latest_update": ""
+      "active": "true",
+      "download_url": "https://artisans-corner.com/warlock/",
+      "version": "?",
+      "latest_update": "04-06-2026"
     },
     "FGKits": {
       "setup_file": "",
       "inputs": [],
       "description": "FG Kits",
-      "active": "",
-      "download_url": "",
-      "version": "",
-      "latest_update": ""
+      "active": "false",
+      "download_url": "https://forums.beamdog.com/discussion/51515/mod-fg-kits-updated-v1-2",
+      "version": "1.2",
+      "latest_update": "01-04-2016"
     },
     "I_Hate_Undead": {
       "setup_file": "",
       "inputs": [],
       "description": "I Hate Undead Kits",
-      "active": "",
-      "download_url": "",
-      "version": "",
-      "latest_update": ""
+      "active": "false",
+      "download_url": "https://github.com/Raduziel/I-Hate-Undead-Kitpack/releases",
+      "version": "3.8.3",
+      "latest_update": "01-10-2023"
     },
     "Bardic_Wonders": {
       "setup_file": "",
       "inputs": [],
       "description": "Bardic Wonders Kits and Tweaks",
-      "active": "",
-      "download_url": "",
-      "version": "2.6",
-      "latest_update": ""
+      "active": "true",
+      "download_url": "https://artisans-corner.com/bardic-wonders/",
+      "version": "2.9c",
+      "latest_update": "31-05-2026"
     },
     "Shadow_Magic": {
       "setup_file": "",
       "inputs": [],
       "description": "Shadow Magic Kit",
-      "active": "",
-      "download_url": "",
-      "version": "",
-      "latest_update": ""
+      "active": "true",
+      "download_url": "https://artisans-corner.com/shadow-magic/",
+      "version": "?",
+      "latest_update": "31-05-2026"
     },
     "Might_and_Guile": {
       "setup_file": "",
       "inputs": [],
       "description": "Might and Guile Kits and Tweaks",
-      "active": "",
-      "download_url": "",
-      "version": "",
-      "latest_update": ""
+      "active": "false",
+      "download_url": "https://github.com/UnearthedArcana/Might_and_Guile/releases",
+      "version": "5.8.9",
+      "latest_update": "21-02-2025"
     },
     "Morpheus562s_Kitpack": {
       "setup_file": "",
       "inputs": [],
       "description": "Morpheus562's Kitpack",
-      "active": "",
-      "download_url": "",
-      "version": "",
-      "latest_update": ""
+      "active": "true",
+      "download_url": "https://www.morpheus-mart.com/morpheus562s-kitpack",
+      "version": "5.9",
+      "latest_update": "15-03-2026"
     },
     "Expanded_Classes": {
       "setup_file": "",
       "inputs": [],
       "description": "Expanded Classes Kits",
-      "active": "",
-      "download_url": "",
-      "version": "1.35",
-      "latest_update": ""
+      "active": "true",
+      "download_url": "https://forums.beamdog.com/discussion/77859/expanded-classes-and-kits-massive-kit-compilation-mod",
+      "version": "2.0",
+      "latest_update": "18-03-2026"
     },
     "The_Artisans_Kitpack": {
       "setup_file": "",
       "inputs": [],
       "description": "The Artisan's Kitpack",
-      "active": "",
-      "download_url": "",
-      "version": "",
-      "latest_update": ""
+      "active": "true",
+      "download_url": "https://artisans-corner.com/the-artisans-kitpack/",
+      "version": "?",
+      "latest_update": "31-05-2026"
     },
     "Tome_and_Blood": {
       "setup_file": "",
       "inputs": [],
       "description": "Tome and Blood Kit tweaks",
-      "active": "",
-      "download_url": "",
-      "version": "",
-      "latest_update": ""
+      "active": "false",
+      "download_url": "https://github.com/UnearthedArcana/TomeAndBlood/releases",
+      "version": "1.4",
+      "latest_update": "19-05-2025"
     },
     "Rogue_Rebalancing": {
       "setup_file": "",
       "inputs": [],
       "description": "Rogue Rebalancing",
-      "active": "",
-      "download_url": "",
-      "version": "",
-      "latest_update": ""
+      "active": "false",
+      "download_url": "(dead, no up to date link)",
+      "version": "4.90",
+      "latest_update": "03-03-2019"
     },
     "Monk_Overhaul": {
       "setup_file": "",
       "inputs": [],
       "description": "Monk Overhaul",
-      "active": "",
-      "download_url": "",
+      "active": "false",
+      "download_url": "https://forums.beamdog.com/discussion/33618/mod-monk-overhaul",
       "version": "1.2",
-      "latest_update": ""
+      "latest_update": "08-11-2014"
     },
     "Improved_Shamanic_Dance": {
       "setup_file": "",
       "inputs": [],
       "description": "Improved Shamanic Dance",
-      "active": "",
-      "download_url": "",
-      "version": "",
-      "latest_update": ""
+      "active": "false",
+      "download_url": "https://github.com/Argent77/A7-ImprovedShamanicDance/releases",
+      "version": "4.6",
+      "latest_update": "07-12-2024"
     },
     "House_Rule_Tweaks": {
       "setup_file": "",
       "inputs": [],
       "description": "House Rule Tweaks",
-      "active": "",
-      "download_url": "",
+      "active": "false",
+      "download_url": "https://artisans-corner.com/house-rules/",
       "version": "2.5a",
-      "latest_update": ""
+      "latest_update": "04-06-2026"
     },
     "Tactics_Remix": {
       "setup_file": "",
       "inputs": [],
       "description": "Tactics Remix",
-      "active": "",
-      "download_url": "",
-      "version": "",
-      "latest_update": ""
+      "active": "false",
+      "download_url": "https://www.morpheus-mart.com/tactics-remix",
+      "version": "7.3",
+      "latest_update": "07-04-2026"
     },
     "Tweaks_Anthology": {
       "setup_file": "",
       "inputs": [],
       "description": "Tweaks Anthology",
-      "active": "",
-      "download_url": "",
-      "version": "",
-      "latest_update": ""
+      "active": "true",
+      "download_url": "https://github.com/Gibberlings3/Tweaks-Anthology/releases",
+      "version": "18",
+      "latest_update": "22-08-2025"
     },
     "aTweaks": {
       "setup_file": "",
       "inputs": [],
       "description": "aTweaks",
       "active": "false",
-      "download_url": "",
+      "download_url": "(dead, no links)",
       "version": "4.53",
       "latest_update": "06-03-2022"
     },
@@ -928,9 +928,9 @@
       "inputs": [],
       "description": "Talents Of Faerun",
       "active": "false",
-      "download_url": "",
-      "version": "beta-15",
-      "latest_update": ""
+      "download_url": "https://github.com/Gibberlings3/TalentsOfFaerun/releases",
+      "version": "3 (do not use later versions because they are broken)",
+      "latest_update": "07-01-2024"
     },
     "Sword_Coast_Stratagems": {
       "setup_file": "setup-stratagems.exe",
@@ -945,19 +945,19 @@
       "setup_file": "",
       "inputs": [],
       "description": "The Big Picture",
-      "active": "",
-      "download_url": "",
-      "version": "",
-      "latest_update": ""
+      "active": "false",
+      "download_url": "(dead link)",
+      "version": "v181-b4611",
+      "latest_update": "16-02-2014"
     },
     "Defjam": {
       "setup_file": "",
       "inputs": [],
       "description": "XP Mod",
-      "active": "",
-      "download_url": "",
-      "version": "",
-      "latest_update": ""
+      "active": "false",
+      "download_url": "https://github.com/Pocket-Plane-Group/D0XPmod/releases/tag/v7",
+      "version": "7",
+      "latest_update": "24-04-2020"
     },
     "HPS_Portraits_Project": {
       "setup_file": "setup-hps_portraits_project.exe",
@@ -1013,7 +1013,7 @@
     "Amber",
     "Kivan",
     "Gavin",
-    "Aurenaseph",
+    "Auren_aseph",
     "Sarah",
     "Angelo",
     "Yeslick_NPC",

@@ -304,7 +304,7 @@
       "inputs": ["0", "N", "N", "I", "Q"],
       "description": "Forgotten Armament",
       "active": "false",
-      "download_url": "https://www.morpheus-mart.com/forgotten-armament",
+      "download_url": "https://www.morpheus-mart.com/forgotten-armament (later versions broken)",
       "version": "4.4",
       "latest_update": "26-06-2024"
     },
@@ -686,7 +686,7 @@
       "description": "House Rules",
       "active": "false",
       "download_url": "https://artisans-corner.com/house-rules/",
-      "version": "?",
+      "version": "2.5a",
       "latest_update": "04-06-2026"
     },
     "Tweaks_Anthology": {
