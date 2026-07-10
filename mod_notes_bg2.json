@@ -76,6 +76,13 @@
       "Install Component [The Gibberlings Three Anniversary Mod]? → I (Install)"
     ]
   },
+  "Back_To_Brynnlaw": {
+    "input_notes": [
+      "Choose your language: → 0 (English)",
+      "Would you like to display the readme? → N (No)",
+      "Install Component [Back to Brynnlaw mod for Baldur's Gate II]? → I (Install)"
+    ]
+  },
   "Tower_of_Deception": {
     "input_notes": [
       "Choose your language: → 0 (English)",
