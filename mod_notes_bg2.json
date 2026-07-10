@@ -83,6 +83,13 @@
       "Install Component [Back to Brynnlaw mod for Baldur's Gate II]? → I (Install)"
     ]
   },
+  "The_Sellswords": {
+    "input_notes": [
+      "Choose your language: → 0 (English)",
+      "Would you like to display the readme? → N (No)",
+      "Install Component [The Sellswords mod for Baldur's Gate II]? → I (Install)"
+    ]
+  },
   "Tower_of_Deception": {
     "input_notes": [
       "Choose your language: → 0 (English)",

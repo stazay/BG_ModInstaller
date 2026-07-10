@@ -81,7 +81,7 @@
       "latest_update": "24-04-2026"
     },
     "Tower_of_Deception": {
-      "setup_file": "Setup-ToD.exe",
+      "setup_file": "setup-tod.exe",
       "inputs": ["0", "N", "I", "I", "Q"],
       "description": "Tower of Deception",
       "active": "false",
@@ -90,7 +90,7 @@
       "latest_update": "25-05-2025"
     },
     "Back_To_Brynnlaw": {
-      "setup_file": "Setup-BackBrynnlaw.exe",
+      "setup_file": "setup-backbrynnlaw.exe",
       "inputs": ["0", "N", "I"],
       "description": "Back To Brynnlaw",
       "active": "false",
@@ -99,7 +99,7 @@
       "latest_update": "15-05-2021"
     },
     "The_Sellswords": {
-      "setup_file": "setup-sellswords.exe",
+      "setup_file": "Setup-Sellswords.exe",
       "inputs": ["0", "N", "I"],
       "description": "The Sellswords",
       "active": "false",
