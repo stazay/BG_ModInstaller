@@ -90,6 +90,13 @@
       "Install Component [The Sellswords mod for Baldur's Gate II]? → I (Install)"
     ]
   },
+  "The_White_Queen": {
+    "input_notes": [
+      "Choose your language: → 0 (English)",
+      "Would you like to display the readme? → N (No)",
+      "Install Component [Colours of Infinity - The White Queen]? → 1 (Yes, but don't patch the existing save games)"
+    ]
+  },
   "Tower_of_Deception": {
     "input_notes": [
       "Choose your language: → 0 (English)",
