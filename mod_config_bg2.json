@@ -572,8 +572,8 @@
       "latest_update": "05-07-2019"
     },
     "Kelsey": {
-      "setup_file": "",
-      "inputs": [],
+      "setup_file": "setup-kelsey.exe",
+      "inputs": ["0", "N", "I", "N", "I"],
       "description": "Kelsey NPC",
       "active": "false",
       "download_url": "https://github.com/Pocket-Plane-Group/Kelsey/releases",

@@ -494,5 +494,14 @@
       "Install Component [Evandra NPC]? → I (Install)",
       "Install Component [Crossmod Content]? → I (Install)"
     ]
+  },
+  "Kelsey": {
+    "input_notes": [
+      "Choose your language: → 0 (English)",
+      "Would you like to display the readme? → N (No)",
+      "Install Component [Kelsey]? → I (Install)",
+      "Install Component [Alternate portraits]? → N (No, use default portrait)",
+      "Install Component [Ascension-specific dialogue]? → I (Install)"
+    ]
   }
 }
