@@ -384,5 +384,16 @@
       "Install Component [Change Deheriana's Class from Fighter/Mage/Cleric to:]? → N (Not Install)",
       "Install Component [Install Herd's Alternative Portrait for Kivan.]? → N (Not Install)"
     ]
+  },
+  "Gavin": {
+    "input_notes": [
+      "Choose your language: → 0 (English)",
+      "Would you like to display the readme? → N (No)",
+      "What should be done with all components that are NOT YET installed? → A (Ask about each one)",
+      "Install Component [Gavin for BG2]? → 5 (Speed: 1 hour 30 minutes real time minimum between dialogues)",
+      "Install Component [Gavin heals the PC when below 50% health]? → N (Not Install)",
+      "Install Component [Multi-romance cheat]? → N (Not Install)",
+      "Install Component [Alternate Portrait Selection]? → 1 (Dawnbringer, by Amaurea)"
+    ]
   }
 }

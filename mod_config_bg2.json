@@ -446,8 +446,8 @@
       "latest_update": "15-01-2025"
     },
     "Gavin": {
-      "setup_file": "",
-      "inputs": [],
+      "setup_file": "setup-gavin_bg2.exe",
+      "inputs": ["0", "N", "A", "5", "N", "N", "1"],
       "description": "Gavin NPC",
       "active": "false",
       "download_url": "https://github.com/Gibberlings3/Gavin_BG2/releases",
@@ -455,7 +455,7 @@
       "latest_update": "21-01-2025"
     },
     "Auren_aseph": {
-      "setup_file": "",
+      "setup_file": "setup-aurenaseph.exe",
       "inputs": [],
       "description": "Auren Aseph NPC",
       "active": "false",
