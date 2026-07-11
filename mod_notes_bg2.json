@@ -197,5 +197,13 @@
       "Would you like to display the readme? → N (No)",
       "Install Component [Athkatlan Grounds: The Ink Gallery]? → I (Install)"
     ]
+  },
+  "Juniper_and_the_Stone_Leech": {
+    "input_notes": [
+      "Choose your language: → 0 (English)",
+      "Would you like to display the readme? → N (No)",
+      "Install Component [The Dreadful Tales: Juniper and the Stone Leech - companion and a quest mod for BG2EE ToB]? → I (Install)",
+      "Install Component [The Dreadful Tales: Juniper and the Stone Leech - Player-Initiated Dialogues for Juniper]? → N (Not Install)"
+    ]
   }
 }
