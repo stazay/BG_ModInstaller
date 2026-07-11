@@ -277,5 +277,31 @@
       "Install Component [Sarevok's Remorse]? → I (Install)",
       "Install Component [The Murder of Acton Balthis, by Kulyok]? → I (Install)"
     ]
+  },
+  "Dingos_Questpack": {
+    "input_notes": [
+      "Choose your language: → 0 (English)",
+      "Would you like to display the readme? → N (No)",
+      "What should be done with all components that are NOT YET installed? → A (Ask about each one)",
+      "Install Component [General AI Improvements]? → I (Install)",
+      "Install Component [Creature & Area Improvements]? → 1 (All Creature & Area Improvements)",
+      "Install Component [Miscellaneous Enhancements]? → 1 (With Additional Random Encounters)",
+      "Install Component [Additional Shadow Thieves Content]? → I (Install)",
+      "Install Component [Alternative Harper/Xzar Plot]? → I (Install)",
+      "Install Component [Extended Reynald Sequence]? → I (Install)",
+      "Install Component [Intrigue In The Copper Coronet]? → I (Install)",
+      "Install Component [Rahul Kanakia's Potion Quest]? → I (Install)",
+      "Install Component [Revised Hell Trials]? → N (Not Install)",
+      "Install Component [Improved Oasis II]? → 1 (IO2 Dialogue & Combat Enhancement)",
+      "Install Component [Saving Sanik In Brynnlaw]? → I (Install)",
+      "Install Component [Burglary Of The Bookkeeper]? → I (Install)",
+      "Install Component [New Fate For The Dryads' Acorns]? → I (Install)",
+      "Install Component [The Tragedy Of Besamen]? → I (Install)",
+      "Install Component [Further Slaver Involvement]? → I (Install)",
+      "Install Component [Sending The Solamnic Knights Home]? → I (Install)",
+      "Install Component [Nazariel The Lich]? → I (Install)",
+      "Install Component [Reward Negotiation]? → I (Install)",
+      "Install Component [Infernal Thievery]? → I (Install)"
+    ]
   }
 }
