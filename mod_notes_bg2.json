@@ -228,5 +228,12 @@
       "Install Component [Install portraits for the major NPCs of the mod]? → I (Install)",
       "Install Component [Install AI voiceover for major NPCs of the mod (mostly in English)]? → I (Install)"
     ]
+  },
+  "Throne_of_the_Mad_God": {
+    "input_notes": [
+      "Choose your language: → 1 (English)",
+      "Would you like to display the readme? → N (No)",
+      "Install Component [Throne of the Mad God]? → I (Install)"
+    ]
   }
 }
