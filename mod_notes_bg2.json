@@ -520,5 +520,13 @@
       "Install Component [Keto/Kelsey Interaction (Requires Kelsey-SOA)]? → I (Install)",
       "Install Component [Banter Accelerator]? → N (Not Install)"
     ]
+  },
+  "Fade": {
+    "input_notes": [
+      "Would you like to display the readme? → N (No)",
+      "Install Component [Fade: An NPC for Baldur's Gate II: SoA and ToB]? → I (Install)",
+      "Install Component [Fade NPC: reactions to Romantic Encounters]? → I (Install)",
+      "Install Component [Fade EE: give Fade Shadowdancer kit]? → I (Install)"
+    ]
   }
 }

@@ -599,8 +599,8 @@
       "latest_update": "03-08-2020"
     },
     "Fade": {
-      "setup_file": "",
-      "inputs": [],
+      "setup_file": "setup-fade.exe",
+      "inputs": ["N", "I", "I", "I"],
       "description": "Fade NPC",
       "active": "false",
       "download_url": "https://github.com/Spellhold-Studios/Fade-NPC/releases",
