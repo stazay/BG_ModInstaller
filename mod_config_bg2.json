@@ -491,8 +491,8 @@
       "latest_update": "17-09-2020"
     },
     "Tyris_Flare": {
-      "setup_file": "",
-      "inputs": [],
+      "setup_file": "setup-tyrisflare.exe",
+      "inputs": ["0", "N", "I", "1"],
       "description": "Tyris Flare NPC",
       "active": "false",
       "download_url": "https://github.com/Gibberlings3/TyrisFlare/releases",

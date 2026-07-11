@@ -424,5 +424,13 @@
       "Would you like to display the readme? → N (No)",
       "Install Component [Yeslick NPC for BGII: SoA & ToB]? → 1 (Yeslick is a regular Fighter-Cleric)"
     ]
+  },
+  "Tyris_Flare": {
+    "input_notes": [
+      "Choose your language: → 0 (English)",
+      "Would you like to display the readme? → N (No)",
+      "Install Component [Tyris Flare NPC]? → I (Install)",
+      "Install Component [Alternate Tyris Portraits]? → 1 (Alternate Portrait 1)"
+    ]
   }
 }
