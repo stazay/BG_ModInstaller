@@ -563,8 +563,8 @@
       "latest_update": "04-08-2020"
     },
     "Evandra": {
-      "setup_file": "",
-      "inputs": [],
+      "setup_file": "setup-evandra.exe",
+      "inputs": ["N", "I", "I"],
       "description": "Evandra NPC",
       "active": "false",
       "download_url": "https://www.gibberlings3.net/files/file/1008-evandra/",

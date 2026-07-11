@@ -487,5 +487,12 @@
       "Install Component [Install alternate class for Xan?]? → N (No, keep default Enchanter)",
       "Install Component [Xan's Alternate Voice by Joey Bracken]? → N (Not Install, use default voice)"
     ]
+  },
+  "Evandra": {
+    "input_notes": [
+      "Would you like to display the readme? → N (No)",
+      "Install Component [Evandra NPC]? → I (Install)",
+      "Install Component [Crossmod Content]? → I (Install)"
+    ]
   }
 }
