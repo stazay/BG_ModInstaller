@@ -271,7 +271,7 @@
     },
     "Fight_the_Heavens": {
       "setup_file": "setup-fight-the-heavens.exe",
-      "inputs": ["N", "I"],
+      "inputs": ["0", "I"],
       "description": "Fight the Heavens",
       "active": "false",
       "download_url": "https://www.morpheus-mart.com/fight-the-heavens",

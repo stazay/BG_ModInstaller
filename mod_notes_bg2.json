@@ -235,5 +235,11 @@
       "Would you like to display the readme? → N (No)",
       "Install Component [Throne of the Mad God]? → I (Install)"
     ]
+  },
+  "Fight_the_Heavens": {
+    "input_notes": [
+      "Choose your language: → 0 (English)",
+      "Install Component [Main Component]? → I (Install)"
+    ]
   }
 }
