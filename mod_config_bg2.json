@@ -383,8 +383,8 @@
       "latest_update": "11-07-2020"
     },
     "Improved_Haerdalis_Swords": {
-      "setup_file": "swordap.exe",
-      "inputs": [],
+      "setup_file": "Setup-swordap.exe",
+      "inputs": ["0", "N", "I"],
       "description": "Improved Haerdalis Swords",
       "active": "false",
       "download_url": "https://github.com/SpellholdStudios/HaerDalis_Swords/releases",

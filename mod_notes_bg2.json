@@ -326,5 +326,12 @@
       "Install Component [Force all import-able SoD items to be available in their normal locations]? → 2 (All importable items with Voidhammer +3)",
       "Install Component [Change Cromwell's equipment to be more in-line with his forging skills]? → N (Not Install)"
     ]
+  },
+  "Improved_Haerdalis_Swords": {
+    "input_notes": [
+      "Choose your language: → 0 (English)",
+      "Would you like to display the readme? → N (No)",
+      "Install Component [Improved Haer'Dalis' swords (special for Kania)]? → I (Install)"
+    ]
   }
 }
