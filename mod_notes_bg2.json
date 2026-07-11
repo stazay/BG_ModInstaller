@@ -375,5 +375,14 @@
       "Install Component [Amber the NPC MOD]? → I (Install)",
       "Install Component [Multiplayer-friendly flirting for Amber]? → I (Install)"
     ]
+  },
+  "Kivan": {
+    "input_notes": [
+      "Choose your language: → 0 (English)",
+      "Would you like to display the readme? → N (No)",
+      "Install Component [Kivan of Shilmista]? → I (Install)",
+      "Install Component [Change Deheriana's Class from Fighter/Mage/Cleric to:]? → N (Not Install)",
+      "Install Component [Install Herd's Alternative Portrait for Kivan.]? → N (Not Install)"
+    ]
   }
 }
