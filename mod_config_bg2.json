@@ -617,8 +617,8 @@
       "latest_update": "21-05-2026"
     },
     "Skitia_NPCs": {
-      "setup_file": "",
-      "inputs": [],
+      "setup_file": "Setup-SkitiaNPCs.exe",
+      "inputs": ["N", "Y", "I", "N", "N", "1", "N"],
       "description": "Skitia NPCs",
       "active": "true",
       "download_url": "https://github.com/Skitia/SkitiaNPCs/releases",

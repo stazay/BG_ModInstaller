@@ -536,5 +536,16 @@
       "Install Component [Faldorn NPC for BG2EE]? → I (Install)",
       "Install Component [Faldorn NPC for BG2EE: Player-Initiated Dialogues (PIDs)]? → N (Not Install)"
     ]
+  },
+  "Skitia_NPCs": {
+    "input_notes": [
+      "Would you like to display the components from [Alternative Portraits]? → N (No)",
+      "Would you like to display the components from [Alternate Kits]? → Y (Yes)",
+      "Install Component [Skitia NPCs for Baldur's Gate 2]? → I (Install)",
+      "Install Component [Helga Alternate Class: Fighter/Priest of Haelga]? → N (No, keep default class)",
+      "Install Component [Skitia NPCs: Romance Theme Soundtrack]? → N (No music)",
+      "Install Component [Choose an alternate class for Recorder?]? → 1 (Kapellmeister kit)",
+      "Install Component [Lorekeeper tweak: Extend Mmnemonic Retrieval to match IWD Spell Progression?]? → N (No, use default)"
+    ]
   }
 }
