@@ -554,8 +554,8 @@
       "latest_update": "18-04-2016"
     },
     "Xan": {
-      "setup_file": "",
-      "inputs": [],
+      "setup_file": "setup-xan.exe",
+      "inputs": ["0", "N", "I", "N", "N"],
       "description": "Xan NPC",
       "active": "false",
       "download_url": "https://github.com/Pocket-Plane-Group/Xan_for_BGII/releases",

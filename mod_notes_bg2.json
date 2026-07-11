@@ -478,5 +478,14 @@
       "Would you like to display the readme? → N (No)",
       "Install Component [Yasraena (BG2:SoA & TOB NPC)]? → I (Install)"
     ]
+  },
+  "Xan": {
+    "input_notes": [
+      "Choose your language: → 0 (English)",
+      "Would you like to display the readme? → N (No)",
+      "Install Component [Xan NPC MOD for Baldur's Gate II]? → I (Install)",
+      "Install Component [Install alternate class for Xan?]? → N (No, keep default Enchanter)",
+      "Install Component [Xan's Alternate Voice by Joey Bracken]? → N (Not Install, use default voice)"
+    ]
   }
 }
