@@ -76,6 +76,15 @@
       "Install Component [The Gibberlings Three Anniversary Mod]? → I (Install)"
     ]
   },
+  "Tower_of_Deception": {
+    "input_notes": [
+      "Choose your language: → 0 (English)",
+      "Would you like to display the readme? → N (No)",
+      "Install Component [Tower of Deception]? → I (Install)",
+      "Install Component [Improved Astral Shard Guardian]? → I (Install)",
+      "Install Component [Encounter with Ustrain]? → Q (Quit)"
+    ]
+  },
   "Back_To_Brynnlaw": {
     "input_notes": [
       "Choose your language: → 0 (English)",
@@ -111,13 +120,17 @@
       "Install Component [Colours of Infinity: Tales of the Deep Gardens]? → 1 (Yes, but don't patch the existing save games)"
     ]
   },
-  "Tower_of_Deception": {
+  "The_Cost_of_Skies_Soul": {
     "input_notes": [
       "Choose your language: → 0 (English)",
       "Would you like to display the readme? → N (No)",
-      "Install Component [Tower of Deception]? → I (Install)",
-      "Install Component [Improved Astral Shard Guardian]? → I (Install)",
-      "Install Component [Encounter with Ustrain]? → Q (Quit)"
+      "What should be done with all components that are NOT YET installed? → A (Ask about each one)",
+      "Install Component [Skie: The Cost of One Girl's Soul - New quest for Baldur's Gate 2 EE]? → I (Install)",
+      "Install Component [Skie: The Cost of One Girl's Soul - Allow Skie to return as a joinable NPC]? → I (Install)",
+      "Install Component [Skie: The Cost of One Girl's Soul - Add Player-Initiated Dialogue (PID) for Skie]? → N (Not Install)",
+      "Install Component [Skie: The Cost of One Girl's Soul - The Return of Eddard Silvershield (quest & a joinable NPC)]? → I (Install)",
+      "Install Component [Skie: The Cost of One Girl's Soul - Add Player-Initiated Dialogue (PID) for Eddard]? → N (Not Install)",
+      "Install Component [Skie: The Cost of One Girl's Soul - Add brand new SoD-oriented items to BG2]? → I (Install)"
     ]
   }
 }
