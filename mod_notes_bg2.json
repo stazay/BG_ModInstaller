@@ -562,5 +562,12 @@
       "Install Component [Fyalvara - Baldur's Gate 2: EE NPC]? → 2 (Make Fyalvara a Wizard Slayer)",
       "Install Component [Fyalvara - install Player-Initiated Dialogues?]? → N (Not Install)"
     ]
+  },
+  "Lhannd": {
+    "input_notes": [
+      "Would you like to display the readme? → N (No)",
+      "Install Component [Lhannd - Baldur's Gate 2: EE NPC]? → I (Install)",
+      "Install Component [Lhannd: Player-Initiated Dialogues (PIDs)]? → N (Not Install)"
+    ]
   }
 }

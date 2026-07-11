@@ -645,7 +645,7 @@
     },
     "Lhannd": {
       "setup_file": "",
-      "inputs": [],
+      "inputs": ["N", "I", "N"],
       "description": "Lhannd NPC",
       "active": "true",
       "download_url": "https://downloads.weaselmods.net/download/lhannd/",
