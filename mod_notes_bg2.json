@@ -503,5 +503,13 @@
       "Install Component [Alternate portraits]? → N (No, use default portrait)",
       "Install Component [Ascension-specific dialogue]? → I (Install)"
     ]
+  },
+  "Nathaniel": {
+    "input_notes": [
+      "Would you like to display the readme? → N (No)",
+      "Install Component [Nathaniel NPC Mod for BGII]? → I (Install)",
+      "Install Component [Choose a portrait for Nathaniel]? → 3 (Alternate portrait by Amaurea)",
+      "Install Component [Kelsey Content]? → I (Install)"
+    ]
   }
 }

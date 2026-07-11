@@ -580,6 +580,15 @@
       "version": "6",
       "latest_update": "12-01-2020"
     },
+    "Nathaniel": {
+      "setup_file": "Setup-Nathaniel.exe",
+      "inputs": ["N", "I", "3", "I"],
+      "description": "Nathaniel NPC",
+      "active": "false",
+      "download_url": "https://github.com/Spellhold-Studios/Nathaniel-NPC/releases/tag",
+      "version": "4.4",
+      "latest_update": "18-09-2025"
+    },
     "Keto": {
       "setup_file": "",
       "inputs": [],
@@ -1036,6 +1045,7 @@
     "Xan",
     "Evandra",
     "Kelsey",
+    "Nathaniel",
     "Keto",
     "Fade",
     "Faldorn",
