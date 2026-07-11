@@ -626,8 +626,8 @@
       "latest_update": "30-12-2025"
     },
     "Walahnan": {
-      "setup_file": "",
-      "inputs": [],
+      "setup_file": "setup-WalahnanBG2.exe",
+      "inputs": ["N", "I", "N"],
       "description": "Walahnan NPC",
       "active": "false",
       "download_url": "https://downloads.weaselmods.net/download/walahnan-bg2ee/",

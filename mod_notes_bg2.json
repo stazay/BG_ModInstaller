@@ -547,5 +547,12 @@
       "Install Component [Choose an alternate class for Recorder?]? → 1 (Kapellmeister kit)",
       "Install Component [Lorekeeper tweak: Extend Mmnemonic Retrieval to match IWD Spell Progression?]? → N (No, use default)"
     ]
+  },
+  "Walahnan": {
+    "input_notes": [
+      "Would you like to display the readme? → N (No)",
+      "Install Component [Walahnan NPC for BG2EE]? → I (Install)",
+      "Install Component [Walahnan NPC for BG2EE: Player-Initiated Dialogues]? → N (Not Install)"
+    ]
   }
 }
