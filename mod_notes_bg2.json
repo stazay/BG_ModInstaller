@@ -146,5 +146,12 @@
       "Would you like to display the readme? → N (No)",
       "Install Component [Southern Edge: the new district of Athkatla]? → 1 (Yes, but don't patch the existing save games)"
     ]
+  },
+  "Tangled_Oak_Isle": {
+    "input_notes": [
+      "Choose your language: → 0 (English)",
+      "Would you like to display the readme? → N (No)",
+      "Install Component [Athkatlan Grounds: The Tangled Oak Isle]? → 1 (Yes, but don't patch existing save games)"
+    ]
   }
 }
