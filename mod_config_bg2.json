@@ -483,7 +483,7 @@
     },
     "Yeslick_NPC": {
       "setup_file": "Setup-yeslicknpc.exe",
-      "inputs": [],
+      "inputs": ["N", "1"],
       "description": "Yeslick NPC",
       "active": "false",
       "download_url": "https://github.com/SpellholdStudios/Yeslick_NPC/releases",

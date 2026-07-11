@@ -418,5 +418,11 @@
       "Install Component [Angelo NPC MOD for Baldur's Gate II]? → I (Install)",
       "Install Component [Angelo's alternative portraits]? → N (No, use default portrait)"
     ]
+  },
+  "Yeslick_NPC": {
+    "input_notes": [
+      "Would you like to display the readme? → N (No)",
+      "Install Component [Yeslick NPC for BGII: SoA & ToB]? → 1 (Yeslick is a regular Fighter-Cleric)"
+    ]
   }
 }
