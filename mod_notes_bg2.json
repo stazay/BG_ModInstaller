@@ -333,5 +333,14 @@
       "Would you like to display the readme? → N (No)",
       "Install Component [Improved Haer'Dalis' swords (special for Kania)]? → I (Install)"
     ]
+  },
+  "Forgotten_Armament": {
+    "input_notes": [
+      "Choose your language: → 0 (English)",
+      "Would you like to display the readme? → N (No)",
+      "Install Component [Add New Items to the Game]? → N (Not Install)",
+      "Install Component [Update Existing In-Game Items]? → I (Install)",
+      "Install Component [Add Ruby Ray Scrolls to Trademeet Store]? → Q (Quit)"
+    ]
   }
 }

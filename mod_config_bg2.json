@@ -392,8 +392,8 @@
       "latest_update": "30-08-2020"
     },
     "Forgotten_Armament": {
-      "setup_file": "forgotten-armament.exe",
-      "inputs": [],
+      "setup_file": "setup-forgotten-armament.exe",
+      "inputs": ["0", "N", "N", "I", "Q"],
       "description": "Forgotten Armament",
       "active": "false",
       "download_url": "https://www.morpheus-mart.com/forgotten-armament (later versions broken)",
