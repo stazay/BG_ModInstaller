@@ -351,5 +351,14 @@
       "Install Component [Mages cast Gate far from themselves (Useless with SCS)]? → N (Not Install)",
       "Install Component [Use pre-EE Spell Deflection Globe (EE only)]? → N (Not Install)"
     ]
+  },
+  "Tashia": {
+    "input_notes": [
+      "Choose your language: → 0 (English)",
+      "Would you like to display the readme? → N (No)",
+      "Install Component [Tashia NPC Mod]? → 1 (Full Version)",
+      "Install Component [Tashia Add-On Pack (by Bri and Lord Ernie)]? → 1 (Action-Style Dialogues)",
+      "Install Component [Alternate Portrait for Tashia]? → N (Not Install)"
+    ]
   }
 }
