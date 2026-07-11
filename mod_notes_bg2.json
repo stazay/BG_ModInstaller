@@ -464,5 +464,12 @@
       "Install Component [Change Minyae's class to Enchanter (from Enchanter/Thief)]? → N (Not Install, keep Enchanter/Thief)",
       "Install Component [Minyae's Portrait]? → 1 (Alternative portrait by TamikaProud at DeviantArt)"
     ]
+  },
+  "Navarra": {
+    "input_notes": [
+      "Would you like to display the readme? → N (No)",
+      "Install Component [Navarra for BG2]? → I (Install)",
+      "Minimum time between dialogues: → 5 (1 hour 30 minutes real time)"
+    ]
   }
 }
