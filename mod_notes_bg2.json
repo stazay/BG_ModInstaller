@@ -104,6 +104,13 @@
       "Install Component [Colours of Infinity: I Shall Never Forget]? → I (Install)"
     ]
   },
+  "Tales_of_the_Deep_Gardens": {
+    "input_notes": [
+      "Choose your language: → 0 (English)",
+      "Would you like to display the readme? → N (No)",
+      "Install Component [Colours of Infinity: Tales of the Deep Gardens]? → 1 (Yes, but don't patch the existing save games)"
+    ]
+  },
   "Tower_of_Deception": {
     "input_notes": [
       "Choose your language: → 0 (English)",
