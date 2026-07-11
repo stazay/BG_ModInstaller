@@ -401,8 +401,8 @@
       "latest_update": "26-06-2024"
     },
     "Cowled_Menace": {
-      "setup_file": "",
-      "inputs": [],
+      "setup_file": "setup-cowledmenace.exe",
+      "inputs": ["0", "I", "I", "N", "N"],
       "description": "Cowled Menace",
       "active": "true",
       "download_url": "https://github.com/Gibberlings3/CowledMenace/releases",

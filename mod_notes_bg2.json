@@ -342,5 +342,14 @@
       "Install Component [Update Existing In-Game Items]? → I (Install)",
       "Install Component [Add Ruby Ray Scrolls to Trademeet Store]? → Q (Quit)"
     ]
+  },
+  "Cowled_Menace": {
+    "input_notes": [
+      "Choose your language: → 0 (English)",
+      "Install Component [Main Component]? → I (Install)",
+      "Install Component [Appropriate Items for High-Level Spellcasters]? → I (Install)",
+      "Install Component [Mages cast Gate far from themselves (Useless with SCS)]? → N (Not Install)",
+      "Install Component [Use pre-EE Spell Deflection Globe (EE only)]? → N (Not Install)"
+    ]
   }
 }
