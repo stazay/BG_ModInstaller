@@ -617,5 +617,13 @@
       "Install Component [Beyond the Law - Kova & Kiyone]? → 1 (With Kiyone original sound set)",
       "Install Component [Better balanced BTL items]? → I (Install)"
     ]
+  },
+  "BG2_Autumns_Twilight": {
+    "input_notes": [
+      "Choose your language: → 1 (English)",
+      "Would you like to display the readme? → N (No)",
+      "Install Component [Autumn's Twilight MOD]? → I (Install)",
+      "Install Component [Enemy Difficulty: Hard]? → I (Install)"
+    ]
   }
 }

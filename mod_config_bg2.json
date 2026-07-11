@@ -707,8 +707,8 @@
       "latest_update": "26-10-2021"
     },
     "BG2_Autumns_Twilight": {
-      "setup_file": "",
-      "inputs": [],
+      "setup_file": "setup-Autumns_Twilight.exe",
+      "inputs": ["1", "N", "I", "I"],
       "description": "BG2 Autumn's Twilight Quests and NPCs",
       "active": "true",
       "download_url": "https://github.com/evancauteren/bg2-autumns-twilight-mod/releases",
