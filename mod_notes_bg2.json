@@ -183,5 +183,12 @@
       "Install Component [The Dreadful Tales: In Love, Undeath - a new quest and companion for BG2EE]? → 1 (Yes, but don't patch existing save games)",
       "Install Component [Xzele: Player-Initiated Dialogues]? → N (Not Install)"
     ]
+  },
+  "The_Bloodied_Stings_of_Barovia": {
+    "input_notes": [
+      "Choose your language: → 0 (English)",
+      "Would you like to display the readme? → N (No)",
+      "Install Component [The Bloodied Stings of Barovia - a dark Ravenloft adventure for Baldur's Gate 2 EE]? → I (Install)"
+    ]
   }
 }
