@@ -698,8 +698,8 @@
       "latest_update": "12-01-2026"
     },
     "Beyond_the_Law": {
-      "setup_file": "",
-      "inputs": [],
+      "setup_file": "setup-btl.exe",
+      "inputs": ["N", "1", "I"],
       "description": "Beyond the Law Quests and NPCs",
       "active": "false",
       "download_url": "https://github.com/SpellholdStudios/Beyond_the_Law/releases",
