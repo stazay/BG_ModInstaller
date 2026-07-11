@@ -217,7 +217,7 @@
     },
     "Ink_Gallery": {
       "setup_file": "Setup-InkGallery.exe",
-      "inputs": [],
+      "inputs": ["0", "N", "I"],
       "description": "Ink Gallery",
       "active": "true",
       "download_url": "https://downloads.weaselmods.net/download/the-ink-gallery/",

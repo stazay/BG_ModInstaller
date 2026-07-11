@@ -190,5 +190,12 @@
       "Would you like to display the readme? → N (No)",
       "Install Component [The Bloodied Stings of Barovia - a dark Ravenloft adventure for Baldur's Gate 2 EE]? → I (Install)"
     ]
+  },
+  "Ink_Gallery": {
+    "input_notes": [
+      "Choose your language: → 0 (English)",
+      "Would you like to display the readme? → N (No)",
+      "Install Component [Athkatlan Grounds: The Ink Gallery]? → I (Install)"
+    ]
   }
 }
