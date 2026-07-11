@@ -153,5 +153,12 @@
       "Would you like to display the readme? → N (No)",
       "Install Component [Athkatlan Grounds: The Tangled Oak Isle]? → 1 (Yes, but don't patch existing save games)"
     ]
+  },
+  "Bridges_Block": {
+    "input_notes": [
+      "Choose your language: → 0 (English)",
+      "Would you like to display the readme? → N (No)",
+      "Install Component [Athkatlan Grounds: The Bridge's Block]? → I (Install)"
+    ]
   }
 }
