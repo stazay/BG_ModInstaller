@@ -635,8 +635,8 @@
       "latest_update": "18-12-2022"
     },
     "Fyalvara": {
-      "setup_file": "",
-      "inputs": [],
+      "setup_file": "setup-fyalvara.exe",
+      "inputs": ["0", "N", "2", "N"],
       "description": "Fyalvara NPC",
       "active": "true",
       "download_url": "https://downloads.weaselmods.net/download/fyalvara/",

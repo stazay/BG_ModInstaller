@@ -554,5 +554,13 @@
       "Install Component [Walahnan NPC for BG2EE]? → I (Install)",
       "Install Component [Walahnan NPC for BG2EE: Player-Initiated Dialogues]? → N (Not Install)"
     ]
+  },
+  "Fyalvara": {
+    "input_notes": [
+      "Choose your language: → 0 (English)",
+      "Would you like to display the readme? → N (No)",
+      "Install Component [Fyalvara - Baldur's Gate 2: EE NPC]? → 2 (Make Fyalvara a Wizard Slayer)",
+      "Install Component [Fyalvara - install Player-Initiated Dialogues?]? → N (Not Install)"
+    ]
   }
 }
