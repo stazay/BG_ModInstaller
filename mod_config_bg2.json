@@ -428,8 +428,8 @@
       "latest_update": "15-12-2024"
     },
     "Amber": {
-      "setup_file": "",
-      "inputs": [],
+      "setup_file": "setup-amber.exe",
+      "inputs": ["0", "N", "I", "I"],
       "description": "Amber NPC",
       "active": "false",
       "download_url": "https://www.gibberlings3.net/files/file/685-amber/",
