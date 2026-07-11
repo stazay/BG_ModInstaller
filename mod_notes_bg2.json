@@ -247,5 +247,35 @@
       "Choose your language: → 0 (English)",
       "Install Component [Install Crucible]? → 1 (Fully Voiced NPCs using AI)"
     ]
+  },
+  "Unfinished_Business": {
+    "input_notes": [
+      "Choose your language: → 0 (English)",
+      "Would you like to display the readme? → N (No)",
+      "Install Component [The Kidnapping of Boo by Cliffette]? → I (Install)",
+      "Install Component [The Suna Seni/Valygar Relationship]? → I (Install)",
+      "Install Component [Kalah and What He Was Promised]? → I (Install)",
+      "Install Component [\"Cat and Mouse\" (Bodhi hunts you in Spellhold) by Ghreyfain]? → N (Not Install)",
+      "Install Component [Gorje Hilldark and the Extended Illithium Quest]? → N (Not Install)",
+      "Install Component [The Pai'Na/Spider's Bane Quest]? → N (Not Install)",
+      "Install Component [Restored Crooked Crane Inn]? → I (Install)",
+      "Install Component [Restored Encounters]? → I (Install)",
+      "Install Component [Artemis Entreri in Bodhi's Lair]? → I (Install)",
+      "Install Component [Corrected \"Xzar's Creations\"]? → I (Install)",
+      "Install Component [Restored Hell Minions, by SimDing0]? → I (Install)",
+      "Install Component [Item Restorations]? → I (Install)",
+      "Install Component [Yoshimo's Original Portrait]? → N (Not Install)",
+      "Install Component [Anomen's Original Portrait]? → N (Not Install)",
+      "Install Component [NPC Portrait Restorations]? → N (Not Install)",
+      "Install Component [Corrected Character Names and Biographies]? → I (Install)",
+      "Install Component [Restored Minor Dialogs]? → I (Install)",
+      "Install Component [Restored Bhaalspawn Powers, by David Gaider]? → I (Install)",
+      "Install Component [Extended ToB Item Descriptions]? → I (Install)",
+      "Install Component [Throne of Bhaal Minor Restorations]? → I (Install)",
+      "Install Component [Justifier Kit]? → N (Not Install)",
+      "Install Component [Feralan Kit]? → N (Not Install)",
+      "Install Component [Sarevok's Remorse]? → I (Install)",
+      "Install Component [The Murder of Acton Balthis, by Kulyok]? → I (Install)"
+    ]
   }
 }
