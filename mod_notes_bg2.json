@@ -455,5 +455,14 @@
       "Install Component [Isra for BGII]? → I (Install)",
       "Install Component [Isra Crossmod Content]? → I (Install)"
     ]
+  },
+  "The_Beaurin_Legacy": {
+    "input_notes": [
+      "Choose your language: → 0 (English)",
+      "Would you like to display the readme? → N (No)",
+      "Install Component [The Beaurin Legacy for BG2:SoA & ToB & BGII:EE]? → I (Install)",
+      "Install Component [Change Minyae's class to Enchanter (from Enchanter/Thief)]? → N (Not Install, keep Enchanter/Thief)",
+      "Install Component [Minyae's Portrait]? → 1 (Alternative portrait by TamikaProud at DeviantArt)"
+    ]
   }
 }

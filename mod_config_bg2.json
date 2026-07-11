@@ -528,7 +528,7 @@
     },
     "The_Beaurin_Legacy": {
       "setup_file": "setup-TheBeaurinLegacy.exe",
-      "inputs": [],
+      "inputs": ["0", "N", "I", "N", "1"],
       "description": "The Beaurin Legacy NPC",
       "active": "false",
       "download_url": "https://www.gibberlings3.net/files/file/998-beaurin-legacy/",
