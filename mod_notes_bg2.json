@@ -597,5 +597,18 @@
     "input_notes": [
       "Install Component [Pai'Na NPC for BG2:EE]? → I (Install)"
     ]
+  },
+  "Willowisp": {
+    "input_notes": [
+      "Choose your language: → 0 (English)",
+      "Would you like to display the readme? → N (No)",
+      "What should be done with all components NOT YET installed? → A (Ask about each one)",
+      "Install Component [Will NPC, shaman stronghold and new shaman kit for BG2EE]? → I (Install)",
+      "Install Component [Change shaman .tlk string to remove 'Ineligible for any stronghold' line]? → I (Install)",
+      "Install Component [Town Medium (Shaman) Kit]? → N (Not Install)",
+      "Install Component [New items for shamans and undead NPCs]? → I (Install)",
+      "Install Component [Optional: Drider, Dark Treant, Will-o'-wisp Enemies]? → I (Install)",
+      "Install Component [[CHEAT] Enable shaman stronghold for all classes]? → N (Not Install)"
+    ]
   }
 }
