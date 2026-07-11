@@ -528,5 +528,13 @@
       "Install Component [Fade NPC: reactions to Romantic Encounters]? → I (Install)",
       "Install Component [Fade EE: give Fade Shadowdancer kit]? → I (Install)"
     ]
+  },
+  "Faldorn": {
+    "input_notes": [
+      "Choose your language: → 0 (English)",
+      "Would you like to display the readme? → N (No)",
+      "Install Component [Faldorn NPC for BG2EE]? → I (Install)",
+      "Install Component [Faldorn NPC for BG2EE: Player-Initiated Dialogues (PIDs)]? → N (Not Install)"
+    ]
   }
 }

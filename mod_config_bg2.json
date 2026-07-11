@@ -608,8 +608,8 @@
       "latest_update": "04-08-2020"
     },
     "Faldorn": {
-      "setup_file": "",
-      "inputs": [],
+      "setup_file": "setup-FaldornBG2.exe",
+      "inputs": ["0", "N", "I", "N"],
       "description": "Faldorn NPC",
       "active": "true",
       "download_url": "https://downloads.weaselmods.net/download/faldorn-bg2ee/",
