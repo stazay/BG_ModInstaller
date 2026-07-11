@@ -464,8 +464,8 @@
       "latest_update": "17-03-2026"
     },
     "Sarah": {
-      "setup_file": "",
-      "inputs": [],
+      "setup_file": "setup-sarahtob.exe",
+      "inputs": ["0", "N", "1"],
       "description": "Sarah NPC",
       "active": "false",
       "download_url": "https://github.com/Gibberlings3/Sarah/releases",

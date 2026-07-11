@@ -403,5 +403,12 @@
       "Install Component [Auren Aseph for BG2:ToB]? → I (Install)",
       "Install Component [Alternate Auren Portrait]? → 1 (Portrait 1, From Neverwinter Nights Vault)"
     ]
+  },
+  "Sarah": {
+    "input_notes": [
+      "Choose your language: → 0 (English)",
+      "Would you like to display the readme? → N (No)",
+      "Install Component [Sarah NPC Romance Mod for BG2:ToB]? → 1 (Use original audio)"
+    ]
   }
 }
