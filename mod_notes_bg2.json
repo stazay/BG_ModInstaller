@@ -132,5 +132,12 @@
       "Install Component [Skie: The Cost of One Girl's Soul - Add Player-Initiated Dialogue (PID) for Eddard]? → N (Not Install)",
       "Install Component [Skie: The Cost of One Girl's Soul - Add brand new SoD-oriented items to BG2]? → I (Install)"
     ]
+  },
+  "Oozes_Lounge": {
+    "input_notes": [
+      "Choose your language: → 0 (English)",
+      "Would you like to display the readme? → N (No)",
+      "Install Component [Athkatlan Grounds: The Ooze's Lounge - a new area under Athkatlan Slums]? → I (Install)"
+    ]
   }
 }
