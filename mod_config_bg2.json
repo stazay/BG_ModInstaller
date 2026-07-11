@@ -473,8 +473,8 @@
       "latest_update": "16-02-2025"
     },
     "Angelo": {
-      "setup_file": "",
-      "inputs": [],
+      "setup_file": "setup-angelo.exe",
+      "inputs": ["0", "N", "I", "N"],
       "description": "Angelo NPC",
       "active": "false",
       "download_url": "https://www.gibberlings3.net/files/file/686-angelo/",
@@ -482,7 +482,7 @@
       "latest_update": "28-09-2021"
     },
     "Yeslick_NPC": {
-      "setup_file": "",
+      "setup_file": "Setup-yeslicknpc.exe",
       "inputs": [],
       "description": "Yeslick NPC",
       "active": "false",
