@@ -456,7 +456,7 @@
     },
     "Auren_aseph": {
       "setup_file": "setup-aurenaseph.exe",
-      "inputs": [],
+      "inputs": ["0", "N", "I", "1"],
       "description": "Auren Aseph NPC",
       "active": "false",
       "download_url": "https://github.com/Gibberlings3/AurenAseph/releases",

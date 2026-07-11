@@ -395,5 +395,13 @@
       "Install Component [Multi-romance cheat]? → N (Not Install)",
       "Install Component [Alternate Portrait Selection]? → 1 (Dawnbringer, by Amaurea)"
     ]
+  },
+  "Auren_aseph": {
+    "input_notes": [
+      "Choose your language: → 0 (English)",
+      "Would you like to display the readme? → N (No)",
+      "Install Component [Auren Aseph for BG2:ToB]? → I (Install)",
+      "Install Component [Alternate Auren Portrait]? → 1 (Portrait 1, From Neverwinter Nights Vault)"
+    ]
   }
 }
