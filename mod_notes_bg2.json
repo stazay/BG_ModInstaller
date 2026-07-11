@@ -471,5 +471,12 @@
       "Install Component [Navarra for BG2]? → I (Install)",
       "Minimum time between dialogues: → 5 (1 hour 30 minutes real time)"
     ]
+  },
+  "Yasraena": {
+    "input_notes": [
+      "Choose your language: → 0 (English)",
+      "Would you like to display the readme? → N (No)",
+      "Install Component [Yasraena (BG2:SoA & TOB NPC)]? → I (Install)"
+    ]
   }
 }
