@@ -139,5 +139,12 @@
       "Would you like to display the readme? → N (No)",
       "Install Component [Athkatlan Grounds: The Ooze's Lounge - a new area under Athkatlan Slums]? → I (Install)"
     ]
+  },
+  "The_Southern_Edge": {
+    "input_notes": [
+      "Choose your language: → 0 (English)",
+      "Would you like to display the readme? → N (No)",
+      "Install Component [Southern Edge: the new district of Athkatla]? → 1 (Yes, but don't patch the existing save games)"
+    ]
   }
 }
