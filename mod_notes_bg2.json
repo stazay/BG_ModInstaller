@@ -576,5 +576,14 @@
       "Would you like to display the readme? → N (No)",
       "Install Component [Petsy Chattertone]? → I (Install)"
     ]
+  },
+  "Yvette_Romance": {
+    "input_notes": [
+      "Choose your language: → 0 (English)",
+      "Would you like to display the readme? → N (No)",
+      "Install Component [Yvette Romance - BG2 Romance Character]? → I (Install)",
+      "Dialogues options (1=original with action text, 2=without action text): → 1 (Original dialogues)",
+      "Install Component [Yvette Romance - alternative class (Pure Heartwarder)]? → N (Not Install)"
+    ]
   }
 }

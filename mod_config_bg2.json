@@ -663,7 +663,7 @@
     },
     "Yvette_Romance": {
       "setup_file": "",
-      "inputs": [],
+      "inputs": ["0", "N", "I", "1", "N"],
       "description": "Yvette NPC",
       "active": "true",
       "download_url": "https://downloads.weaselmods.net/download/yvette-romance/",
