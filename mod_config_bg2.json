@@ -235,7 +235,7 @@
     },
     "Poisoned_Pathways": {
       "setup_file": "Setup-Poisoned_pathways.exe",
-      "inputs": [],
+      "inputs": ["0", "N", "I"],
       "description": "Poisoned Pathways",
       "active": "true",
       "download_url": "https://github.com/AciferBG/Poisoned-Pathways/releases",
