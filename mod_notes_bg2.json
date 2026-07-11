@@ -569,5 +569,12 @@
       "Install Component [Lhannd - Baldur's Gate 2: EE NPC]? → I (Install)",
       "Install Component [Lhannd: Player-Initiated Dialogues (PIDs)]? → N (Not Install)"
     ]
+  },
+  "Petsy": {
+    "input_notes": [
+      "Choose your language: → 0 (English)",
+      "Would you like to display the readme? → N (No)",
+      "Install Component [Petsy Chattertone]? → I (Install)"
+    ]
   }
 }

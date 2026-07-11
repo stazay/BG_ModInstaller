@@ -644,7 +644,7 @@
       "latest_update": "05-07-2026"
     },
     "Lhannd": {
-      "setup_file": "",
+      "setup_file": "setup-Lhannd.exe",
       "inputs": ["N", "I", "N"],
       "description": "Lhannd NPC",
       "active": "true",
@@ -653,8 +653,8 @@
       "latest_update": "18-10-2025"
     },
     "Petsy": {
-      "setup_file": "",
-      "inputs": [],
+      "setup_file": "Setup-Petsy.exe",
+      "inputs": ["0", "N", "I"],
       "description": "Petsy NPC",
       "active": "true",
       "download_url": "https://downloads.weaselmods.net/download/petsy/",
