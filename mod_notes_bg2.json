@@ -309,5 +309,14 @@
       "Choose your language: → 1 (English)",
       "What should be done with all components that are NOT YET installed? → I (Install them)"
     ]
+  },
+  "Item_Upgrade": {
+    "input_notes": [
+      "Choose your language: → 0 (English)",
+      "Would you like to display the readme? → N (No)",
+      "Install Component [Shadows Of Amn Item Upgrades]? → 1 (Original Version)",
+      "Install Component [Throne Of Bhaal Item Upgrades]? → 1 (Original Version)",
+      "Install Component [Install supplemental Cespenar audio for Item Upgrade]? → N (Not Install)"
+    ]
   }
 }
