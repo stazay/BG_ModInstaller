@@ -199,7 +199,7 @@
     },
     "In_Love_Undeath": {
       "setup_file": "Setup-InLoveUndeath.exe",
-      "inputs": ["N", "1", "N"],
+      "inputs": ["0", "N", "1", "N"],
       "description": "In Love, Undeath",
       "active": "true",
       "download_url": "https://downloads.weaselmods.net/download/in-love-undeath/",

@@ -175,5 +175,13 @@
       "Install Component [The Journey to the Whin Hill - a Baldur's Gate 2: EE quest]? → 1 (Yes, but don't patch existing save games)",
       "Install Component [The Journey to the Whin Hill: add the optional minor joinable companion - Afu-Zuuvi]? → N (Not Install)"
     ]
+  },
+  "In_Love_Undeath": {
+    "input_notes": [
+      "Choose your language: → 0 (English)",
+      "Would you like to display the readme? → N (No)",
+      "Install Component [The Dreadful Tales: In Love, Undeath - a new quest and companion for BG2EE]? → 1 (Yes, but don't patch existing save games)",
+      "Install Component [Xzele: Player-Initiated Dialogues]? → N (Not Install)"
+    ]
   }
 }
