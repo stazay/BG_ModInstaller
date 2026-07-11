@@ -219,5 +219,14 @@
       "Would you like to display the readme? → N (No)",
       "Install Component [Dark Tidings]? → I (Install)"
     ]
+  },
+  "Call_of_the_Lost_Goddess": {
+    "input_notes": [
+      "Choose your language: → 1 (English)",
+      "Would you like to display the readme? → N (No)",
+      "Install Component [Call Of The Lost Goddess]? → I (Install)",
+      "Install Component [Install portraits for the major NPCs of the mod]? → I (Install)",
+      "Install Component [Install AI voiceover for major NPCs of the mod (mostly in English)]? → I (Install)"
+    ]
   }
 }
