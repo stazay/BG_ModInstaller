@@ -190,7 +190,7 @@
     },
     "Journey_to_Whin_Hill": {
       "setup_file": "setup-WhinHill.exe",
-      "inputs": ["N", "1", "I", "N"],
+      "inputs": ["0", "N", "1", "N"],
       "description": "Journey to Whin Hill",
       "active": "true",
       "download_url": "https://downloads.weaselmods.net/download/the-journey-to-the-whin-hill/",
