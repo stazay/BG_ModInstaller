@@ -519,7 +519,7 @@
     },
     "Isra": {
       "setup_file": "Setup-isra_bg2.exe",
-      "inputs": [],
+      "inputs": ["N", "I", "I"],
       "description": "Isra NPC",
       "active": "false",
       "download_url": "https://github.com/SpellholdStudios/Isra_NPC_BG2/releases",
@@ -527,7 +527,7 @@
       "latest_update": "30-03-2020"
     },
     "The_Beaurin_Legacy": {
-      "setup_file": "",
+      "setup_file": "setup-TheBeaurinLegacy.exe",
       "inputs": [],
       "description": "The Beaurin Legacy NPC",
       "active": "false",

@@ -448,5 +448,12 @@
       "Choose your language: → 0 (English)",
       "Install Component [Saerileth Romance Mod (BG2:SoA & TOB NPC)]? → I (Install)"
     ]
+  },
+  "Isra": {
+    "input_notes": [
+      "Would you like to display the readme? → N (No)",
+      "Install Component [Isra for BGII]? → I (Install)",
+      "Install Component [Isra Crossmod Content]? → I (Install)"
+    ]
   }
 }
