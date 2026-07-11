@@ -356,7 +356,7 @@
       "latest_update": "29-12-2014"
     },
     "Ascalons_Questpack": {
-      "setup_file": "setup-ascalon-questpack.exe",
+      "setup_file": "setup-ac_quest.exe",
       "inputs": ["1", "I"],
       "description": "Ascalon's Questpack",
       "active": "yes",
