@@ -97,6 +97,13 @@
       "Install Component [Colours of Infinity - The White Queen]? → 1 (Yes, but don't patch the existing save games)"
     ]
   },
+  "I_Shall_Never_Forget": {
+    "input_notes": [
+      "Choose your language: → 0 (English)",
+      "Would you like to display the readme? → N (No)",
+      "Install Component [Colours of Infinity: I Shall Never Forget]? → I (Install)"
+    ]
+  },
   "Tower_of_Deception": {
     "input_notes": [
       "Choose your language: → 0 (English)",
