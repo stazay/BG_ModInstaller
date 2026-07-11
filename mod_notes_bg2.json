@@ -360,5 +360,12 @@
       "Install Component [Tashia Add-On Pack (by Bri and Lord Ernie)]? → 1 (Action-Style Dialogues)",
       "Install Component [Alternate Portrait for Tashia]? → N (Not Install)"
     ]
+  },
+  "Arath": {
+    "input_notes": [
+      "Choose your language: → 0 (English)",
+      "Would you like to display the readme? → N (No)",
+      "Install Component [Arath NPC for BGII: SoA & ToB]? → I (Install)"
+    ]
   }
 }

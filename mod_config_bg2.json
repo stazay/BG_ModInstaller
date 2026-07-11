@@ -418,6 +418,15 @@
       "version": "1.5",
       "latest_update": "22-11-2024"
     },
+    "Arath": {
+      "setup_file": "setup-arath.exe",
+      "inputs": ["0", "N", "I"],
+      "description": "Arath NPC",
+      "active": "false",
+      "download_url": "https://github.com/Spellhold-Studios/Arath-NPC/releases",
+      "version": "6",
+      "latest_update": "15-12-2024"
+    },
     "Amber": {
       "setup_file": "",
       "inputs": [],
@@ -1009,6 +1018,7 @@
     "Forgotten_Armament",
     "Cowled_Menace",
     "Tashia",
+    "Arath",
     "Amber",
     "Kivan",
     "Gavin",
