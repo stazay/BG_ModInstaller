@@ -662,7 +662,7 @@
       "latest_update": "09-07-2026"
     },
     "Yvette_Romance": {
-      "setup_file": "",
+      "setup_file": "Setup-Yvette.exe",
       "inputs": ["0", "N", "I", "1", "N"],
       "description": "Yvette NPC",
       "active": "true",
@@ -671,7 +671,7 @@
       "latest_update": "26-06-2026"
     },
     "Sirene": {
-      "setup_file": "",
+      "setup_file": "setup-Sirene_BG2.exe",
       "inputs": ["I", "1", "N"],
       "description": "Sirene NPC",
       "active": "true",
@@ -680,8 +680,8 @@
       "latest_update": "01-06-2026"
     },
     "Pai_Na": {
-      "setup_file": "",
-      "inputs": [],
+      "setup_file": "Setup-Paina.exe",
+      "inputs": ["I"],
       "description": "Pai-Na NPC",
       "active": "true",
       "download_url": "https://forums.beamdog.com/discussion/43113/v1-7-paina-a-half-drow-hivemaster-druid-npc-for-bg2-ee",

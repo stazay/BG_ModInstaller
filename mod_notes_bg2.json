@@ -592,5 +592,10 @@
       "Install Component [Choose an alternate portrait for Sirene?]? → 1 (BG1 Default portrait by sporeboy)",
       "Install Component [Choose an alternate class for Sirene?]? → N (No, keep default class)"
     ]
+  },
+  "Pai_Na": {
+    "input_notes": [
+      "Install Component [Pai'Na NPC for BG2:EE]? → I (Install)"
+    ]
   }
 }
