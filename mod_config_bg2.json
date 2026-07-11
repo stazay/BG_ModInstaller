@@ -672,7 +672,7 @@
     },
     "Sirene": {
       "setup_file": "",
-      "inputs": [],
+      "inputs": ["I", "1", "N"],
       "description": "Sirene NPC",
       "active": "true",
       "download_url": "https://forums.beamdog.com/discussion/62163/v1-9-sirene-a-tiefling-paladin-of-ilmater-npc-for-bg2-ee",

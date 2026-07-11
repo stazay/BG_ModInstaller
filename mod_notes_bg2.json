@@ -585,5 +585,12 @@
       "Dialogues options (1=original with action text, 2=without action text): → 1 (Original dialogues)",
       "Install Component [Yvette Romance - alternative class (Pure Heartwarder)]? → N (Not Install)"
     ]
+  },
+  "Sirene": {
+    "input_notes": [
+      "Install Component [Sirene NPC for BG2:EE]? → I (Install)",
+      "Install Component [Choose an alternate portrait for Sirene?]? → 1 (BG1 Default portrait by sporeboy)",
+      "Install Component [Choose an alternate class for Sirene?]? → N (No, keep default class)"
+    ]
   }
 }
