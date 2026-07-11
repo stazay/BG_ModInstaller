@@ -241,5 +241,11 @@
       "Choose your language: → 0 (English)",
       "Install Component [Main Component]? → I (Install)"
     ]
+  },
+  "Crucible": {
+    "input_notes": [
+      "Choose your language: → 0 (English)",
+      "Install Component [Install Crucible]? → 1 (Fully Voiced NPCs using AI)"
+    ]
   }
 }
