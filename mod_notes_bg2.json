@@ -442,5 +442,11 @@
       "Install Component [Crossmod content]? → I (Install)",
       "Install Component [Adrian Tolerates High Reputation]? → 1 (Always)"
     ]
+  },
+  "Saerileth": {
+    "input_notes": [
+      "Choose your language: → 0 (English)",
+      "Install Component [Saerileth Romance Mod (BG2:SoA & TOB NPC)]? → I (Install)"
+    ]
   }
 }
