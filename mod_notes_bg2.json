@@ -318,5 +318,13 @@
       "Install Component [Throne Of Bhaal Item Upgrades]? → 1 (Original Version)",
       "Install Component [Install supplemental Cespenar audio for Item Upgrade]? → N (Not Install)"
     ]
+  },
+  "SoD_to_BG2_item_upgrade": {
+    "input_notes": [
+      "Would you like to display the readme? → N (No)",
+      "Install Component [SoD to BG2:EE Item upgrade by Daeros_Trollkiller]? → I (Install)",
+      "Install Component [Force all import-able SoD items to be available in their normal locations]? → 2 (All importable items with Voidhammer +3)",
+      "Install Component [Change Cromwell's equipment to be more in-line with his forging skills]? → N (Not Install)"
+    ]
   }
 }

@@ -374,8 +374,8 @@
       "latest_update": "17-02-2025"
     },
     "SoD_to_BG2_item_upgrade": {
-      "setup_file": "",
-      "inputs": [],
+      "setup_file": "setup-sod2bg2_iu.exe",
+      "inputs": ["N", "I", "2", "N"],
       "description": "SoD to BG2 Item Upgrades",
       "active": "false",
       "download_url": "https://github.com/Gibberlings3/SoD-to-BG2EE-Item-Upgrade/releases (do not want versions beyond 1.2.0)",
