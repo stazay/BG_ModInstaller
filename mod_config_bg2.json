@@ -590,8 +590,8 @@
       "latest_update": "18-09-2025"
     },
     "Keto": {
-      "setup_file": "",
-      "inputs": [],
+      "setup_file": "Setup-Keto.exe",
+      "inputs": ["0", "N", "I", "I", "N"],
       "description": "Keto NPC",
       "active": "false",
       "download_url": "https://github.com/Pocket-Plane-Group/Keto/releases",

@@ -511,5 +511,14 @@
       "Install Component [Choose a portrait for Nathaniel]? → 3 (Alternate portrait by Amaurea)",
       "Install Component [Kelsey Content]? → I (Install)"
     ]
+  },
+  "Keto": {
+    "input_notes": [
+      "Choose your language: → 0 (English)",
+      "Would you like to display the readme? → N (No)",
+      "Install Component [Keto-SOA NPC]? → I (Install)",
+      "Install Component [Keto/Kelsey Interaction (Requires Kelsey-SOA)]? → I (Install)",
+      "Install Component [Banter Accelerator]? → N (Not Install)"
+    ]
   }
 }
