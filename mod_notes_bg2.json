@@ -432,5 +432,15 @@
       "Install Component [Tyris Flare NPC]? → I (Install)",
       "Install Component [Alternate Tyris Portraits]? → 1 (Alternate Portrait 1)"
     ]
+  },
+  "Adrian": {
+    "input_notes": [
+      "Choose your language: → 0 (English)",
+      "Would you like to display the readme? → N (No)",
+      "Install Component [Adrian for BGII]? → 1 (Adrian is a Sorcerer)",
+      "Install Component [Install optional soundset for Adrian]? → 1 (Phaelin's soundset)",
+      "Install Component [Crossmod content]? → I (Install)",
+      "Install Component [Adrian Tolerates High Reputation]? → 1 (Always)"
+    ]
   }
 }

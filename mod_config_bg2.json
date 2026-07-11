@@ -500,8 +500,8 @@
       "latest_update": "21-01-2025"
     },
     "Adrian": {
-      "setup_file": "",
-      "inputs": [],
+      "setup_file": "setup-adrian.exe",
+      "inputs": ["0", "N", "1", "1", "I", "1"],
       "description": "Adrian NPC",
       "active": "false",
       "download_url": "https://github.com/Spellhold-Studios/Adrian-NPC/releases",
