@@ -243,7 +243,7 @@
       "latest_update": "28-06-2026"
     },
     "Dark_Tidings": {
-      "setup_file": "setup-tidings.exe",
+      "setup_file": "setup-Tidings.exe",
       "inputs": ["1", "N", "I"],
       "description": "Dark Tidings",
       "active": "true",

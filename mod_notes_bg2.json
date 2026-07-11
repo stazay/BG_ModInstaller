@@ -212,5 +212,12 @@
       "Would you like to display the readme? → N (No)",
       "Install Component [Poisoned pathways]? → I (Install)"
     ]
+  },
+  "Dark_Tidings": {
+    "input_notes": [
+      "Choose your language: → 1 (English)",
+      "Would you like to display the readme? → N (No)",
+      "Install Component [Dark Tidings]? → I (Install)"
+    ]
   }
 }
