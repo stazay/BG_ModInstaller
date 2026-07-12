@@ -677,5 +677,11 @@
       "Would you like to display the readme? → N (No)",
       "Install Component [Spiritwalker Shaman Kit]? → I (Install)"
     ]
+  },
+  "Storm_Caller": {
+    "input_notes": [
+      "Would you like to display the readme? → N (No)",
+      "Install Component [Storm Caller Shaman Kit]? → I (Install)"
+    ]
   }
 }

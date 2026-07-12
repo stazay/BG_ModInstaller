@@ -770,8 +770,8 @@
       "latest_update": "24-02-2019"
     },
     "Storm_Caller": {
-      "setup_file": "",
-      "inputs": [],
+      "setup_file": "Setup-StormCaller.exe",
+      "inputs": ["N", "I"],
       "description": "Storm Caller Kit",
       "active": "false",
       "download_url": "(dead-link, latest version downloadable is 1.1)",
