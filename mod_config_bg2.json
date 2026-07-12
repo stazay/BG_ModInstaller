@@ -761,8 +761,8 @@
       "latest_update": "07-05-2025"
     },
     "Spiritwalker": {
-      "setup_file": "",
-      "inputs": [],
+      "setup_file": "Setup-Spiritwalker.exe",
+      "inputs": ["0", "N", "I"],
       "description": "Spiritwalker Kit",
       "active": "false",
       "download_url": "(dead-link, latest version downloadable is 1.3)",
