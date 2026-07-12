@@ -779,8 +779,8 @@
       "latest_update": "24-02-2019"
     },
     "Derats_Unused_Kits_Pack": {
-      "setup_file": "",
-      "inputs": [],
+      "setup_file": "Setup-Derats_kits.exe",
+      "inputs": ["1", "A", "N", "N", "N", "I", "Q"],
       "description": "Preacher of Flames Kit",
       "active": "false",
       "download_url": "https://github.com/Deratiseur/DUKP/releases",

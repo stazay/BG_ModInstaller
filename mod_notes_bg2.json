@@ -683,5 +683,16 @@
       "Would you like to display the readme? → N (No)",
       "Install Component [Storm Caller Shaman Kit]? → I (Install)"
     ]
+  },
+  "Derats_Unused_Kits_Pack": {
+    "input_notes": [
+      "Choose your language: → 1 (English)",
+      "What should be done with all components that are NOT YET installed? → A (Ask about each one)",
+      "Install Component [Fighter (half-orc) Kit: Hatred Carrier]? → N (Not Install)",
+      "Install Component [Ranger Kit: Hunter of Vermin]? → N (Not Install)",
+      "Install Component [Wizard Kit: Sorcerer]? → N (Not Install)",
+      "Install Component [Cleric Kit: Preacher of Flames]? → I (Install)",
+      "Install Component [Cleric Kit: Goragos Crusaders]? → Q (Quit)"
+    ]
   }
 }
