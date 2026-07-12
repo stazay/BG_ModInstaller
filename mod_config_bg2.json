@@ -788,8 +788,8 @@
       "latest_update": "30-08-2025"
     },
     "Warlock": {
-      "setup_file": "",
-      "inputs": [],
+      "setup_file": "Setup-Artisans_Warlock.exe",
+      "inputs": ["I", "1"],
       "description": "Warlock Kit",
       "active": "true",
       "download_url": "https://artisans-corner.com/warlock/",

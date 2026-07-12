@@ -694,5 +694,11 @@
       "Install Component [Cleric Kit: Preacher of Flames]? → I (Install)",
       "Install Component [Cleric Kit: Goragos Crusaders]? → Q (Quit)"
     ]
+  },
+  "Warlock": {
+    "input_notes": [
+      "Install Component [Warlock Kit]? → I (Install)",
+      "Install Contingency UI-based Spell Learning System? → 1 (Yes)"
+    ]
   }
 }
