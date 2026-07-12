@@ -625,5 +625,15 @@
       "Install Component [Autumn's Twilight MOD]? → I (Install)",
       "Install Component [Enemy Difficulty: Hard]? → I (Install)"
     ]
+  },
+  "BG2_Banter_Packs": {
+    "input_notes": [
+      "Choose your language: → 0 (English)",
+      "Would you like to display the readme? → N (No)",
+      "Install Component [Pocket Plane Banter Pack for BG2: Shadows of Amn]? → I (Install)",
+      "Install Component [Install SOA Banter Accelerator script]? → N (Not Install)",
+      "Install Component [Pocket Plane Banter Pack for BG2: Throne of Bhaal]? → I (Install)",
+      "Install Component [Install TOB Banter Accelerator script]? → N (Not Install)"
+    ]
   }
 }

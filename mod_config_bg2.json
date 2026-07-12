@@ -716,8 +716,8 @@
       "latest_update": "02-05-2026"
     },
     "BG2_Banter_Packs": {
-      "setup_file": "",
-      "inputs": [],
+      "setup_file": "setup-banterpack.exe",
+      "inputs": ["0", "N", "I", "N", "I", "N"],
       "description": "BG2 Banter Packs",
       "active": "false",
       "download_url": "https://github.com/Pocket-Plane-Group/Banter_Pack/releases",
