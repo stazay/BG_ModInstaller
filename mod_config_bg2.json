@@ -734,8 +734,8 @@
       "latest_update": "18-07-2021"
     },
     "Mazzy_Friendship": {
-      "setup_file": "",
-      "inputs": [],
+      "setup_file": "Setup-mazzy.exe",
+      "inputs": ["0", "N", "I"],
       "description": "Mazzy Friendship",
       "active": "false",
       "download_url": "https://github.com/SpellholdStudios/MazzyFriendship/releases",

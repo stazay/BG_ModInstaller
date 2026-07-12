@@ -649,5 +649,12 @@
       "Install Component [Restored Aerie/Jaheira/Anomen interjection in Underdark]? → I (Install)",
       "Install Component [Install Banter Accelerator]? → N (No)"
     ]
+  },
+  "Mazzy_Friendship": {
+    "input_notes": [
+      "Choose your language: → 0 (English)",
+      "Would you like to display the readme? → N (No)",
+      "Install Component [Mazzy Friendship]? → I (Install)"
+    ]
   }
 }
