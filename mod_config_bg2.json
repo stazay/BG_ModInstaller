@@ -752,8 +752,8 @@
       "latest_update": "22-03-2024"
     },
     "Geomantic": {
-      "setup_file": "",
-      "inputs": [],
+      "setup_file": "setup-druidsor.exe",
+      "inputs": ["0", "N", "I"],
       "description": "Geomantic Sorcerer Kit",
       "active": "false",
       "download_url": "https://github.com/Gibberlings3/Geomantic_Sorcerer/releases",

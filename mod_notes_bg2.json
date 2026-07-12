@@ -663,5 +663,12 @@
       "Would you like to display the readme? → N (No)",
       "Install Component [Yoshimo Friendship Mod for BGII: SoA]? → I (Install)"
     ]
+  },
+  "Geomantic": {
+    "input_notes": [
+      "Choose your language: → 0 (English)",
+      "Would you like to display the readme? → N (No)",
+      "Install Component [Geomantic Sorcerer Kit]? → I (Install)"
+    ]
   }
 }
