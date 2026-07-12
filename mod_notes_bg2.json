@@ -656,5 +656,12 @@
       "Would you like to display the readme? → N (No)",
       "Install Component [Mazzy Friendship]? → I (Install)"
     ]
+  },
+  "Yoshimo_Friendship": {
+    "input_notes": [
+      "Choose your language: → 0 (English)",
+      "Would you like to display the readme? → N (No)",
+      "Install Component [Yoshimo Friendship Mod for BGII: SoA]? → I (Install)"
+    ]
   }
 }

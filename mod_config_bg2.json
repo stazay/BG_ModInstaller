@@ -743,8 +743,8 @@
       "latest_update": "15-02-2020"
     },
     "Yoshimo_Friendship": {
-      "setup_file": "",
-      "inputs": [],
+      "setup_file": "setup-yoshimo.exe",
+      "inputs": ["0", "N", "I"],
       "description": "Yoshimo Friendship",
       "active": "false",
       "download_url": "https://github.com/SpellholdStudios/YoshimoFriendship/releases",
