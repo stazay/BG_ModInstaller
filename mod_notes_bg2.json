@@ -635,5 +635,19 @@
       "Install Component [Pocket Plane Banter Pack for BG2: Throne of Bhaal]? → I (Install)",
       "Install Component [Install TOB Banter Accelerator script]? → N (Not Install)"
     ]
+  },
+  "Extended_Banters": {
+    "input_notes": [
+      "Choose your language: → 0 (English)",
+      "Would you like to display the readme? → N (No)",
+      "What should be done with all components that are NOT YET installed? → A (Ask about each one)",
+      "Install Component [Extended NPC-NPC Interaction SoA]? → I (Install)",
+      "Install Component [Extended Minsc/Aerie Interaction ToB]? → I (Install)",
+      "Install Component [Imoen 'Retrospection' dialogue for BGII: ToB]? → I (Install)",
+      "Install Component [Wake-Up dialogue for Anomen Romance]? → I (Install)",
+      "Install Component [NPC Conflict Revisions]? → I (Install)",
+      "Install Component [Restored Aerie/Jaheira/Anomen interjection in Underdark]? → I (Install)",
+      "Install Component [Install Banter Accelerator]? → N (No)"
+    ]
   }
 }

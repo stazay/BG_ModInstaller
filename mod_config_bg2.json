@@ -725,8 +725,8 @@
       "latest_update": "17-09-2021"
     },
     "Extended_Banters": {
-      "setup_file": "",
-      "inputs": [],
+      "setup_file": "setup-iepbanters.exe",
+      "inputs": ["0", "N", "A", "I", "I", "I", "I", "I", "I", "N"],
       "description": "Extended BG2 Banters",
       "active": "false",
       "download_url": "https://github.com/SpellholdStudios/IEP_Extended_Banter/releases",
