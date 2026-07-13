@@ -700,5 +700,23 @@
       "Install Component [Warlock Kit]? → I (Install)",
       "Install Contingency UI-based Spell Learning System? → 1 (Yes)"
     ]
+  },
+  "I_Hate_Undead": {
+    "input_notes": [
+      "Choose your language: → 0 (English)",
+      "Would you like to display the readme? → N (No)",
+      "What should be done with all components that are NOT YET installed? → A (Ask about each one)",
+      "Install Component [Undead Predator (Ranger Kit)]? → N (Not Install)",
+      "Install Component [Holy Redeemer (Cleric Kit)]? → N (Not Install)",
+      "Install Component [Deathslayer (Wizard Kit)]? → N (Not Install)",
+      "Install Component [Undead Hunter Revision (Paladin Kit)]? → N (Not Install)",
+      "Install Component [Death Tricker (Thief Kit)]? → N (Not Install)",
+      "Install Component [Burial Defender (Fighter Kit)]? → N (Not Install)",
+      "Install Component [Grave Mourner (Bard Kit)]? → N (Not Install)",
+      "Install Component [Circle Enforcer (Druid Kit)]? → N (Not Install)",
+      "Install Component [Pallid Mask (Monk Kit)]? → I (Install)",
+      "Install Component [Dreadful Witch (Shaman Kit)]? → I (Install)",
+      "Install Component [Imprisoned Soul (Sorcerer Kit)]? → I (Install)"
+    ]
   }
 }

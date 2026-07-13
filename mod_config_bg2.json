@@ -798,7 +798,7 @@
     },
     "I_Hate_Undead": {
       "setup_file": "",
-      "inputs": [],
+      "inputs": ["0", "N", "A", "N", "N", "N", "N", "N", "N", "N", "N", "I", "I", "I"],
       "description": "I Hate Undead Kits",
       "active": "false",
       "download_url": "https://github.com/Raduziel/I-Hate-Undead-Kitpack/releases",
