@@ -752,5 +752,13 @@
       "Install Component [Bardic Wonders: Bard Casting Level Begins from 2nd level]? → N (Not Install)",
       "Install Component [Bardic Wonders: Patch Dialogue Class Checks for Gallant, Mage/Bard and Fighter/Mage/Bard]? → I (Install)"
     ]
+  },
+  "Shadow_Magic": {
+    "input_notes": [
+      "Install Component [Shadow Magic: Main Component]? → I (Install)",
+      "Install Component [Shadow Magic: Resource Costs]? → 3 (Drain Current Hit Points on Cast)",
+      "Install Component [Shadow Magic: Shadow Monk monk kit]? → I (Install)",
+      "Install Component [Shadow Magic: Enhanced Shade Lord (BG2:EE)]? → 1 (Hardcore Difficulty: Casts up to 9th level spells)"
+    ]
   }
 }
