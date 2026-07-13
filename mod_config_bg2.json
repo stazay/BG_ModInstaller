@@ -807,7 +807,7 @@
     },
     "Bardic_Wonders": {
       "setup_file": "",
-      "inputs": [],
+      "inputs": ["Y", "Y", "Y", "I", "I", "I", "I", "I", "I", "I", "I", "I", "I", "I", "I", "I", "I", "I", "I", "N", "N", "N", "N", "N", "N", "I", "2", "N", "N", "I"],
       "description": "Bardic Wonders Kits and Tweaks",
       "active": "true",
       "download_url": "https://artisans-corner.com/bardic-wonders/",

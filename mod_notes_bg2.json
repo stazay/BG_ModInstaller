@@ -718,5 +718,39 @@
       "Install Component [Dreadful Witch (Shaman Kit)]? → I (Install)",
       "Install Component [Imprisoned Soul (Sorcerer Kit)]? → I (Install)"
     ]
+  },
+  "Bardic_Wonders": {
+    "input_notes": [
+      "Would you like to display the components from [Kits]? → Y (Yes)",
+      "Would you like to display the components from [Items & Abilities]? → Y (Yes)",
+      "Would you like to display the components from [Tweaks & Patches]? → Y (Yes)",
+      "Install Component [Bardic Wonders: Blade Overhaul]? → I (Install)",
+      "Install Component [Bardic Wonders: Jester Overhaul]? → I (Install)",
+      "Install Component [Bardic Wonders: Skald Overhaul]? → I (Install)",
+      "Install Component [Bardic Wonders: Abettor of Mask Kit]? → I (Install)",
+      "Install Component [Bardic Wonders: Dancer Kit]? → I (Install)",
+      "Install Component [Bardic Wonders: Darkbloom Bard Kit]? → I (Install)",
+      "Install Component [Bardic Wonders: Storm Drummer Kit]? → I (Install)",
+      "Install Component [Bardic Wonders: Troubadour Kit]? → I (Install)",
+      "Install Component [Bardic Wonders: Deathsinger Kit]? → I (Install)",
+      "Install Component [Bardic Wonders: Strategist Kit]? → I (Install)",
+      "Install Component [Bardic Wonders: Kapellmeister Kit]? → I (Install)",
+      "Install Component [Bardic Wonders: Gallant Paladin Kit]? → I (Install)",
+      "Install Component [Bardic Wonders: Items]? → I (Install)",
+      "Install Component [Bardic Wonders: Inspirations]? → I (Install)",
+      "Install Component [Bardic Wonders: High Level Abilities]? → I (Install)",
+      "Install Component [Bardic Wonders: New Bard Spells]? → I (Install)",
+      "Install Component [Bardic Wonders: Armored Casting for Bards]? → N (Not Install)",
+      "Install Component [Bardic Wonders: Bard Song Mechanics Tweak]? → N (Not Install)",
+      "Install Component [Bardic Wonders: Item Restriction Tweaks—Bards may use mage items and priest scrolls]? → N (Not Install)",
+      "Install Component [Bardic Wonders: Item Restriction Tweaks—Bards may use Small and Medium Shields]? → N (Not Install)",
+      "Install Component [Bardic Wonders: Item Restriction Tweaks—Bards may use Helmets]? → N (Not Install)",
+      "Install Component [Bardic Wonders: Bard Song Overhead Visual Effect]? → N (Not Install)",
+      "Install Component [Bardic Wonders: Mage/Bard and Fighter/Mage/Bard multi-class]? → I (Install)",
+      "Add 9th Level Mage Spells to Fighter/Mage/Bard HLAs? → 2 (No)",
+      "Install Component [Bardic Wonders: 3e Alignment for Bards]? → N (Not Install)",
+      "Install Component [Bardic Wonders: Bard Casting Level Begins from 2nd level]? → N (Not Install)",
+      "Install Component [Bardic Wonders: Patch Dialogue Class Checks for Gallant, Mage/Bard and Fighter/Mage/Bard]? → I (Install)"
+    ]
   }
 }
