@@ -29,20 +29,6 @@
       "Install Component [The Stone of Askavar for TotSC/Tutu/BGT/BGEE]? → 1 (Default version: areas connected by travel triggers)"
     ]
   },
-  "FG_Kits": {
-    "input_notes": [
-      "What should be done with all components that are NOT YET installed? → A (Ask about each one)",
-      "Install Component [Install Forest Warden - Fighter kit]? → N (Not Install)",
-      "Install Component [Install Halfling Marshal - Fighter kit]? → I (Install)",
-      "Install Component [Install Cataphract - Ranger kit]? → I (Install)",
-      "Install Component [Install Artillier - Ranger kit]? → N (Not Install)",
-      "Install Component [Install Defender - Druid kit]? → N (Not Install)",
-      "Install Component [Install Invader - Druid kit]? → N (Not Install)",
-      "Install Component [Install Trickster - Thief kit]? → N (Not Install)",
-      "Install Component [Install Novice - Thief kit]? → I (Install)",
-      "Install Component [Install Agent - Thief kit]? → Q (Quit)"
-    ]
-  },
   "BG1_NPC_Project": {
     "input_notes": [
       "Choose your language: [0] English, ... → 0 (English)",

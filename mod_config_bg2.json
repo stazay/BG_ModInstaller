@@ -796,15 +796,6 @@
       "version": "?",
       "latest_update": "04-06-2026"
     },
-    "FGKits": {
-      "setup_file": "",
-      "inputs": [],
-      "description": "FG Kits",
-      "active": "false",
-      "download_url": "https://forums.beamdog.com/discussion/51515/mod-fg-kits-updated-v1-2",
-      "version": "1.2",
-      "latest_update": "01-04-2016"
-    },
     "I_Hate_Undead": {
       "setup_file": "",
       "inputs": [],
@@ -1070,7 +1061,6 @@
     "Storm_Caller",
     "Derats_Unused_Kits_Pack",
     "Warlock",
-    "FGKits",
     "I_Hate_Undead",
     "Bardic_Wonders",
     "Shadow_Magic",
