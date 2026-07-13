@@ -760,5 +760,36 @@
       "Install Component [Shadow Magic: Shadow Monk monk kit]? → I (Install)",
       "Install Component [Shadow Magic: Enhanced Shade Lord (BG2:EE)]? → 1 (Hardcore Difficulty: Casts up to 9th level spells)"
     ]
+  },
+  "Might_and_Guile": {
+    "input_notes": [
+      "Choose your language: → 0 (English)",
+      "What should be done with all components that are NOT YET installed? → A (Ask about each one)",
+      "Install Component [Move the Cavalier to the Fighter Class]? → N (Not Install)",
+      "Install Component [Add the Corsair (fighter kit)]? → N (Not Install)",
+      "Install Component [Add the Sohei Warrior (fighter kit)]? → N (Not Install)",
+      "Install Component [Add the Ironsmith (fighter kit)]? → N (Not Install)",
+      "Install Component [Add the Barbarian/Thief (fighter/thief kit)]? → N (Not Install)",
+      "Install Component [Add the Tomb Runner (fighter/thief kit)]? → N (Not Install)",
+      "Install Component [Add the Thug (fighter/thief kit)]? → N (Not Install)",
+      "Install Component [Add the Rake (thief kit) and revise the Swashbuckler]? → N (Not Install)",
+      "Install Component [Add the Ninja (thief kit)]? → N (Not Install)",
+      "Install Component [Add the Ninja (fighter/thief kit)]? → N (Not Install)",
+      "Install Component [Add the Spellfilcher (mage/thief kit)]? → N (Not Install)",
+      "Install Component [Add the Loremaster (mage/thief kit)]? → N (Not Install)",
+      "Install Component [Add Regional Ranger kits]? → N (Not Install)",
+      "Install Component [Add the Mage Hunter (ranger kit)]? → I (Install)",
+      "Install Component [Add the Barbarian Ranger (ranger kit)]? → N (Not Install)",
+      "Install Component [Move the Archer to the Fighter Class]? → N (Not Install)",
+      "Install Component [Add the Elven Archer (ranger kit)]? → N (Not Install)",
+      "Install Component [Add the Halfling Slinger (fighter/thief kit)]? → I (Install)",
+      "Install Component [Add the Marksman (thief kit)]? → N (Not Install)",
+      "Install Component [Improved Rangers]? → N (Not Install)",
+      "Install Component [Revised Movement Bonuses (Quickstride)]? → N (Not Install)",
+      "Install Component [Revised Ranger Spell Table]? → N (Not Install)",
+      "Install Component [Revised Archers]? → N (Not Install)",
+      "Install Component [Revised Stalker]? → I (Install)",
+      "Install Component [Revised Beastmaster]? → Q (Quit)"
+    ]
   }
 }

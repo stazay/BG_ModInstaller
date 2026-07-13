@@ -871,7 +871,7 @@
     },
     "Might_and_Guile": {
       "setup_file": "setup-might_and_guile.exe",
-      "inputs": [],
+      "inputs": ["0", "A", "N", "N", "N", "N", "N", "N", "N", "N", "N", "N", "N", "N", "N", "I", "N", "N", "N", "I", "N", "N", "N", "N", "N", "I", "Q"],
       "description": "Might and Guile Kits and Tweaks",
       "active": "false",
       "download_url": "https://github.com/UnearthedArcana/Might_and_Guile/releases",
