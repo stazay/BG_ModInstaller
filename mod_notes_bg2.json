@@ -791,5 +791,24 @@
       "Install Component [Revised Stalker]? → I (Install)",
       "Install Component [Revised Beastmaster]? → Q (Quit)"
     ]
+  },
+  "Morpheus562s_Kitpack": {
+    "input_notes": [
+      "Choose your language: → 0 (English)",
+      "Would you like to display the readme? → N (No)",
+      "Would you like to display the components from [Fighter]? → Y (Yes)",
+      "Would you like to display the components from [Ranger]? → N (No)",
+      "Would you like to display the components from [Paladin]? → N (No)",
+      "Would you like to display the components from [Monk]? → N (No)",
+      "Would you like to display the components from [Mage]? → N (No)",
+      "Would you like to display the components from [Sorcerer]? → N (No)",
+      "Would you like to display the components from [Multiclass]? → N (No)",
+      "Install Component [Install Battle Master Kit]? → N (Not Install)",
+      "Install Component [Install Battlerager Kit]? → N (Not Install)",
+      "Install Component [Install Death Knight Kit]? → I (Install)",
+      "Install Component [Install Dragoon Kit]? → N (Not Install)",
+      "Install Component [Install Psi Warrior Kit]? → I (Install)",
+      "Install Component [Install Shield Breaker Kit]? → Q (Quit)"
+    ]
   }
 }
