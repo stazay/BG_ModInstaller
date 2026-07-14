@@ -977,5 +977,34 @@
       "Install Component [Apply Shamanic Dance improvements to Shaman kits]? → I (Install)",
       "Install Component [Shaman-specific items]? → I (Install)"
     ]
+  },
+  "House_Rule_Tweaks": {
+    "input_notes": [
+      "What should be done with all components that are NOT YET installed? → A (Ask about each one)",
+      "Install Component [House Tweaks: Expanded Racial Enemies]? → N (Not Install)",
+      "Install Component [House Tweaks: Expanded Shapeshifting]? → I (Install)",
+      "Install Component [House Tweaks: Expanded Racial Bonuses]? → N (Not Install)",
+      "Install Component [House Tweaks: Rebalanced Proficiencies]? → N (Not Install)",
+      "Install Component [House Tweaks: Rebalanced Weapon Styles]? → I (Install)",
+      "Install Component [House Tweaks: Racial Weapon Proficiency]? → N (Not Install)",
+      "Install Component [House Tweaks: Rebalanced Attacks Per Round Progression]? → N (Not Install)",
+      "Install Component [House Tweaks: Backstab Tweaks]? → N (Not Install)",
+      "Install Component [House Tweaks: Revised Strength Bonuses]? → N (Not Install)",
+      "Install Component [House Tweaks: Revised Dexterity Bonuses]? → N (Not Install)",
+      "Install Component [House Tweaks: Rebalanced Constitution Bonuses]? → N (Not Install)",
+      "Install Component [House Tweaks: INT/WIS/CHA-based Bonus Spell Slots]? → N (Not Install)",
+      "Install Component [House Tweaks: Good-Aligned Roleplay Rewards (BG2:EE)]? → N (Not Install)",
+      "Install Component [House Tweaks: Cloak of Dragomir only decreases stats in daylight]? → N (Not Install)",
+      "Install Component [House Tweaks: Give Stat Bonuses to EENPCs in BG2 (except Hexxat)]? → N (Not Install)",
+      "Install Component [House Tweaks: Useful Plot Items]? → I (Install)",
+      "Install Component [House Tweaks: Faster Troll Unconsciousness]? → N (Not Install)",
+      "Install Component [House Tweaks: Restore Reputation Increase Sound Effect for BG2]? → I (Install)",
+      "Install Component [House Tweaks: Race Text Patch]? → N (Not Install)",
+      "Install Component [House Tweaks: Hoodless Thief Avatars]? → N (Not Install)",
+      "Install Component [House Tweaks: Soundset Tweaks for Anomen and Sarevok (BG2:EE)]? → I (Install)",
+      "Install Component [House Tweaks: Experience Books]? → N (Not Install)",
+      "Install Component [House Tweaks: Frozen, Disintegrated and Petrified Creatures Drop Items when Shattered]? → I (Install)",
+      "Install Component [House Tweaks: Low-level Charm spells e.g. Charm Person (or Mammal) no longer turn targets hostile after expiring]? → Q (Quit)"
+    ]
   }
 }

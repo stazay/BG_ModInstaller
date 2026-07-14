@@ -1106,7 +1106,7 @@
     },
     "House_Rule_Tweaks": {
       "setup_file": "Setup-HouseTweaks.exe",
-      "inputs": [],
+      "inputs": ["A", "N", "I", "N", "N", "I", "N", "N", "N", "N", "N", "N", "N", "N", "N", "N", "I", "N", "I", "N", "N", "I", "N", "I", "Q"],
       "description": "House Rule Tweaks",
       "active": "false",
       "download_url": "https://artisans-corner.com/house-rules/",
