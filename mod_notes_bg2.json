@@ -941,5 +941,24 @@
       "Install Component [Revised Specialists]? → I (Install)",
       "Install Component [Revised Metamagic]? → Q (Quit)"
     ]
+  },
+  "Rogue_Rebalancing": {
+    "input_notes": [
+      "Choose your language: → 0 (English)",
+      "Would you like to display the readme? → N (No)",
+      "Install Component [Proper dual-wielding implementation for Thieves and Bards]? → N (Not Install)",
+      "Install Component [Thief kit revisions]? → N (Not Install)",
+      "Install Component [Thief High Level Ability revisions]? → I (Install)",
+      "Install Component [Proper racial adjustments for thieving skills]? → I (Install)",
+      "Install Component [Bard kit revisions]? → N (Not Install)",
+      "Install Component [Bard High Level Ability revisions]? → N (Not Install)",
+      "Install Component [Proper spell progression for Bards]? → I (Install)",
+      "Install Component [Additional equipment for Thieves and Bards]? → I (Install)",
+      "Install Component [Upgradeable Equipment]? → I (Install)",
+      "Install Component [Revised Thievery]? → N (Not Install)",
+      "Install Component [Chosen of Cyric encounter]? → I (Install)",
+      "Install Component [Shadow Thief Improvements]? → I (Install)",
+      "Install Component [BG2-style icons for RR content]? → N (Not Install)"
+    ]
   }
 }

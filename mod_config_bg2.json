@@ -1063,7 +1063,7 @@
     },
     "Rogue_Rebalancing": {
       "setup_file": "setup-rr.exe",
-      "inputs": [],
+      "inputs": ["0", "N", "N", "N", "I", "I", "N", "N", "I", "I", "I", "N", "I", "I", "N"],
       "description": "Rogue Rebalancing",
       "active": "false",
       "download_url": "(dead, no up to date link)",
@@ -1107,7 +1107,7 @@
       "latest_update": "04-06-2026"
     },
     "Tactics_Remix": {
-      "setup_file": "",
+      "setup_file": "setup-tactics-remix.exe",
       "inputs": [],
       "description": "Tactics Remix",
       "active": "false",
@@ -1219,6 +1219,7 @@
     "Improved_Haerdalis_Swords",
     "Forgotten_Armament",
     "Cowled_Menace",
+
     "Tashia",
     "Arath",
     "Amber",
