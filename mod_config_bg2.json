@@ -778,15 +778,6 @@
       "version": "1.2",
       "latest_update": "24-02-2019"
     },
-    "Derats_Unused_Kits_Pack": {
-      "setup_file": "Setup-Derats_kits.exe",
-      "inputs": ["1", "A", "N", "N", "N", "I", "Q"],
-      "description": "Preacher of Flames Kit",
-      "active": "false",
-      "download_url": "https://github.com/Deratiseur/DUKP/releases",
-      "version": "18.6",
-      "latest_update": "30-08-2025"
-    },
     "Warlock": {
       "setup_file": "Setup-Artisans_Warlock.exe",
       "inputs": ["I", "1"],
@@ -1386,6 +1377,15 @@
       "version": "?",
       "latest_update": "31-05-2026"
     },
+    "Derats_Unused_Kits_Pack": {
+      "setup_file": "Setup-Derats_kits.exe",
+      "inputs": ["1", "A", "N", "N", "N", "I", "Q"],
+      "description": "Preacher of Flames Kit",
+      "active": "false",
+      "download_url": "https://github.com/Deratiseur/DUKP/releases",
+      "version": "18.6",
+      "latest_update": "30-08-2025"
+    },
     "HPS_Portraits_Project": {
       "setup_file": "setup-hps_portraits_project.exe",
       "inputs": [],
@@ -1479,7 +1479,6 @@
     "Geomantic",
     "Spiritwalker",
     "Storm_Caller",
-    "Derats_Unused_Kits_Pack",
     "Warlock",
     "I_Hate_Undead",
     "Bardic_Wonders",
@@ -1503,6 +1502,7 @@
     "XP_Mod",
     "Artisans_Kitpack_Tweaks",
 
+    "Derats_Unused_Kits_Pack",
     "HPS_Portraits_Project"
   ]
 }

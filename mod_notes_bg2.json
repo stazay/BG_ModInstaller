@@ -683,17 +683,6 @@
       "Install Component [Storm Caller Shaman Kit]? → I (Install)"
     ]
   },
-  "Derats_Unused_Kits_Pack": {
-    "input_notes": [
-      "Choose your language: → 1 (English)",
-      "What should be done with all components that are NOT YET installed? → A (Ask about each one)",
-      "Install Component [Fighter (half-orc) Kit: Hatred Carrier]? → N (Not Install)",
-      "Install Component [Ranger Kit: Hunter of Vermin]? → N (Not Install)",
-      "Install Component [Wizard Kit: Sorcerer]? → N (Not Install)",
-      "Install Component [Cleric Kit: Preacher of Flames]? → I (Install)",
-      "Install Component [Cleric Kit: Goragos Crusaders]? → Q (Quit)"
-    ]
-  },
   "Warlock": {
     "input_notes": [
       "Install Component [Warlock Kit]? → I (Install)",
@@ -1244,6 +1233,17 @@
       "Install Component [Slightly expanded storage capacity for containers]? → N (Not Install)",
       "Install Component [Expanded temple services]? → I (Install)",
       "Install Component [BG2-style icons for aTweaks content]? → I (Install)"
+    ]
+  },
+  "Derats_Unused_Kits_Pack": {
+    "input_notes": [
+      "Choose your language: → 1 (English)",
+      "What should be done with all components that are NOT YET installed? → A (Ask about each one)",
+      "Install Component [Fighter (half-orc) Kit: Hatred Carrier]? → N (Not Install)",
+      "Install Component [Ranger Kit: Hunter of Vermin]? → N (Not Install)",
+      "Install Component [Wizard Kit: Sorcerer]? → N (Not Install)",
+      "Install Component [Cleric Kit: Preacher of Flames]? → I (Install)",
+      "Install Component [Cleric Kit: Goragos Crusaders]? → Q (Quit)"
     ]
   }
 }
