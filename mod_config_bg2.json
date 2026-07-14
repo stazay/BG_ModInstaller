@@ -1062,7 +1062,7 @@
       "latest_update": "19-05-2025"
     },
     "Rogue_Rebalancing": {
-      "setup_file": "",
+      "setup_file": "setup-rr.exe",
       "inputs": [],
       "description": "Rogue Rebalancing",
       "active": "false",
@@ -1080,7 +1080,7 @@
       "latest_update": "31-05-2026"
     },
     "Monk_Overhaul": {
-      "setup_file": "",
+      "setup_file": "setup-mnkoverhaul.exe",
       "inputs": [],
       "description": "Monk Overhaul",
       "active": "false",
@@ -1089,7 +1089,7 @@
       "latest_update": "08-11-2014"
     },
     "Improved_Shamanic_Dance": {
-      "setup_file": "",
+      "setup_file": "setup-A7#ImprovedShamanicDance.exe",
       "inputs": [],
       "description": "Improved Shamanic Dance",
       "active": "false",
@@ -1098,7 +1098,7 @@
       "latest_update": "07-12-2024"
     },
     "House_Rule_Tweaks": {
-      "setup_file": "",
+      "setup_file": "Setup-HouseTweaks.exe",
       "inputs": [],
       "description": "House Rule Tweaks",
       "active": "false",
@@ -1116,7 +1116,7 @@
       "latest_update": "07-04-2026"
     },
     "Tweaks_Anthology": {
-      "setup_file": "",
+      "setup_file": "setup-cdtweaks.exe",
       "inputs": [],
       "description": "Tweaks Anthology",
       "active": "true",
@@ -1125,7 +1125,7 @@
       "latest_update": "22-08-2025"
     },
     "aTweaks": {
-      "setup_file": "",
+      "setup_file": "setup-atweaks.exe",
       "inputs": [],
       "description": "aTweaks",
       "active": "false",
@@ -1134,7 +1134,7 @@
       "latest_update": "06-03-2022"
     },
     "Talents_Of_Faerun": {
-      "setup_file": "",
+      "setup_file": "setup-dw_talents.exe",
       "inputs": [],
       "description": "Talents Of Faerun",
       "active": "false",
@@ -1152,7 +1152,7 @@
       "latest_update": "21-11-2024"
     },
     "The_Big_Picture": {
-      "setup_file": "",
+      "setup_file": "Setup-BP.exe",
       "inputs": [],
       "description": "The Big Picture",
       "active": "false",
@@ -1161,7 +1161,7 @@
       "latest_update": "16-02-2014"
     },
     "Defjam": {
-      "setup_file": "",
+      "setup_file": "setup-xpmod.exe",
       "inputs": [],
       "description": "XP Mod",
       "active": "false",
