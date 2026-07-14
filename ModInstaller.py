@@ -152,32 +152,34 @@ class SimpleModExtractor:
             batch_content.extend([
                 f'echo Installing {mod_name}: {description}',
                 f'{setup_file} < {input_filename} 2>&1 | powershell -NoProfile -Command "'
-                f"$input | Tee-Object -FilePath {output_file} | "
-                "ForEach-Object -Begin { $cur='' } -Process {"
+                "$input | ForEach-Object -Begin { $cur='' } -Process {"
                 "if($_ -match 'Installing \\['){"
-                "if($cur){Write-Host ('Successfully installed ' + $cur)};"
+                "if($cur){'Successfully installed ' + $cur};"
                 "$cur='[' + ($_ -replace 'Installing \\[','') -replace '(?<=\\]) \\[[^\\]]+\\]$','';"
-                "Write-Host ('Installing ' + $cur)"
+                "'Installing ' + $cur"
                 "} elseif($_ -match 'NOT INSTALLED Due to error'){"
-                "if($cur){Write-Host ('Failed to install ' + $cur)};"
-                "Write-Host $_;"
+                "if($cur){'FAILED: ' + $cur};"
+                "$cur=''"
+                "} elseif($_ -match 'Installed with warnings'){"
+                "if($cur){'WARNING: ' + $cur};"
                 "$cur=''"
                 "} elseif($_ -match 'Installed\\.'){"
-                "if($cur){Write-Host ('Successfully installed ' + $cur)};"
+                "if($cur){'Successfully installed ' + $cur};"
                 "$cur=''"
                 "} elseif($_ -match 'ERROR|FATAL'){"
-                "Write-Host $_"
+                "$_"
                 "}}"
-                " -End { if($cur){Write-Host ('Successfully installed ' + $cur)} }"
+                " -End { if($cur){'Successfully installed ' + $cur} }"
+                f" | Tee-Object -FilePath {output_file}"
                 '"',
                 f'set MOD_STAT=SUCCESS',
-                f'findstr /I /C:"Installed with warnings" {output_file} >nul 2>&1',
+                f'findstr /I /C:"WARNING:" {output_file} >nul 2>&1',
                 f'if %errorlevel% equ 0 set MOD_STAT=WARNING',
-                f'findstr /I /C:"NOT INSTALLED Due to error" {output_file} >nul 2>&1',
+                f'findstr /I /C:"FAILED:" {output_file} >nul 2>&1',
                 f'if %errorlevel% equ 0 set MOD_STAT=FAILED',
-                f'if "%MOD_STAT%"=="SUCCESS" echo [%date% %time%] SUCCESS:  {mod_name} ^({description}^) >> {log_file}',
-                f'if "%MOD_STAT%"=="WARNING" echo [%date% %time%] WARNING:  {mod_name} ^({description}^) >> {log_file}',
-                f'if "%MOD_STAT%"=="FAILED" echo [%date% %time%] FAILED:   {mod_name} ^({description}^) >> {log_file}',
+                f'if "%MOD_STAT%"=="SUCCESS" echo [%date% %time%] SUCCESSFULLY installed: {mod_name} ^({description}^) >> {log_file}',
+                f'if "%MOD_STAT%"=="WARNING" echo [%date% %time%] WARNING:              {mod_name} ^({description}^) >> {log_file}',
+                f'if "%MOD_STAT%"=="FAILED" echo [%date% %time%] FAILED to install:    {mod_name} ^({description}^) >> {log_file}',
                 f'type {output_file} >> {log_file}',
                 f'echo. >> {log_file}',
                 f'del {output_file}',
