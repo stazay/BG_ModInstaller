@@ -552,19 +552,6 @@
       "Install Component [BG2-style icons for RR content]? [I]nstall, [N]ot Install, [Q]uit → I (Install)"
     ]
   },
-  "Artisans_Kitpack_Tweaks": {
-    "input_notes": [
-      "What should be done with all components that are NOT YET installed? [I]nstall them, [S]kip them, [A]sk about each one → A (Ask about each one)",
-      "Install Component [Artisan's Kitpack: Archer - Apply Manyshot to mod-added items (install this after any mods that add mod bows and crossbows)]? [I]nstall, [N]ot Install, [Q]uit → I (Install)",
-      "Install Component [Artisan's Kitpack: Beastmaster - Modify Restrictions for Mod Items (install this after any mods that add mod axes, daggers, spears, armor, etc.)]? [I]nstall, [N]ot Install, [Q]uit → I (Install)",
-      "Install Component [Artisan's Kitpack: Cavalier - Rename Kit to Chevalier]? [I]nstall, [N]ot Install, [Q]uit → N (Not Install)",
-      "Install Component [Artisan's Kitpack: Samurai - Add important effects to mod-added items installed after the kit]? [I]nstall, [N]ot Install, [Q]uit → I (Install)",
-      "Install Component [Artisan's Kitpack: Mystic Fire - Allow Wands and Mage Scrolls]? [I]nstall, [N]ot Install, [Q]uit → I (Install)",
-      "Install Component [Artisan's Kitpack: Mystic Fire - Add spells from HLAs directly to spellbook up to maximum paladin casting level]? [I]nstall, [N]ot Install, [Q]uit → N (Not Install)",
-      "Install Component [Artisan's Kitpack: Trickster - Mimic Mod Kit Abilities (install this after other kits!)]? [I]nstall, [N]ot Install, [Q]uit → I (Install)",
-      "Install Component [Artisan's Kitpack: Adjust kit THAC0 progression to match tweaked THAC0 tables]? [I]nstall, [N]ot Install, [Q]uit → Q (Quit)"
-    ]
-  },
   "Improved_Shamanic_Dance": {
     "input_notes": [
       "Choose your language: [0] English, [1] French, [2] German, [3] Italian, [4] Polish, [5] Russian → 0 (English)",
@@ -899,6 +886,19 @@
       "Would you like to display the readme? [Y]es, [N]o → N (No)",
       "Install Component [Creature XP Reduction]? [N]o, [Q]uit or choose one: [1] Reduce to 75%, [2] Reduce to 50%, [3] Reduce to 25%, [4] Reduce to 1/6th for solo play, [5] Reduce to 10%, [6] Increase to 150%, [7] Increase to 200% → 2 (Reduce to 50%)",
       "Install Component [Locks, Traps and Spells XP Reduction]? [N]o, [Q]uit or choose one: [1] Reduce to 75%, [2] Reduce to 50%, [3] Reduce to 25%, [4] Reduce to 1/6th for solo play, [5] Reduce to 10%, [6] Increase to 150%, [7] Increase to 200% → Q (Quit)"
+    ]
+  },
+  "Artisans_Kitpack_Tweaks": {
+    "input_notes": [
+      "What should be done with all components that are NOT YET installed? [I]nstall them, [S]kip them, [A]sk about each one → A (Ask about each one)",
+      "Install Component [Artisan's Kitpack: Archer - Apply Manyshot to mod-added items (install this after any mods that add mod bows and crossbows)]? [I]nstall, [N]ot Install, [Q]uit → I (Install)",
+      "Install Component [Artisan's Kitpack: Beastmaster - Modify Restrictions for Mod Items (install this after any mods that add mod axes, daggers, spears, armor, etc.)]? [I]nstall, [N]ot Install, [Q]uit → I (Install)",
+      "Install Component [Artisan's Kitpack: Cavalier - Rename Kit to Chevalier]? [I]nstall, [N]ot Install, [Q]uit → N (Not Install)",
+      "Install Component [Artisan's Kitpack: Samurai - Add important effects to mod-added items installed after the kit]? [I]nstall, [N]ot Install, [Q]uit → I (Install)",
+      "Install Component [Artisan's Kitpack: Mystic Fire - Allow Wands and Mage Scrolls]? [I]nstall, [N]ot Install, [Q]uit → I (Install)",
+      "Install Component [Artisan's Kitpack: Mystic Fire - Add spells from HLAs directly to spellbook up to maximum paladin casting level]? [I]nstall, [N]ot Install, [Q]uit → N (Not Install)",
+      "Install Component [Artisan's Kitpack: Trickster - Mimic Mod Kit Abilities (install this after other kits!)]? [I]nstall, [N]ot Install, [Q]uit → I (Install)",
+      "Install Component [Artisan's Kitpack: Adjust kit THAC0 progression to match tweaked THAC0 tables]? [I]nstall, [N]ot Install, [Q]uit → Q (Quit)"
     ]
   },
   "HPS_Portraits_Project": {

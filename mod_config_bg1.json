@@ -629,15 +629,6 @@
       "version": "4.90",
       "latest_update": "03-03-2019"
     },
-    "Artisans_Kitpack_Tweaks": {
-      "setup_file": "Setup-ArtisansKitpack_tweak.exe",
-      "inputs": ["A", "I", "I", "N", "I", "I", "N", "I", "Q"],
-      "description": "Artisan's Kitpack Tweaks",
-      "active": "true",
-      "download_url": "https://artisans-corner.com/the-artisans-kitpack/",
-      "version": "?",
-      "latest_update": "31-05-2026"
-    },
     "Improved_Shamanic_Dance": {
       "setup_file": "setup-A7#ImprovedShamanicDance.exe",
       "inputs": ["0", "N", "I", "I", "I", "I"],
@@ -1004,6 +995,15 @@
       "version": "7",
       "latest_update": "24-04-2020"
     },
+    "Artisans_Kitpack_Tweaks": {
+      "setup_file": "Setup-ArtisansKitpack_tweak.exe",
+      "inputs": ["A", "I", "I", "N", "I", "I", "N", "I", "Q"],
+      "description": "Artisan's Kitpack Tweaks",
+      "active": "true",
+      "download_url": "https://artisans-corner.com/the-artisans-kitpack/",
+      "version": "?",
+      "latest_update": "31-05-2026"
+    },
     "HPS_Portraits_Project": {
       "setup_file": "setup-hps_portraits_project.exe",
       "inputs": ["N", "Y", "Y", "I", "I", "I", "I", "N", "I", "N", "1"],
@@ -1067,7 +1067,6 @@
     "Artisans_Kitpack_NPC",
     "Tome_And_Blood",
     "Rogue_Rebalancing",
-    "Artisans_Kitpack_Tweaks",
     "Improved_Shamanic_Dance",
 
     "House_Rules",
@@ -1076,6 +1075,7 @@
     "Talents_Of_Faerun",
     "Sword_Coast_Stratagems",
     "Defjam",
+    "Artisans_Kitpack_Tweaks",
 
     "HPS_Portraits_Project"
   ]

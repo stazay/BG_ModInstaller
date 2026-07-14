@@ -1063,21 +1063,28 @@
     },
     "Rogue_Rebalancing": {
       "setup_file": "setup-rr.exe",
-      "inputs": ["0", "N", "N", "N", "I", "I", "N", "N", "I", "I", "I", "N", "I", "I", "N"],
+      "inputs": [
+        "0",
+        "N",
+        "N",
+        "N",
+        "I",
+        "I",
+        "N",
+        "N",
+        "I",
+        "I",
+        "I",
+        "N",
+        "I",
+        "I",
+        "N"
+      ],
       "description": "Rogue Rebalancing",
       "active": "false",
       "download_url": "(dead, no up to date link)",
       "version": "4.90",
       "latest_update": "03-03-2019"
-    },
-    "Artisans_Kitpack_Tweaks": {
-      "setup_file": "Setup-ArtisansKitpack_tweak.exe",
-      "inputs": [],
-      "description": "Artisan's Kitpack Tweaks",
-      "active": "true",
-      "download_url": "https://artisans-corner.com/the-artisans-kitpack/",
-      "version": "?",
-      "latest_update": "31-05-2026"
     },
     "Monk_Overhaul": {
       "setup_file": "setup-mnkoverhaul.exe",
@@ -1168,6 +1175,15 @@
       "download_url": "https://github.com/Pocket-Plane-Group/D0XPmod/releases/tag/v7",
       "version": "7",
       "latest_update": "24-04-2020"
+    },
+    "Artisans_Kitpack_Tweaks": {
+      "setup_file": "Setup-ArtisansKitpack_tweak.exe",
+      "inputs": [],
+      "description": "Artisan's Kitpack Tweaks",
+      "active": "true",
+      "download_url": "https://artisans-corner.com/the-artisans-kitpack/",
+      "version": "?",
+      "latest_update": "31-05-2026"
     },
     "HPS_Portraits_Project": {
       "setup_file": "setup-hps_portraits_project.exe",
@@ -1274,7 +1290,6 @@
     "Artisans_Kitpack_NPC",
     "Tome_and_Blood",
     "Rogue_Rebalancing",
-    "Artisans_Kitpack_Tweaks",
     "Monk_Overhaul",
     "Improved_Shamanic_Dance",
 
@@ -1286,6 +1301,7 @@
     "Sword_Coast_Stratagems",
     "The_Big_Picture",
     "XP_Mod",
+    "Artisans_Kitpack_Tweaks",
 
     "HPS_Portraits_Project"
   ]
