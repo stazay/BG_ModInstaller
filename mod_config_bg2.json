@@ -1088,7 +1088,7 @@
     },
     "Monk_Overhaul": {
       "setup_file": "setup-mnkoverhaul.exe",
-      "inputs": [],
+      "inputs": ["I", "1"],
       "description": "Monk Overhaul",
       "active": "false",
       "download_url": "https://forums.beamdog.com/discussion/33618/mod-monk-overhaul",
