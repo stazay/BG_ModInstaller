@@ -1141,7 +1141,7 @@
     },
     "Tweaks_Anthology": {
       "setup_file": "setup-cdtweaks.exe",
-      "inputs": [],
+      "inputs": ["0", "N", "Y", "Y", "Y", "Y", "Y", "N", "N", "N", "I", "N", "N", "N", "N", "I", "N", "N", "I", "I", "I", "N", "I", "N", "N", "1", "N", "N", "N", "N", "N", "I", "I", "N", "I", "I", "N", "I", "N", "N", "I", "N", "N", "I", "N", "N", "N", "N", "N", "N", "N", "N", "N", "I", "1", "I", "N", "N", "N", "N", "N", "N", "N", "N", "N", "I", "N", "N", "N", "N", "N", "N", "N", "N", "N", "N", "N", "N", "N", "N", "N", "N", "N", "N", "N", "N", "N", "N", "N", "N", "N", "N", "N", "N", "N", "N", "N", "N", "N", "N", "N", "N", "N", "N", "N", "I", "N", "N", "N", "I", "N", "N", "N", "N", "N", "N", "N", "N", "N", "N", "N", "N", "N", "2", "N", "I", "N", "N", "4", "4", "4", "4", "N", "N", "N", "N", "N", "N", "N", "N", "N", "N", "N", "N", "N", "N", "I", "I", "N", "N", "N", "N", "N", "N", "N", "I", "N", "N", "N", "N", "N", "N", "1", "N", "N", "N", "N", "N", "I", "N", "I", "I", "N", "I", "N", "2", "2", "N", "2", "2", "Q"],
       "description": "Tweaks Anthology",
       "active": "true",
       "download_url": "https://github.com/Gibberlings3/Tweaks-Anthology/releases",
