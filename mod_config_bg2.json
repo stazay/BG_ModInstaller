@@ -969,10 +969,19 @@
       "version": "2.0",
       "latest_update": "18-03-2026"
     },
-    "The_Artisans_Kitpack": {
+    "Artisans_Kitpack_Kits": {
+      "setup_file": "",
+      "inputs": ["Y", "Y", "Y", "Y", "Y", "Y", "Y", "Y", "Y", "Y", "N", "N", "N", "I", "N", "I", "2", "N", "N", "I", "I", "I", "N", "N", "I", "I", "I", "I", "I", "I", "I", "N", "N", "I", "N", "I", "N", "I", "N", "I", "I", "I", "N", "I", "I", "I", "I", "I", "I", "I", "N", "I", "I", "I", "N", "I", "I", "I", "N", "I", "N", "I", "I", "I"],
+      "description": "Artisan's Kitpack Kits",
+      "active": "true",
+      "download_url": "https://artisans-corner.com/the-artisans-kitpack/",
+      "version": "?",
+      "latest_update": "31-05-2026"
+    },
+    "Artisans_Kitpack_NPC": {
       "setup_file": "",
       "inputs": [],
-      "description": "The Artisan's Kitpack",
+      "description": "Artisan's Kitpack NPCs",
       "active": "true",
       "download_url": "https://artisans-corner.com/the-artisans-kitpack/",
       "version": "?",
@@ -995,6 +1004,15 @@
       "download_url": "(dead, no up to date link)",
       "version": "4.90",
       "latest_update": "03-03-2019"
+    },
+    "Artisans_Kitpack_Tweaks": {
+      "setup_file": "Setup-ArtisansKitpack_tweak.exe",
+      "inputs": [],
+      "description": "Artisan's Kitpack Tweaks",
+      "active": "true",
+      "download_url": "https://artisans-corner.com/the-artisans-kitpack/",
+      "version": "?",
+      "latest_update": "31-05-2026"
     },
     "Monk_Overhaul": {
       "setup_file": "",
@@ -1186,9 +1204,11 @@
     "Might_and_Guile",
     "Morpheus562s_Kitpack",
     "Expanded_Classes",
-    "The_Artisans_Kitpack",
+    "Artisans_Kitpack_Kits",
+    "Artisans_Kitpack_NPC",
     "Tome_and_Blood",
     "Rogue_Rebalancing",
+    "Artisans_Kitpack_Tweaks",
     "Monk_Overhaul",
     "Improved_Shamanic_Dance",
 
