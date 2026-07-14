@@ -595,9 +595,7 @@
     ]
   },
   "Pai_Na": {
-    "input_notes": [
-      "Install Component [Pai'Na NPC for BG2:EE]? → I (Install)"
-    ]
+    "input_notes": ["Install Component [Pai'Na NPC for BG2:EE]? → I (Install)"]
   },
   "Willowisp": {
     "input_notes": [
@@ -1004,7 +1002,9 @@
       "Install Component [House Tweaks: Soundset Tweaks for Anomen and Sarevok (BG2:EE)]? → I (Install)",
       "Install Component [House Tweaks: Experience Books]? → N (Not Install)",
       "Install Component [House Tweaks: Frozen, Disintegrated and Petrified Creatures Drop Items when Shattered]? → I (Install)",
-      "Install Component [House Tweaks: Low-level Charm spells e.g. Charm Person (or Mammal) no longer turn targets hostile after expiring]? → Q (Quit)"
+      "Install Component [House Tweaks: Low-level Charm spells e.g. Charm Person (or Mammal) no longer turn targets hostile after expiring]? → N (Not Install)",
+      "Install Component [House Tweaks: Passive Trap Detection]? → 4 (5% chance per 5 points in Detect Traps above 100, check once per second)",
+      "Install Component [House Tweaks: Remove all 'Hide in Shadows' Voice Cues]? → Q (Quit)"
     ]
   },
   "Tweaks_Anthology": {
