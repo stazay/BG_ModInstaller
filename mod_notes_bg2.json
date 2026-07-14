@@ -925,5 +925,21 @@
       "Install Component [Artisan's Kitpack: Make Rasaad a Sacred Fist]? → N (Not Install)",
       "Install Component [Artisan's Kitpack: Make Xan an Eldritch Knight]? → I (Install)"
     ]
+  },
+  "Tome_and_Blood": {
+    "input_notes": [
+      "Choose your language: → 0 (English)",
+      "What should be done with all components that are NOT YET installed? → A (Ask about each one)",
+      "Install Component [Revised Mage Spell Table]? → N (Not Install)",
+      "Install Component [Revised Sorcerer Spell Table]? → N (Not Install)",
+      "Install Component [Revised Dragon Disciples]? → I (Install)",
+      "Install Component [Sorcerer: Magus]? → N (Not Install)",
+      "Install Component [Sorcerer: Favored Soul]? → N (Not Install)",
+      "Install Component [Sorcerer: Sylvan Disciple]? → N (Not Install)",
+      "Install Component [Sorcerer: Revenant Disciple]? → N (Not Install)",
+      "Install Component [Sorcerer: Amorphous Disciple]? → N (Not Install)",
+      "Install Component [Revised Specialists]? → I (Install)",
+      "Install Component [Revised Metamagic]? → Q (Quit)"
+    ]
   }
 }

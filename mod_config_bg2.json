@@ -1053,8 +1053,8 @@
       "latest_update": "31-05-2026"
     },
     "Tome_and_Blood": {
-      "setup_file": "",
-      "inputs": [],
+      "setup_file": "setup-TomeAndBlood.exe",
+      "inputs": ["0", "A", "N", "N", "I", "N", "N", "N", "N", "N", "I", "Q"],
       "description": "Tome and Blood Kit tweaks",
       "active": "false",
       "download_url": "https://github.com/UnearthedArcana/TomeAndBlood/releases",
