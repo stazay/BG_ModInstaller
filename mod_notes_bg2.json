@@ -1235,6 +1235,39 @@
       "Install Component [BG2-style icons for aTweaks content]? → I (Install)"
     ]
   },
+  "Talents_Of_Faerun": {
+    "input_notes": [
+      "Would you like to display the readme? → N (No)",
+      "Would you like to display the components from [Spell system revisions and new spells]? → Y (Yes)",
+      "Would you like to display the components from [Races and subraces]? → N (No)",
+      "Would you like to display the components from [Class and kit revisions]? → N (No)",
+      "Would you like to display the components from [New classes and kits]? → N (No)",
+      "Would you like to display the components from [Multiclassed/dual-classed kits]? → N (No)",
+      "Would you like to display the components from [Revised and new high-level and lower-level abilities]? → N (No)",
+      "Would you like to display the components from [Rule-system changes]? → Y (Yes)",
+      "Would you like to display the components from [User interface tweaks]? → Y (Yes)",
+      "Install Component [Install in batch mode]? → N (Not Install)",
+      "Install Component [Include arcane spells from Icewind Dale: Enhanced Edition]? → I (Install)",
+      "Install Component [Include divine spells from Icewind Dale: Enhanced Edition]? → I (Install)",
+      "Install Component [Include bard songs from Icewind Dale: Enhanced Edition]? → N (Not Install)",
+      "Install Component [Install all spell tweaks]? → N (Not Install)",
+      "Install Component [Core Stratagems spell-system changes (assumed by Sword Coast Stratagems mod)]? → I (Install)",
+      "Install Component [Changes to Restoration]? → N (Not Install)",
+      "Install Component [Changes to shapeshift spells]? → I (Install)",
+      "Install Component [Icewind Dale-inspired tweaks to Baldur's Gate/Baldur's Gate II spells]? → I (Install)",
+      "Install Component [Rebalancings of slightly-too-powerful spells]? → N (Not Install)",
+      "Install Component [Spell school changes]? → I (Install)",
+      "Install Component [Spells increased in power]? → I (Install)",
+      "Install Component [Add 9 new arcane spells]? → I (Install)",
+      "Install Component [Add 6 new divine spells (some borrowed from Divine Remix)]? → I (Install)",
+      "Install Component [Revised Elementals]? → I (Install)",
+      "Install Component [Revised ability score modifiers]? → 1 (Standard Talents of Faerun system)",
+      "Install Component [Point-buy system for choosing ability scores]? → N (Not Install)",
+      "Install Component [3rd-edition-style THAC0s]? → N (Not Install)",
+      "Install Component [Cleric/Rangers may become proficient with longbows and shortbows]? → N (Not Install)",
+      "Install Component [Point-buy system for choosing ability scores]? → Q (Quit)"
+    ]
+  },
   "Derats_Unused_Kits_Pack": {
     "input_notes": [
       "Choose your language: → 1 (English)",
