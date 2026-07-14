@@ -911,5 +911,19 @@
       "Install Component [Artisan's Kitpack: Invisible Blade Thief Kit]? → I (Install)",
       "Install Component [Artisan's Kitpack: Warhorn Shaman Kit]? → I (Install)"
     ]
+  },
+  "Artisans_Kitpack_NPC": {
+    "input_notes": [
+      "What should be done with all components that are NOT YET installed? → A (Ask about each one)",
+      "Install Component [Artisan's Kitpack: Make Skitia's Emily an]? → 1 (Arcane Archer)",
+      "Install Component [Artisan's Kitpack: Rashemi Berserker Ranger Kit for Minsc]? → I (Install)",
+      "Install Component [Artisan's Kitpack: Make Mazzy a Divine Champion]? → N (Not Install)",
+      "Install Component [Artisan's Kitpack: Give Cernd the Elementalist Kit]? → N (Not Install)",
+      "Install Component [Artisan's Kitpack: Red Wizard Mage Kit for Edwin]? → N (Not Install)",
+      "Install Component [Artisan's Kitpack: Make Imoen a]? → 1 (Rogue Archer)",
+      "Install Component [Artisan's Kitpack: Give Hexxat the Invisible Blade Kit]? → N (Not Install)",
+      "Install Component [Artisan's Kitpack: Make Rasaad a Sacred Fist]? → N (Not Install)",
+      "Install Component [Artisan's Kitpack: Make Xan an Eldritch Knight]? → I (Install)"
+    ]
   }
 }
