@@ -1097,7 +1097,7 @@
     },
     "Improved_Shamanic_Dance": {
       "setup_file": "setup-A7#ImprovedShamanicDance.exe",
-      "inputs": [],
+      "inputs": ["0", "N", "I", "I", "I", "I", "I"],
       "description": "Improved Shamanic Dance",
       "active": "false",
       "download_url": "https://github.com/Argent77/A7-ImprovedShamanicDance/releases",
