@@ -152,28 +152,36 @@ class SimpleModExtractor:
             batch_content.extend([
                 f'echo Installing {mod_name}: {description}',
                 f'{setup_file} < {input_filename} 2>&1 | powershell -NoProfile -Command "'
-                "$input | ForEach-Object -Begin { $cur='' } -Process {"
+                "$input | ForEach-Object -Begin { $cur=''; $warns=@() } -Process {"
                 "if($_ -match 'Installing \\['){"
                 "if($cur){'Successfully installed ' + $cur};"
                 "$cur='[' + ($_ -replace 'Installing \\[','') -replace '(?<=\\]) \\[[^\\]]+\\]$','';"
-                "'Installing ' + $cur"
+                "'Installing ' + $cur;"
+                "$warns=@()"
                 "} elseif($_ -match 'NOT INSTALLED Due to error'){"
                 "if($cur){'FAILED: ' + $cur};"
-                "$cur=''"
+                "$cur='';"
+                "$warns=@()"
                 "} elseif($_ -match 'Installed with warnings'){"
-                "if($cur){'WARNING: ' + $cur};"
-                "$cur=''"
+                "if($cur){ $warns | ForEach-Object { '  >> ' + $_ }; 'Installed with warnings: ' + $cur };"
+                "$cur='';"
+                "$warns=@()"
                 "} elseif($_ -match 'Installed\\.'){"
                 "if($cur){'Successfully installed ' + $cur};"
-                "$cur=''"
+                "$cur='';"
+                "$warns=@()"
+                "} elseif($_ -match '^Skipping \\['){"
+                "'Skipped component ' + ($_ -replace '^Skipping ','')"
                 "} elseif($_ -match 'ERROR|FATAL'){"
                 "$_"
+                "} elseif($cur -and $_ -match '^WARNING'){"
+                "$warns += $_"
                 "}}"
                 " -End { if($cur){'Successfully installed ' + $cur} }"
                 f" | Tee-Object -FilePath {output_file}"
                 '"',
                 f'set MOD_STAT=SUCCESS',
-                f'findstr /I /C:"WARNING:" {output_file} >nul 2>&1',
+                f'findstr /I /C:"Installed with warnings:" {output_file} >nul 2>&1',
                 f'if %errorlevel% equ 0 set MOD_STAT=WARNING',
                 f'findstr /I /C:"FAILED:" {output_file} >nul 2>&1',
                 f'if %errorlevel% equ 0 set MOD_STAT=FAILED',
