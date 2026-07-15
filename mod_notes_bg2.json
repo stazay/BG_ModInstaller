@@ -1262,9 +1262,6 @@
       "Install Component [Add 6 new divine spells (some borrowed from Divine Remix)]? → I (Install)",
       "Install Component [Revised Elementals]? → I (Install)",
       "Install Component [Revised ability score modifiers]? → 1 (Standard Talents of Faerun system)",
-      "Install Component [Point-buy system for choosing ability scores]? → N (Not Install)",
-      "Install Component [3rd-edition-style THAC0s]? → N (Not Install)",
-      "Install Component [Cleric/Rangers may become proficient with longbows and shortbows]? → N (Not Install)",
       "Install Component [Point-buy system for choosing ability scores]? → Q (Quit)"
     ]
   },
