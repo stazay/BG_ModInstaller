@@ -355,15 +355,6 @@
       "version": "3.5",
       "latest_update": "29-12-2014"
     },
-    "Ascalons_Questpack": {
-      "setup_file": "setup-ac_quest.exe",
-      "inputs": ["1", "I"],
-      "description": "Ascalon's Questpack",
-      "active": "yes",
-      "download_url": "https://github.com/Gitjas/Ascalons_Questpack/releases",
-      "version": "6.4",
-      "latest_update": "17-12-2025"
-    },
     "Item_Upgrade": {
       "setup_file": "setup-itemupgrade.exe",
       "inputs": ["0", "N", "1", "1", "N"],
@@ -1507,7 +1498,6 @@
     "Crucible",
     "Unfinished_Business",
     "Dingos_Questpack",
-    "Ascalons_Questpack",
 
     "Item_Upgrade",
     "SoD_to_BG2_item_upgrade",

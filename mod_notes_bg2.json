@@ -304,12 +304,6 @@
       "Install Component [Infernal Thievery]? → I (Install)"
     ]
   },
-  "Ascalons_Questpack": {
-    "input_notes": [
-      "Choose your language: → 1 (English)",
-      "What should be done with all components that are NOT YET installed? → I (Install them)"
-    ]
-  },
   "Item_Upgrade": {
     "input_notes": [
       "Choose your language: → 0 (English)",
