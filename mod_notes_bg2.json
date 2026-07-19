@@ -1411,6 +1411,16 @@
       "Install Component [Watchers Keep Improvements]? → Q (Quit)"
     ]
   },
+  "XP_Mod": {
+    "input_notes": [
+      "Choose your language: → 0 (English)",
+      "Would you like to display the readme? → N (No)",
+      "Install Component [Creature XP Reduction]? → 2 (Reduce to 50%)",
+      "Install Component [Locks, Traps and Spells XP Reduction]? → N (Not Install)",
+      "Install Component [No XP for learning spells]? → N (Not Install)",
+      "Install Component [Quest XP Reduction]? → 1 (Reduce to 75%)"
+    ]
+  },
   "Derats_Unused_Kits_Pack": {
     "input_notes": [
       "Choose your language: → 1 (English)",

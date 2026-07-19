@@ -1502,9 +1502,9 @@
       "version": "v181-b4611",
       "latest_update": "16-02-2014"
     },
-    "Defjam": {
+    "XP_Mod": {
       "setup_file": "setup-xpmod.exe",
-      "inputs": [],
+      "inputs": ["0", "N", "2", "N", "N", "1"],
       "description": "XP Mod",
       "active": "false",
       "download_url": "https://github.com/Pocket-Plane-Group/D0XPmod/releases/tag/v7",
