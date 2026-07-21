@@ -1421,6 +1421,19 @@
       "Install Component [Quest XP Reduction]? → 1 (Reduce to 75%)"
     ]
   },
+  "Artisans_Kitpack_Tweaks": {
+    "input_notes": [
+      "What should be done with all components that are NOT YET installed? → A (Ask about each one)",
+      "Install Component [Artisan's Kitpack: Archer - Apply Manyshot to mod-added items (install this after any mods that add mod bows and crossbows)]? → I (Install)",
+      "Install Component [Artisan's Kitpack: Beastmaster - Modify Restrictions for Mod Items (install this after any mods that add mod axes, daggers, spears, armor, etc.)]? → I (Install)",
+      "Install Component [Artisan's Kitpack: Cavalier - Rename Kit to Chevalier]? → N (Not Install)",
+      "Install Component [Artisan's Kitpack: Samurai - Add important effects to mod-added items installed after the kit]? → I (Install)",
+      "Install Component [Artisan's Kitpack: Mystic Fire - Allow Wands and Mage Scrolls]? → I (Install)",
+      "Install Component [Artisan's Kitpack: Mystic Fire - Add spells from HLAs directly to spellbook up to maximum paladin casting level]? → N (Not Install)",
+      "Install Component [Artisan's Kitpack: Trickster - Mimic Mod Kit Abilities (install this after other kits!)]? → I (Install)",
+      "Install Component [Artisan's Kitpack: Adjust kit THAC0 progression to match tweaked THAC0 tables]? → Q (Quit)"
+    ]
+  },
   "Derats_Unused_Kits_Pack": {
     "input_notes": [
       "Choose your language: → 1 (English)",
