@@ -1603,7 +1603,7 @@
     },
     "HPS_Portraits_Project": {
       "setup_file": "setup-hps_portraits_project.exe",
-      "inputs": [],
+      "inputs": ["N", "Y", "Y", "I", "I", "I", "I", "N", "I", "I", "4"],
       "description": "The HPS Portraits Project",
       "active": "true",
       "download_url": "https://github.com/HoldenBG/HPS-Portraits-Project-1.0/releases",

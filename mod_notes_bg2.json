@@ -1444,5 +1444,20 @@
       "Install Component [Cleric Kit: Preacher of Flames]? → I (Install)",
       "Install Component [Cleric Kit: Goragos Crusaders]? → Q (Quit)"
     ]
+  },
+  "HPS_Portraits_Project": {
+    "input_notes": [
+      "Would you like to display the readme? → N (No)",
+      "Would you like to display the components from [Add missing Portraits to Base Game Npcs]? → Y (Yes)",
+      "Would you like to display the components from [Add missing Portraits to Mods' Npcs]? → Y (Yes)",
+      "Install Component [Add missing Portraits to Base Game Unique NPCs]? → I (Install)",
+      "Install Component [Add missing Portraits to Minor and Common NPCs]? → I (Install)",
+      "Install Component [Add missing Portraits to Monsters and other Special NPCs]? → I (Install)",
+      "Install Component [Add new Portraits to Throne of Bhaal NPCs]? → I (Install)",
+      "Install Component [De-clone area's common NPCs and add unique portraits to them]? → N (Not Install)",
+      "Install Component [Add new portraits to original party NPCs]? → I (Install)",
+      "Install Component [Add drow portraits to original party NPCs]? → I (Install)",
+      "Install Component [Detect and add missing portraits to all mod's NPCs automatically (No => manual mod selection)]? → 4 (Add missing portraits for all mods installed but do not replace original mods NPCs portraits or Party NPCs portraits)"
+    ]
   }
 }
