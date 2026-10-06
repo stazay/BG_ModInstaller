@@ -880,12 +880,18 @@
       "Install Component [Improved minor encounters]? [I]nstall, or [N]ot Install or [Q]uit → I (Install)"
     ]
   },
-  "Defjam": {
+  "EET_Tweaks": {
     "input_notes": [
-      "Choose your language: [0] English, [1] Polski, [2] French, [3] Spanish, [4] Deutsch → 0 (English)",
+      "Choose your language: [0] English, [1] Polski (Polish), [2] Czech → 0 (English)",
       "Would you like to display the readme? [Y]es, [N]o → N (No)",
-      "Install Component [Creature XP Reduction]? [N]o, [Q]uit or choose one: [1] Reduce to 75%, [2] Reduce to 50%, [3] Reduce to 25%, [4] Reduce to 1/6th for solo play, [5] Reduce to 10%, [6] Increase to 150%, [7] Increase to 200% → 2 (Reduce to 50%)",
-      "Install Component [Locks, Traps and Spells XP Reduction]? [N]o, [Q]uit or choose one: [1] Reduce to 75%, [2] Reduce to 50%, [3] Reduce to 25%, [4] Reduce to 1/6th for solo play, [5] Reduce to 10%, [6] Increase to 150%, [7] Increase to 200% → Q (Quit)"
+      "Would you like to display the components from [Consistent NPCs]? [Y]es, [N]o → N (No)",
+      "Would you like to display the components from [XP adjustments]? [Y]es, [N]o → Y (Yes)",
+      "Would you like to display the components from [Gameplay]? [Y]es, [N]o → N (No)",
+      "Would you like to display the components from [Miscellaneous]? [Y]es, [N]o → N (No)",
+      "Install Component [Total XP CAP]? [N]o, [Q]uit or choose one: [1] 2,950,000, [2] 8,000,000, [3] Disabled, [4] Custom value → N (No)",
+      "Install Component [XP for Traps, Spells and Lockpicking]? [N]o, [Q]uit or choose one: [1] BG1 values (default), [2] BG2 values, [3] Vanilla friendly progressive, [4] Disabled, [5] Custom value → N (No)",
+      "Install Component [XP for killing creatures]? [N]o, [Q]uit or choose one: [1] Increase to 150%, [2] Decrease to 75%, [3] Decrease to 50%, [4] Decrease to 25%, [5] Decrease to 10%, [6] Disable, [7] Custom value → 3 (Decrease to 50%)",
+      "Install Component [XP for quests]? [N]o, [Q]uit or choose one: [1] Increase to 150%, [2] Decrease to 75%, [3] Decrease to 50%, [4] Decrease to 25%, [5] Decrease to 10%, [6] Disable, [7] Custom value → Q (Quit)"
     ]
   },
   "Artisans_Kitpack_Tweaks": {

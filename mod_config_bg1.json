@@ -986,14 +986,14 @@
       "version": "35.21",
       "latest_update": "21-11-2024"
     },
-    "Defjam": {
-      "setup_file": "setup-xpmod.exe",
-      "inputs": ["0", "N", "2", "Q"],
-      "description": "XP mod",
+    "EET_Tweaks": {
+      "setup_file": "setup-EET_Tweaks.exe",
+      "inputs": ["0", "N", "N", "Y", "N", "N", "N", "N", "3", "Q"],
+      "description": "XP modifier",
       "active": "false",
-      "download_url": "https://github.com/Pocket-Plane-Group/D0XPmod/releases/tag/v7",
-      "version": "7",
-      "latest_update": "24-04-2020"
+      "download_url": "https://github.com/K4thos/EET_Tweaks/releases",
+      "version": "1.12",
+      "latest_update": "01-08-2019"
     },
     "Artisans_Kitpack_Tweaks": {
       "setup_file": "Setup-ArtisansKitpack_tweak.exe",
@@ -1074,7 +1074,7 @@
     "ATweaks",
     "Talents_Of_Faerun",
     "Sword_Coast_Stratagems",
-    "Defjam",
+    "EET_Tweaks",
     "Artisans_Kitpack_Tweaks",
 
     "HPS_Portraits_Project"
