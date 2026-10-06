@@ -1596,10 +1596,10 @@
       "setup_file": "Setup-Derats_kits.exe",
       "inputs": ["1", "A", "N", "N", "N", "I", "Q"],
       "description": "Preacher of Flames Kit",
-      "active": "false",
+      "active": "true",
       "download_url": "https://github.com/Deratiseur/DUKP/releases",
-      "version": "18.6",
-      "latest_update": "30-08-2025"
+      "version": "19.0",
+      "latest_update": "03-10-2026"
     },
     "HPS_Portraits_Project": {
       "setup_file": "setup-hps_portraits_project.exe",
