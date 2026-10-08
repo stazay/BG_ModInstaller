@@ -625,9 +625,9 @@
       "inputs": ["0", "N", "N", "N", "N", "N", "I", "I", "N", "I"],
       "description": "Rogue Rebalancing",
       "active": "false",
-      "download_url": "(dead, no up to date link)",
-      "version": "4.90",
-      "latest_update": "03-03-2019"
+      "download_url": "https://github.com/CamDawg/rr",
+      "version": "4.92",
+      "latest_update": "24-04-2026"
     },
     "Improved_Shamanic_Dance": {
       "setup_file": "setup-A7#ImprovedShamanicDance.exe",
