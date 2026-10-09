@@ -198,6 +198,12 @@
       "Install Component [Athkatlan Grounds: The Ink Gallery]? → I (Install)"
     ]
   },
+  "Siamorphes_Weaponry": {
+    "input_notes": [
+      "Would you like to display the readme? [Y]es, [N]o → N (No)",
+      "Install Component [Athkatlan Grounds: Siamorphe's Weaponry - a new shop with levelling weapons]? [I]nstall, or [N]ot Install or [Q]uit → I (Install)"
+    ]
+  },
   "Juniper_and_the_Stone_Leech": {
     "input_notes": [
       "Choose your language: → 0 (English)",
