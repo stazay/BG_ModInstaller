@@ -13,11 +13,11 @@
     },
     "EEex": {
       "setup_file": "setup-EEex.exe",
-      "inputs": ["N", "A", "Y", "N", "I", "I", "I", "N", "N", "N", "I"],
+      "inputs": ["0", "N", "A", "Y", "N", "I", "N", "I", "I", "N", "N", "N", "I"],
       "description": "EEex",
       "active": "true",
       "download_url": "https://github.com/Bubb13/EEex/releases",
-      "version": "1.0.0",
+      "version": "1.3.1",
       "latest_update": "10-05-2026"
     },
     "Stone_Of_Askavar": {

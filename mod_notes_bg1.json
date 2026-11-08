@@ -1,7 +1,7 @@
 {
   "DLCMerger": {
     "input_notes": [
-      "Choose your language: → 0 (English)",
+      "Choose your language: [0] English, [1] Simplified Chinese, [2] Spanish → 0 (English)",
       "Please choose the language in which you wish to play the game: → 2 (English)",
       "Would you like to display the readme? → N (No)",
       "Install Component [Merge DLC into game]? → 3 (Merge all available DLCs)"
@@ -9,11 +9,13 @@
   },
   "EEex": {
     "input_notes": [
+      "Choose your language: [0] English, [1] Simplified Chinese, [2] Spanish → 0 (English)",
       "Would you like to display the readme? → N (No)",
       "Component selection - [1] Minimal, [2] Full, [3] Experimental, [S]kip all, or [A]sk about each: → A (Ask about each one)",
       "Would you like to display the components from [Optional]? → Y (Yes)",
       "Would you like to display the components from [Experimental | WARNING: Only install if you understand the risks]? → N (No)",
       "Install Component [EEex]? → I (Install)",
+      "Install Component [Enable attack info module: Show to-hit chances when hovering attack cursor over target]? → N (Not Install)",
       "Install Component [Enable effect menu module: LShift-on-hover to view spells affecting creature]? → I (Install)",
       "Install Component [Enable empty container module: Highlight empty containers in gray instead of cyan]? → I (Install)",
       "Install Component [Enable hotkey module: Edit override/B3Hotkey.lua to create advanced spell hotkeys]? → N (Not Install)",
