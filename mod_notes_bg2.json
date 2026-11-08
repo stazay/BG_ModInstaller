@@ -15,11 +15,13 @@
   },
   "EEex": {
     "input_notes": [
+      "Choose your language: [0] English, [1] Simplified Chinese, [2] Spanish → 0 (English)",
       "Would you like to display the readme? → N (No)",
       "[A]sk about each component, [S]kip all, or choose a pre-defined selection → A (Ask about each component)",
       "Would you like to display the components from [Optional]? → Y (Yes)",
       "Would you like to display the components from [Experimental | WARNING: Only install if you understand the risks]? → N (No)",
       "Install Component [EEex]? → I (Install)",
+      "Install Component [Enable attack info module: Show to-hit chances when hovering attack cursor over target]? → N (Not Install)",
       "Install Component [Enable effect menu module: LShift-on-hover to view spells affecting creature]? → I (Install)",
       "Install Component [Enable empty container module: Highlight empty containers in gray instead of cyan]? → I (Install)",
       "Install Component [Enable hotkey module: Edit override/B3Hotkey.lua to create advanced spell hotkeys]? → N (Not Install)",
