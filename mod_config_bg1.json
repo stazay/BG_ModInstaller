@@ -896,42 +896,6 @@
       "version": "4.53",
       "latest_update": "06-03-2022"
     },
-    "Talents_Of_Faerun": {
-      "setup_file": "setup-dw_talents.exe",
-      "inputs": [
-        "N",
-        "Y",
-        "N",
-        "N",
-        "N",
-        "N",
-        "N",
-        "Y",
-        "Y",
-        "N",
-        "I",
-        "I",
-        "N",
-        "N",
-        "I",
-        "N",
-        "I",
-        "I",
-        "N",
-        "I",
-        "I",
-        "I",
-        "I",
-        "I",
-        "1",
-        "Q"
-      ],
-      "description": "Talents Of Faerun",
-      "active": "false",
-      "download_url": "https://github.com/Gibberlings3/TalentsOfFaerun/releases",
-      "version": "15",
-      "latest_update": "21-11-2024"
-    },
     "Sword_Coast_Stratagems": {
       "setup_file": "setup-stratagems.exe",
       "inputs": [

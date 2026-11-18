@@ -790,36 +790,6 @@
       "Install Component [BG2-style icons for aTweaks content]? [I]nstall, or [N]ot Install or [Q]uit → I (Install)"
     ]
   },
-  "Talents_Of_Faerun": {
-    "input_notes": [
-      "Would you like to display the readme? [Y]es, [N]o → N (No)",
-      "Would you like to display the components from [Spell system revisions and new spells]? [Y]es, [N]o → Y (Yes)",
-      "Would you like to display the components from [Races and subraces]? [Y]es, [N]o → N (No)",
-      "Would you like to display the components from [Class and kit revisions]? [Y]es, [N]o → N (No)",
-      "Would you like to display the components from [New classes and kits]? [Y]es, [N]o → N (No)",
-      "Would you like to display the components from [Multiclassed/dual-classed kits]? [Y]es, [N]o → N (No)",
-      "Would you like to display the components from [Revised and new high-level and lower-level abilities]? [Y]es, [N]o → N (No)",
-      "Would you like to display the components from [Rule-system changes]? [Y]es, [N]o → Y (Yes)",
-      "Would you like to display the components from [User interface tweaks]? [Y]es, [N]o → Y (Yes)",
-      "Install Component [Install in batch mode (ask about all components before starting installation). DO NOT USE WITH PROJECT INFINITY.]? [I]nstall, or [N]ot Install or [Q]uit → N (Not Install)",
-      "Install Component [Include arcane spells from Icewind Dale: Enhanced Edition]? [I]nstall, or [N]ot Install or [Q]uit → I (Install)",
-      "Install Component [Include divine spells from Icewind Dale: Enhanced Edition]? [I]nstall, or [N]ot Install or [Q]uit → I (Install)",
-      "Install Component [Include bard songs from Icewind Dale: Enhanced Edition]? [I]nstall, or [N]ot Install or [Q]uit → N (Not Install)",
-      "Install Component [Install all spell tweaks (if you don't select this, you will be given a chance to choose by category)]? [I]nstall, or [N]ot Install or [Q]uit → N (Not Install)",
-      "Install Component [Core Stratagems spell-system changes (assumed by Sword Coast Stratagems mod)]? [I]nstall, or [N]ot Install or [Q]uit → I (Install)",
-      "Install Component [Changes to Restoration]? [I]nstall, or [N]ot Install or [Q]uit → N (Not Install)",
-      "Install Component [Changes to shapeshift spells]? [I]nstall, or [N]ot Install or [Q]uit → I (Install)",
-      "Install Component [Icewind Dale-inspired tweaks to Baldur's Gate/Baldur's Gate II spells]? [I]nstall, or [N]ot Install or [Q]uit → I (Install)",
-      "Install Component [Rebalancings of slightly-too-powerful spells]? [I]nstall, or [N]ot Install or [Q]uit → N (Not Install)",
-      "Install Component [Spell school changes]? [I]nstall, or [N]ot Install or [Q]uit → I (Install)",
-      "Install Component [Spells increased in power]? [I]nstall, or [N]ot Install or [Q]uit → I (Install)",
-      "Install Component [Add 9 new arcane spells]? [I]nstall, or [N]ot Install or [Q]uit → I (Install)",
-      "Install Component [Add 6 new divine spells (some borrowed from Divine Remix)]? [I]nstall, or [N]ot Install or [Q]uit → I (Install)",
-      "Install Component [Revised Elementals]? [I]nstall, or [N]ot Install or [Q]uit → I (Install)",
-      "Install Component [Revised ability score modifiers]? [N]o, [Q]uit or choose one: [1] Standard Talents of Faerun system (recommended), [2] Strict pen-and-paper 3rd edition system → 1 (Standard Talents of Faerun system)",
-      "Install Component [Point-buy system for choosing ability scores]? [N]o, [Q]uit or choose one: [1] 75 points, [2] 80 points, [3] 85 points, [4] 90 points, [5] Random points → Q (Quit)"
-    ]
-  },
   "Sword_Coast_Stratagems": {
     "input_notes": [
       "Choose your language: [0] English, [1] Espanol, [2] Polski, [3] Czech, [4] Deutsch, [5] Francais, [6] Italiano, [7] Russian, [8] Simplified Chinese → 0 (English)",
