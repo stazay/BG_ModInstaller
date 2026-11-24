@@ -1463,5 +1463,12 @@
       "Install Component [Add new portraits to original party NPCs]? → N (Not Install)",
       "Install Component [Detect and add missing portraits to all mod's NPCs automatically (No => manual mod selection)]? → 4 (Add missing portraits for all mods installed but do not replace original mods NPCs portraits or Party NPCs portraits)"
     ]
+  },
+  "Portraits_Portraits_Everywhere": {
+    "input_notes": [
+      "Would you like to display the components from [BG2 Companion Portraits]? → N (No)",
+      "Install Component [Portraits Portraits Everywhere (PPE) - core component]? → N (Not Install)",
+      "Install Component [Isandir's CHARNAME Portraits]? → I (Install)"
+    ]
   }
 }

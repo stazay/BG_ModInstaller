@@ -1619,6 +1619,15 @@
       "download_url": "https://github.com/HoldenBG/HPS-Portraits-Project-1.0/releases",
       "version": "1.2",
       "latest_update": "31-05-2026"
+    },
+    "Portraits_Portraits_Everywhere": {
+      "setup_file": "setup-PPE.exe",
+      "inputs": ["N", "N", "I"],
+      "description": "Portraits Portraits Everywhere (Isandir's CHARNAME Portraits only)",
+      "active": "false",
+      "download_url": "https://github.com/smeagolheart/Portraits-Portraits-Everywhere/releases",
+      "version": "1.01",
+      "latest_update": "16-04-2018"
     }
   },
   "install_order": [
@@ -1726,6 +1735,7 @@
     "Artisans_Kitpack_Tweaks",
 
     "Derats_Unused_Kits_Pack",
-    "HPS_Portraits_Project"
+    "HPS_Portraits_Project",
+    "Portraits_Portraits_Everywhere"
   ]
 }
