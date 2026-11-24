@@ -1466,9 +1466,11 @@
   },
   "Portraits_Portraits_Everywhere": {
     "input_notes": [
-      "Would you like to display the components from [BG2 Companion Portraits]? → N (No)",
+      "Would you like to display the components from [BG2 Companion Portraits]? → Y (Yes)",
       "Install Component [Portraits Portraits Everywhere (PPE) - core component]? → N (Not Install)",
-      "Install Component [Isandir's CHARNAME Portraits]? → I (Install)"
+      "Install Component [Isandir's CHARNAME Portraits]? → I (Install)",
+      "Install Component [Replace Low Quality TOB & SOA Portraits]? → I (Install)",
+      "Install Component [Edwin/Edwina]? → Q (Quit)"
     ]
   }
 }

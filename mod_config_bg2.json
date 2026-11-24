@@ -1622,7 +1622,7 @@
     },
     "Portraits_Portraits_Everywhere": {
       "setup_file": "setup-PPE.exe",
-      "inputs": ["N", "N", "I"],
+      "inputs": ["Y", "N", "I", "I", "Q"],
       "description": "Portraits Portraits Everywhere (Isandir's CHARNAME Portraits only)",
       "active": "false",
       "download_url": "https://github.com/smeagolheart/Portraits-Portraits-Everywhere/releases",
