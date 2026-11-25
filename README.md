@@ -39,7 +39,10 @@ This script helps you automate that process for the future, using Python!
      - `latest_update` — date of latest update
    - `install_order` — list of mod keys in the order they should be installed. Only mods listed here will be installed.
      > ⚠️ Mod keys (the names used in `mod_components` and `install_order`) must not contain spaces or apostrophes, as they are used to generate filenames. Use underscores instead, e.g. `Jims_Fix_Pack`.
-4. **Important:** The first input for your very first mod should include the language parameter, e.g. `"2"` for English.
+4. **Important:** The first input for your very first mod should include the language parameter, e.g. `"2"` for English. Also keep in mind:
+   - **List each mod only once in `install_order`.** A duplicate makes WeiDU uninstall and reinstall every mod installed after the first copy, which can break mods such as SCS.
+   - **`inputs` must match the prompts WeiDU actually shows, not every component the mod has.** WeiDU skips prompts for components whose requirements aren't met (for example, one that needs a component you answered `N` to, or one for the other game), and asks nothing after a `Q`. Any extra answer gets fed to the wrong prompt.
+   - **Archives with a single wrapper folder are fine.** If a `.zip` keeps everything inside one top-level folder, the installer unpacks that folder's contents directly into the game directory, so you don't need to repackage it.
 5. Run the relevant launcher:
    - `python bg1_install.py` for BG1
    - `python bg2_install.py` for BG2
